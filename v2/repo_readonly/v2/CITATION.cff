@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: >-
+  If you use this compiled inventory, cite the v2 repository snapshot and the
+  original source datasets listed in sources.csv. This derivative does not
+  replace source-specific citations or licenses.
+title: "Rwanda Landslide Inventory v2"
+type: dataset
+version: "2.0.0"
+date-released: 2026-10-17
+abstract: >-
+  Audited and expanded compilation of reported Rwanda landslide episodes and
+  mapped source contexts, with source-row reconciliation, administrative
+  overlays, DEM slope screening and explicit uncertainty notes. Counts are
+  reporting counts, not normalized risk; mapped geometries include a combined
+  landslide/flash-flood inventory that is not classified per feature.
+repository-code: https://github.com/theoneste2060/rwanda_landslide_inventory
+keywords:
+  - Rwanda
+  - landslide
+  - inventory
+  - geospatial
+  - disaster records
+license: other

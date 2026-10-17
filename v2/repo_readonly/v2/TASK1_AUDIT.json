@@ -1,0 +1,42 @@
+{
+  "header_columns": 25,
+  "valid_data_row_widths": 30,
+  "data_rows": 30,
+  "audit_failures": [
+    {
+      "line": 7,
+      "event_id": "RWA-LS-0006",
+      "issues": [
+        "confidence invalid/misaligned: 'IFRC, Rwanda: Rubavu Landslide DREF Final Report, 2010, https://reliefweb.int/report/rwanda/rwanda-rubavu-landslide-dref-operation-n%C2%B0-mdrrw006-final-report'",
+        "source_3 populated but no URL"
+      ],
+      "row": [
+        "RWA-LS-0006",
+        "2010-03-26",
+        "day",
+        "Western",
+        "Rubavu",
+        "Rubavu",
+        "three cells (unnamed)",
+        "Hills around Mount Rubavu",
+        "-1.698500",
+        "29.371100",
+        "inventory",
+        "±50 km; broad catalog point",
+        "WGS84 (catalog point)",
+        "mudslide/landslide",
+        "prolonged heavy rain/downpour",
+        "14",
+        "",
+        "5,920 affected; 1,184 families homeless",
+        "houses destroyed; small roads, latrines and water wells damaged",
+        "High",
+        "IFRC, Rwanda: Rubavu Landslide DREF Final Report, 2010, https://reliefweb.int/report/rwanda/rwanda-rubavu-landslide-dref-operation-n%C2%B0-mdrrw006-final-report",
+        "https://data.nasa.gov/dataset/global-landslide-catalog-export",
+        "HDX GLIDE Rwanda event table, 2010-03-26, https://data.humdata.org/dataset/100527e3-cd37-4248-8998-310d22325f5f/resource/306f434f-65b7-4f57-8690-f3e1023db32c/download/rwa_glide_events.csv",
+        "IFRC report confirms the date, Rubavu sector and impacts; the NASA point is coarse (catalog uncertainty ~50 km) and not a slide scar centroid. Atlas national 2010 total differs; see report.",
+        ""
+      ]
+    }
+  ]
+}

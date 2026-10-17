@@ -1,0 +1,248 @@
+{
+  "dataset_doi": "https://doi.org/10.4121/15040446.v1",
+  "record_mapping_to_existing": {
+    "2": "RWA-LS-0004",
+    "6": "RWA-LS-0005",
+    "7": "RWA-LS-0005",
+    "11": "RWA-LS-0006",
+    "12": "RWA-LS-0006",
+    "44": "RWA-LS-0008",
+    "49": "RWA-LS-0009",
+    "51": "RWA-LS-0011",
+    "52": "RWA-LS-0011",
+    "54": "RWA-LS-0011",
+    "55": "RWA-LS-0013",
+    "57": "RWA-LS-0015",
+    "63": "RWA-LS-0016"
+  },
+  "new_event_groups": [
+    [
+      1
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      8
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ],
+    [
+      20
+    ],
+    [
+      21
+    ],
+    [
+      22
+    ],
+    [
+      25
+    ],
+    [
+      26
+    ],
+    [
+      27
+    ],
+    [
+      28
+    ],
+    [
+      29
+    ],
+    [
+      31,
+      32
+    ],
+    [
+      33
+    ],
+    [
+      34
+    ],
+    [
+      35
+    ],
+    [
+      36
+    ],
+    [
+      37
+    ],
+    [
+      38
+    ],
+    [
+      39,
+      41
+    ],
+    [
+      40
+    ],
+    [
+      43
+    ],
+    [
+      45
+    ],
+    [
+      46,
+      47
+    ],
+    [
+      48
+    ],
+    [
+      50
+    ],
+    [
+      53
+    ],
+    [
+      56
+    ],
+    [
+      58
+    ],
+    [
+      59
+    ],
+    [
+      60
+    ],
+    [
+      61
+    ],
+    [
+      62
+    ],
+    [
+      65
+    ],
+    [
+      66
+    ],
+    [
+      67
+    ],
+    [
+      68
+    ],
+    [
+      69
+    ],
+    [
+      70
+    ],
+    [
+      42
+    ]
+  ],
+  "excluded_records": {
+    "23": "4TU labels the row as a mudslide, but its cited report is a flood-disaster headline with no separately verifiable slope-failure location; not admitted as a landslide event.",
+    "24": "No event-specific title or description beyond a generic inventory row with explicit zero impacts; not admitted as a distinct disaster without independent event evidence.",
+    "30": "Generic DOI-only point on the same date as the detailed Ngororero road-block report (OID 29), but in a different district and with no separate event narrative; retained as an unresolved candidate, not merged or counted as an event.",
+    "64": "The linked article reports heavy-rain road damage but does not establish a landslide; retained as an excluded source claim rather than an observed landslide event."
+  },
+  "row_overrides": {
+    "2": {
+      "event_id": "RWA-LS-0004",
+      "injuries_min": "",
+      "injuries_max": "",
+      "people_affected": "2000",
+      "decision_note": "4TU injury_count=2,000 is inconsistent with the event narrative and original atlas impact field; treat 2,000 as affected people, not injuries."
+    },
+    "20": {
+      "date_start": "2011-05-05",
+      "date_end": "2011-05-07",
+      "date_precision": "range",
+      "districts": [
+        "Nyabihu"
+      ],
+      "fatalities_min": "13",
+      "fatalities_max": "14",
+      "injuries_min": "11",
+      "injuries_max": "11",
+      "decision_note": "Date and district bounds reconciled to the GFLD 2011-05-05 Nyabihu point and the 4TU 2011-05-07 row; the 2018 paper table reports May 2011, Nyabihu, 14 deaths and 11 injuries. The 4TU coordinate is not mapped because its 5 km point overlays Ngororero rather than Nyabihu."
+    },
+    "65": {
+      "date_start": "2019-12-05",
+      "date_end": "",
+      "date_precision": "day",
+      "districts": [
+        "Musanze"
+      ],
+      "decision_note": "Correct 4TU event_date 2019-05-12 to 2019-12-05. The workbook narrative explicitly says Thursday 5 December 2019; Kigali Today search metadata and AllAfrica’s dated reproduction corroborate Dec. 5/6, 2019."
+    },
+    "70": {
+      "date_start": "2021-05-10",
+      "date_end": "",
+      "date_precision": "day",
+      "districts": [
+        "Nyamasheke"
+      ],
+      "fatalities_min": "0",
+      "fatalities_max": "0",
+      "fatalities_note": "The 11 May 2021 IGIHE article states no one died; the landslide occurred overnight into 10 May 2021.",
+      "houses_destroyed": "39",
+      "houses_damaged": "78",
+      "people_affected": "631",
+      "decision_note": "Correct 4TU event_date 2021-09-04 to 2021-05-10 using the full IGIHE article: 39 homes destroyed, 78 cracked/damaged, 74 families/395 people housed and 43 families/236 people not yet housed, no fatalities. The article was published 2021-05-11."
+    },
+    "42": {
+      "date_start": "2013-05-03",
+      "date_end": "2013-05-05",
+      "date_precision": "range",
+      "districts": [
+        "Rulindo"
+      ],
+      "fatalities_min": "8",
+      "fatalities_max": "12",
+      "fatalities_note": "IGIHE reports 10 rain-related deaths in Rulindo and specifically attributes eight to landslides in Burega/Kinzuzi; RFE/RL reports ten deaths for the 3–5 May rain episode; the 2018 paper Table 1 reports 12 deaths for May 2013 Rulindo. Keep 8–12 as source/scope bounds; do not average or call all 12 site-confirmed.",
+      "decision_note": "OID 42 has blank country and lat/lon fields, but embedded Shape=30.023501 -1.725002 overlays Rulindo ADM2 as lon/lat. Add as a coarse event-reference point, not a slide-scar coordinate. IGIHE/VOA independently support 3–5 May 2013, Rulindo and ten rain-related deaths; IGIHE attributes eight specifically to landslides. Paper Table 1 reports 12 for May/Rulindo; retain the conflict.",
+      "primary_trigger": "rainfall"
+    }
+  },
+  "site_exclusions": {
+    "10": "Same 2009-05-11 Gicumbi event as OID 9, but this duplicate inventory coordinate is ~300 km away in Nyungwe/Rusizi; keep source row and event match, suppress this conflicting point.",
+    "11": "Matched by date/impact to the 2010 Rubavu event, but this 5 km coordinate overlays Gicumbi and conflicts with the IFRC location; do not map.",
+    "12": "IFRC/ReliefWeb reference coordinate is tagged ±50 km and is not a slide site; suppress from sites.",
+    "20": "5 km source point overlays Ngororero while the reconciled event district is Nyabihu; do not map this inconsistent coordinate.",
+    "32": "Same 2012-05-19 event group as OID 31 but point conflicts with the source-described district; preserve in crosswalk, suppress point.",
+    "47": "Same 2014-02-23 Rulindo report as OID 46 but this DOI-inventory point overlays Kigali City; preserve in crosswalk, suppress point.",
+    "55": "2016-12-06 event is reported in Gasabo but the 5 km coordinate overlays Gakenke; suppress point.",
+    "57": "2018 multi-district report names Kigali/Rulindo/Gatsibo; the inventory point overlays Musanze, outside all reported event districts; suppress point.",
+    "63": "2018-05-06 event is reported in Karongi but the inventory point overlays Musanze; suppress point."
+  },
+  "general_rule": "Each new 4TU event group receives a stable RWA-LS-4TU-NNN event_id. OIDs not in the Rwanda row mapping, new groups or explicit exclusions are rejected as an unreviewed row. Date corrections and unmatched source claims remain visible in the 4TU reconciliation table."
+}
