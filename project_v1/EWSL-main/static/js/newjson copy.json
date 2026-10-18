@@ -1,0 +1,914 @@
+[
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.746639584471495, -1.5689887348097358],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.836838297474202,
+        "lat": -1.3345475230458845,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.64291106451938, -1.5058723683090705],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.52565273761607,
+        "lat": -1.4337371443083242,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.64291106451938, -1.5239058057428565],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.503103059365827,
+        "lat": -1.5554639568412227,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.67899054971906, -1.5599722258332491],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.674480614070376,
+        "lat": -1.4382456635897967,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.755659455772303, -1.6005462086991855],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.68350048536945,
+        "lat": -1.4743134948328276,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.927037010475175, -1.591529836726977],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.832328361823812,
+        "lat": -1.5780052049204158,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.49408313572519, -1.6681677455063095],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.701540175629447, -1.771849515284444],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.863897859033273, -1.659151676315176],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.84585811643342, -1.704231606848026],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.331725452319688, -1.9476442899901087],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.309175774069416, -1.7132474672136908],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.394864551421733, -1.722263285144237],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.521142749625824, -1.821434417937624],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.620361333927633, -1.5870216620765092],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.53918249222565, -1.8845404974037478],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.79173888863221, -1.762833934729045],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.95409657203595, -1.632103223060028],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.615851398277215, -1.6230869908244756],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.55271229917517, -1.6230869908244756],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.593301720026943, -1.654643626295453],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.678990497379232, -1.6005462348324926],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.624871269577994, -1.7312790604175206],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.83232830948222, -1.343564957253463],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.863897859033273, -1.3480736488217815],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.76918921038191, -1.3390562573646747],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.82781837383186, -1.361599673318679],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.895467408584295, -1.361599673318679],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.854877987734255, -1.37512562191867],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.64291101217779, -1.8259420692519654],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.74663953212996, -1.7808650519568658],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.890957472933906, -1.6771837733776778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.94056676508481, -1.654643626295453],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.363295001870682, -1.7583261280640698],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 29.88193765397469,
+        "lat": -1.541939092179632,
+        "PROFILE": 38,
+        "PLAN": 43,
+        "CHANGE": 2,
+        "LANDUSE": 10,
+        "ELEVATION": "elevation",
+        "SLOPE": "slope",
+        "ASPECT": "aspect",
+        "TWI": "twi",
+        "SPI": 24,
+        "DRAINAGE": 36,
+        "NDVI": 16,
+        "RAINFALL": 29,
+        "FAULTLINES": 32,
+        "ROAD": 88,
+        "GEOLOGY": 18
+      },
+      "geometry": {
+        "coordinates": [29.430944036623146, -1.9701807899923693],
+        "type": "Point"
+      }
+    }
+  ]
+  
+  

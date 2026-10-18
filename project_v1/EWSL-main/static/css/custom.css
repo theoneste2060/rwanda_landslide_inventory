@@ -1,0 +1,59 @@
+body{
+    background-color: whitesmoke;
+}
+    .card {
+        margin-bottom: 0px;
+    }
+    .red-bg {
+        background-color: red !important;
+    }
+    .warning-bg {
+        background-color: orange !important;
+    }
+    .green-bg {
+        background-color: lightgreen !important;
+    }
+    table {
+        margin-bottom: 0px;
+        width: 100%;
+    }
+    .navbar-brand {
+        margin-right: auto;
+    }
+    .navbar-nav {
+        margin: 0 auto;
+    }
+    .profile-image {
+        border-radius: 50%;
+        margin-right: 10px;
+    }
+    #map {
+        height: 400px;
+        margin-right: -20px;
+        margin-left: 16px
+        
+    }
+    .active {
+        font-weight: bold;
+        color: green; /* Make the active menu item bold */
+        }
+    .active:hover{
+        font-weight: bold;
+        color: green; /* Make the active menu item bold */
+        }
+        .list-group-item {
+  padding: 0.2rem 1.0rem; /* Adjust the padding */
+  
+}
+.list-group-down {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; /* Allow wrapping to multiple lines if needed */
+    list-style: none; /* Remove default list styles */
+    padding-left: 0; /* Remove default list padding */
+  }
+
+  .nav-link:hover {    
+    cursor: pointer; /* Optional: Change cursor to pointer on hover */
+    background-color: lightsalmon;
+}
