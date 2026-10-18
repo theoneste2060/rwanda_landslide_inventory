@@ -1,0 +1,4 @@
+SYNTHETIC ONLY. No Rwanda observations, rainfall series, terrain labels, or model estimates are used.
+The rainfall curve is a fitted log-log intensity-duration relationship from synthetic event windows only; I at 24 h is a curve value, not a warning threshold. No non-event rain windows are simulated, so false alarms and event probability cannot be estimated.
+The logistic data are balanced case-control samples from a fixed two-feature process. The AUC range is the 2.5th–97.5th percentile across independent synthetic train/test replications, not a confidence interval for any real model.
+Use only to demonstrate sampling variability and test the code path.

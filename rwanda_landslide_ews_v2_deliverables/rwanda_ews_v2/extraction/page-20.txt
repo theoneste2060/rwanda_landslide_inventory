@@ -1,0 +1,40 @@
+2.4.3.2 Variable importance analysis and the origin of the landslides
+
+To investigate the impact of each separate predictor variables on landsliding, we calibrated
+a univariate susceptibility model of which the AUC value is a metric for the importance of
+the one used variable for landslide occurrence (Figure 4). This approach is commonly used in
+the literature (Reichenbach et al., 2018) and was already applied successfully by Depicker et
+al. (2020b) for the Lake Kivu region.
+
+
+
+
+Figure 4: Variable importance in the logistic regression model
+
+
+Figure 4 shows that slope is the main explanatory variable, followed by elevation, distance to
+fault, etc. The role of slope is not unexpected, as relief is the ultimate driver of landslide activity
+(Schmidt and Montgomery,1995), especially in hilly and mountainous landscapes such as those
+of Rwanda. The role of elevation could be explained by the general increase of convective
+rainfall with altitude. Depicker et al. (2020a, 2020b) showed that rainfall thresholds for
+landsliding are exceeded more often at higher elevations in the Lake Kivu region. At ﬁrst sight, it
+might seem strange that distance to faults and PGA, proxies for seismicity, seem to play a role,
+despite our observation that all recent landslides were rainfall-triggered. A possible reason for
+the high importance of these variables could be the role of seismo-tectonic activity as a
+preparatory factor for landsliding, rather than a triggering factor. Seismicity weakens the
+hillslope material and hence reduce the minimum critical area for landslide initiation (Depicker
+et al., 2020a). Distance to river is certainly to be explained with presence of knickpoints and the
+continuous adaptation of the hillslope to river incision (Bennett et al., 2016).
+The other variables play a minor role. It is however important here to keep in mind that the
+inventory used in the analysis was built from Google Earth images. As stressed in the inventory
+section, this implies that many of the very small landsides that are found along the roads are not
+mapped; which could be a reason why the role of roads on the occurrence of landsliding is less
+highlighted through the susceptibility assessment. Another reason of this limited role of roads is
+certainly to be found in the resolution of the topographic information used to derive the
+predictors. Road landslides are linked to engineered slope controls that cannot be constrained
+from topographic products such as the 10 m and 30 m resolution DEM (Jacobs et al., 2018;
+Dewitte et al., 2021).
+
+
+                                                                                                 19
+

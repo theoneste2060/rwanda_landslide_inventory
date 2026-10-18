@@ -1,0 +1,48 @@
+2.7 Step 5: Landslide risk assessment conclusion
+
+2.7.1 Summary
+
+This study has been undertaken to assess landslide risk in the sub-catchments of
+Rwandex-Magerwa, Bishenyi, Rwabayanga and Rusizi. The deliverable has been landslide
+risk maps for each watershed (refer to pdf maps accompanying report). Maps are classiﬁed
+in several classes.
+The study has produced landslide risk maps in the form:
+       • Landslide inventories (step 1);
+       • Landslide susceptibility maps (step 2);
+       • Landslide hazard maps (step 3);
+       • Exposure databases (step 4)
+
+2.7.2 Conclusion
+
+The risk maps are here visual combinations of landslide process scenarios and land use
+categories. They allow to highlight the places where the risk could be the more problematic.
+Depending on the slope instability processes and the land use, the risk is different. For
+example, places where deep-seated landslides are located are areas where ground
+deformations are expected to be the larger (independently from soil creep, which is not
+discussed here, although highlighted in step 1). Such deformations can be very slow (a few
+centimetres per year or even less; e.g. Nobile et al., 2019; Dille et al., 2021) and therefore be
+not at all a problem for agricultural land. On the contrary, building a new road or heavy
+infrastructures on such areas could create problems (fractures, etc.) as most foundations
+cannot be deep enough to reach a stable bedrock below the surface of rupture of the
+landslides. While slow-moving deformations can have pervasive impacts difﬁcult to
+mitigate, people are not in immediate dangers.
+
+The hazard scenario we have computed here concerns shallow landslide processes. Their
+impacts will be much different from those of deep-seated processes. In terms of direct
+impacts, such shallow landslides can directly cover a road, but will not really damage it.
+Concerning big buildings with deep foundations, such landslides will also have minor
+impacts. However, shallow landslides can potentially remove a lot of soil and therefore have
+impacts of the fertility level of the agricultural land. Shallow landslides are in the region
+commonly associated with heavy rainfalls. They can occur very quickly and be responsible
+of fatalities.
+
+When looking at such documents, we must be aware that further investigations are needed
+to really assess the problem, not only in terms of landslide process understanding (location,
+mechanism, deformation rate), but also in terms of vulnerability and direct and indirect
+impacts.
+
+
+
+
+                                                                                           31
+

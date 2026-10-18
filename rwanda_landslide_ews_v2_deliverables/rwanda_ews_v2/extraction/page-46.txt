@@ -1,0 +1,45 @@
+3.4    Measures to reduce the hazard
+
+When avoidance is not an option, other mitigation measures must be considered. Mitigation
+measures which aim to reduce the hazard must reduce the probability of triggering of the
+landslide(s) which the speciﬁc measure is intended to address. This type of mitigation
+measures are sometimes referred to as “stabilization”.
+
+The stability of any hillslope is decided by a balance of forces between stresses driving
+downward movement (shear stress) and stresses resisting to movement (shear strength) at
+the bottom interface between the landslide mass and the stable material, with gravity as the
+primary driving force (Lu and Godt, 2013). Thus, factors (or forcings) that affect the shear
+strength (e.g., weathering, vegetation, past movement, variation in pore-water pressure or
+changes in hydrologic conditions/properties) or the shear stress acting on the hillslope (e.g.,
+mass redistribution, debuttressing at the toe, transient loading from earthquakes) are
+potential causes to landslide failure and/or acceleration (Sidle and Ochiai, 2006; Lu and
+Godt, 2013; Lacroix et al., 2020).
+
+This mechanical balance between driving and resisting forces is mediated by the presence of
+water in the slope and quantiﬁed using the concept of effective stress (Lu and Godt, 2013).
+Water inﬁltration will lead to the build-up of pore-water pressure within the slope
+(generally depicted by the transient development of a perched water table), which will
+typically reduce the shear strength of the slope material (Sidle and Ochiai, 2006) and
+increase shear stress due to the weight of water (Lu and Godt, 2013). Besides, interactions
+between forcings – such as the combination of rainfalls with earthquake(s) – may affect the
+slope stability further than each forcing individually, illustrating the complexity of
+landslides mechanisms (Lacroix et al., 2020). It is to be noted that, when considering factors
+conditioning the hillslope stability, it is important to account that the forcings triggering
+initial failure (i.e., landslide occurrence) may be different from forcings controlling later
+motion (if any).
+
+Independently of the causative processes and the complexity of the speciﬁc geosystem
+under consideration the factors which determine the triggering of movements are:
+
+       a) decrease in shear strength
+       b) increase in shear stress
+
+The ratio between shear strength and shear stress forms the factor of safety (FS), i.e. an easy
+approach to discuss what drives the stability of a slope. This ratio may change over time in
+response to environmental changing conditions (Figure 12 and Figure in Appendix 1.2).
+
+
+
+
+                                                                                         45
+

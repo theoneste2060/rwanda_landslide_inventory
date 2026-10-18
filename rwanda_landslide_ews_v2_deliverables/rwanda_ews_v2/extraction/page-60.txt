@@ -1,0 +1,57 @@
+3.9.3 Proposed mitigation measures
+
+The mitigation measures proposed for the four study areas are informed by the Catchment
+Restoration Opportunity Mapping Support System (CROM DSS). The emphasis is here again
+placed on the assumption that, should landslides occur, these would be shallow landslides
+leading mostly to soil erosion. This assumption provides the rationale for the application of
+CROM DSS measures. The Catchment Restoration Opportunities Matrix presented in the
+Table 17 below summarizes the different erosion control measures according to the slopes,
+soil depth categories and geology.
+
+Table 17: CROM matrix of slope / soil depth classes and alternative land use options
+         Soil depth�                          > 0.5 m                                             < 0.5 m
+Land slope�
+
+1: (0-6%)              Class I                                                 Class VI
+                          Agroforestry + contour ploughing + alley               Agroforestry + contour ploughing +
+                           cropping with grass strips                              alley cropping with grass strips
+                                                                                  Forestation where soil depth is too
+                                                                                   limited and unsuitable for crops.
+                                                                                  Perennial crops, coffee, tea, banana,
+                                                                                   fruit trees
+2: (6 - 16%)           Class II                                                Class VII-a
+                          Progressive terraces (reinforced by                    Progressive terraces (reinforced by
+                           agroforestry hedges and grass strips)                   agroforestry hedges and grass strips)
+                          Perennial crops, coffee, tea, banana, fruit trees      Perennial crops, coffee, tea, banana,
+                                                                                   fruit trees
+                                                                                  Forestation where soil depth is too
+                                                                                   limited and unsuitable for crops
+3: (16 - 40%)          Class III                                               Class VII-b
+                          Bench terraces (option only in case of suitable,       Progressive terraces (reinforced by
+                           stable parent material / geology; avoid                 agroforestry hedges and grass strips)
+                           introducing landslide risks)                           Forestation where soil depth is too
+                          Progressive terraces (reinforced by                     limited and unsuitable for crops
+                           agroforestry hedges and grass strips)                  Perennial crops, coffee, tea, banana,
+                          Perennial crops, coffee, tea, banana, fruit trees       fruit trees
+4: (40- 60%)           Class IV                                                Class VIII-a
+                          Narrow cut terraces (option only in case of            Forestation (Biological measures) +
+                           suitable, stable parent material / geology;             trenches / ditches
+                           avoid introducing landslide risks)
+                          Progressive terraces (reinforced by
+                           agroforestry hedges and grass strips)
+                          Forestation (Biological measures)
+                          Perennial crops, coffee, tea, banana, fruit trees
+5: (> 60)              Class V                                                 Class VIII-b
+                          Forestation (Biological measures) + trenches /         Natural vegetation
+                           ditches
+                          Perennial crops, coffee, tea, banana, fruit trees
+
+
+In line with the existing land use in each of the sub-catchments, the following mitigation
+measures are proposed:
+
+
+
+
+                                                                                                                    59
+

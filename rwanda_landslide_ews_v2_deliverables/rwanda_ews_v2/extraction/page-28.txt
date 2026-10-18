@@ -1,0 +1,45 @@
+The model we provide shows trends and will never be able to tackle, at the local scale of these
+sub-catchments, the random processes associated with stochastic weather events. Together
+with the hazard assessment, we provide the inventory of the deep-seated landslides and
+highlight the susceptibility to ground deformations. Since we do not have measure of the
+ground deformation rates, we cannot provide a hazard scenario. However, as observed in other
+regions, and notably in the region of Bukavu in DRC that is close to Rwanda, ground
+deformations in such landslides can be pervasive (Nobile et al., 2018; Dille et al., 2021). As such,
+on a short time scale, independent of the weather conditions, disturbances due to existing
+deep-seated landslides are potentially higher. This needs further investigation.
+
+2.6    Step 4: Exposure and vulnerability
+
+2.6.1 Objectives
+The goal of exposure and vulnerability assessment is to build an exposure database and
+assess the vulnerability of the elements at risk to landslides. Seeing we did not receive any
+vulnerability databases produced by other parties to assess the elements at risk based on
+previous landslides, we carried out a spatial overlap of hazard zonation and elements at risk.
+Such an approach using a simple exposure analysis is common in the literature as acquiring
+detailed vulnerability information remains generally a challenge, which would require
+signiﬁcant research investment that is not compatible with the duration of this study (Glade
+et al., 2006; Corominas et al.,2014).
+
+2.6.2 Results
+Results were produced from a desktop exercise by spatially overlapping the hazard zonation
+(landslide rate) developed in Step 3 (Figure 8) with the different land use categories. Results
+are presented for two scenarios summarised in tables 8 and 9 below: -
+       Elements at risk for the current land use situation;
+       Elements at risk for the projected land use master plan 2050.
+
+
+
+
+       Landslide rate
+         2          2
+      (m /year/km )
+             1
+            18
+            90
+           365
+
+
+
+
+                                                                                              27
+

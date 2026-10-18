@@ -1,0 +1,48 @@
+2.4    Step 2: Landslide susceptibility assessment
+
+2.4.1 Objective
+The goal of this step is to assess where landslides may occur in the study areas and to produce,
+for the four sub-catchments, landside susceptibility maps.
+
+2.4.2 Method
+
+2.4.2.1 The role of the landslide inventories
+The number of inventoried landslides in Step 1 is much too limited for applying any data-driven
+susceptibility and hazard assessment at the scale of the four, relatively small, sub-catchments
+(Corominas et al., 2014; Reichenbach et al., 2018; Depicker et al., 2020b). Therefore, to speciﬁcally
+compute data-driven models and meet the commitments that we could have expected if more
+landslides were present in the sub-catchments, we decided to use, as an extra, an existing regional
+inventory of shallow landslides that covers the Lake Kivu region. In Rwanda, this inventory covers
+all the regions west of Kigali (Figure 3). The inventory has already been used for several
+susceptibility and hazard assessments in the region (Depicker et al. 2020a, 2020b) and should be
+made publicly available once a manuscript currently in review (Depicker et al., in review) is
+published. From this inventory, it is possible to calibrate regional data-driven susceptibility (and
+subsequently hazard) models that cover the four sub-catchments at once. Since the assessments
+are made at the regional level, it also allows us to compare the four study sites with each other.
+In this study, we therefore used two inventories for two types of susceptibility assessments,
+one produced speciﬁcally here (Inventory 1 – see Step 1 for details) and one from other works
+(Inventory 2):
+
+    Inventory 1 – used for sub-catchment susceptibility to ground deformations within the
+    old and recent deep-seated landslides:
+For the old and recent deep-seated landslides, the hazard assessment, even at the regional
+level, cannot be assessed without any accurate information on their timing of occurrence. For
+the sole susceptibility assessment, although a regional model for these landslides is already
+available (Depicker et al., 2020b), its use at the local scale is meaningless; a regional model for
+deep-seated landslides provides only an information on their general distribution patterns. At
+the local scale, the exact location of a future deep-seated slope failure is here impossible to
+predict from a data-driven model since it depends on heterogenous local conditions
+associated with the lithology and hydrogeology that are not known (Dille et al., 2019).
+However, deep-seated landslides are places where the hillslope material has been disturbed.
+Therefore, the landsides are portions of hillslopes that are more easily prone to ground
+deformations (e.g. Nobile et al., 2018; Dille et al., 2021). For the recent landslides, such
+deformations are often visible and the delineation of the active zones is straightforward
+(Figure 2 d).
+For the old landslides, although such deformations can be unnoticed to the naked eye, their effect
+can be pervasive and, on a relatively long period, impacts the infrastructures (ﬁssures, cracks).
+
+
+
+
+                                                                                               13
+

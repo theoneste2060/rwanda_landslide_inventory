@@ -1,0 +1,31 @@
+3.2    Types of mitigation measures
+
+Potential mitigation measures that could be implemented in the framework of this analysis
+are numerous (Turner and Schuster, 1996). Here we follow the classiﬁcation proposed by
+the SafeLand project (https://www.ngi.no/eng/Projects/SafeLand); the SafeLand report
+(SafeLand, 2012) is attached as a supportive document. Table 12 shows that the Total Risk
+associated with landslides can be mitigated by reducing:
+
+      the Hazard – H- (i.e. the probability of occurrence of one or more phenomena);
+      the Vulnerability – V - (i.e. the degree of loss to the elements at risk for a given hazard);
+      the Elements at risk – E- (i.e. their number and/or speciﬁc value).
+
+Table 12 makes the difference between structural and non-structural measures. In general
+terms, it means:
+      “structural” measures include, but are not limited to drainage, erosion protection,
+      channelling, vegetation, ground improvement, barriers such as earth ramparts, walls,
+      artiﬁcial elevated land, anchoring systems and retaining structures; buildings
+      designed and/or placed in locations to withstand the impact forces of landslides and to
+      provide safe dwellings for people, and escape routes;
+      “non-structural” or more generally “consequence reducing measures” include, but are not
+      limited to: retreat from hazard, land-use planning, early warning, public preparedness,
+      (escape routes, etc.) and emergency management.
+
+
+ Table 12: General classiﬁcation of mitigation measures (SafeLand, 2012).
+
+
+
+
+                                                                                            43
+

@@ -1,0 +1,2466 @@
+Landslide Risks Assessment
+and Mitigation in Four Urban
+ Sub-catchments in Rwanda
+
+
+
+
+         October 2021
+Table of Contents
+
+1. EXECUTIVE SUMMARY ...............................................................................................................                                                              4
+ 1.1 Landslide risk assessment ................................................................................................................................................                    4
+ 1.2 Proposal of landslide mitigation measures ...............................................................................................................                                     5
+
+2. SECTION 1: LANDSLIDE RISK ASSESSMENT ......................................................................                                                                                    6
+ 2.1 Introduction ...........................................................................................................................................................................      6
+ 2.2 Available knowledge and required data .....................................................................................................................                                   7
+ 2.3 Step 1: Comprehensive multi-temporal landslide inventory .............................................................................                                                        8
+  2.3.1 Objective ..........................................................................................................................................................................       8
+  2.3.2 Method ..............................................................................................................................................................................      8
+  2.3.3 Results ...............................................................................................................................................................................    9
+ 2.4 Step 2: Landslide susceptibility assessment .............................................................................................................                                    13
+  2.4.1 Objective ..........................................................................................................................................................................      13
+  2.4.2 Method ..............................................................................................................................................................................     13
+  2.4.3 Results ...............................................................................................................................................................................   17
+ 2.5 Step 3: Landslide hazard assessment ..........................................................................................................................                               23
+  2.5.1 Objective ..........................................................................................................................................................................      23
+  2.5.2 Method ..............................................................................................................................................................................     23
+  2.5.3 Results ...............................................................................................................................................................................   24
+ 2.6 Step 4: Exposure and vulnerability ...............................................................................................................................                           27
+  2.6.1 Objectives ........................................................................................................................................................................       27
+  2.6.2 Results ...............................................................................................................................................................................   27
+  2.6.3 Comparative analysis of impacted land use categories .................................................................................                                                    30
+ 2.7 Step 5: Landslide risk assessment conclusion ..........................................................................................................                                      31
+  2.7.1 Summary ...........................................................................................................................................................................       31
+  2.7.2 Conclusion .......................................................................................................................................................................        31
+ 2.8 Literature consulted for the landslide risk assessment .......................................................................................                                               32
+ 2.9 Appendices .............................................................................................................................................................................     37
+  2.9.1 Appendix 1 .......................................................................................................................................................................        37
+
+3. SECTION 2: PROPOSAL OF POTENTIAL LANDSLIDE MITIGATION MEASURES..... 39
+
+ 3.1 Introduction ...........................................................................................................................................................................     39
+ 3.2 Types of mitigation measures .........................................................................................................................................                       43
+ 3.3 Criteria for selection of the mitigation measures ...................................................................................................                                        44
+ 3.4 Measures to reduce the hazard .....................................................................................................................................                          45
+ 3.5 Measures to reduce the vulnerability .........................................................................................................................                               49
+ 3.6 Measures to reduce the elements at risk ...................................................................................................................                                  52
+ 3.7 Highlight on CROM DSS ...................................................................................................................................................                    53
+ 3.8 Gully erosion ..........................................................................................................................................................................     55
+ 3.9 Speciﬁc landslide mitigation measures for the study areas ................................................................................                                                   57
+  3.9.1 Assumptions ....................................................................................................................................................................          57
+  3.9.2 Areas with the highest susceptibility to landslides ..........................................................................................                                            58
+  3.9.3 Proposed mitigation measures ................................................................................................................................                             59
+  3.9.4 Bill of quantities .............................................................................................................................................................          60
+  3.10 Literature consulted for the landslide mitigation measures .........................................................................                                                       60
+  3.11 Appendices .......................................................................................................................................................................         63
+    3.11.1 Appendix 1– landslide types and processes ..................................................................................................                                           63
+    3.11.2 Appendix 2 – mitigation approaches (extra information) .......................................................................                                                         65
+    3.11.3 Appendix 3 – Examples of terracing types ....................................................................................................                                          67
+List of Tables
+Table 1: Landslide predictor variables evaluated for the susceptibility analysis, themes according to
+Reichenbach et al. (2018) ..............................................................................................................................................................                      16
+Table 2: Validation of the susceptibility models using a 10-fold cross validation procedure ............................                                                                                      18
+Table 3: Areas per landslide susceptibility class per site ..................................................................................................                                                 21
+Table 4: Sub-catchment average values of landslide susceptibility .............................................................................                                                               21
+Table 5: Sub-catchment average values of landslide frequency (mean landslide frequency and mean
+landslide affected area) ..................................................................................................................................................................                   21
+Table 6: Landslide hazard categories .......................................................................................................................................                                  25
+Table 7: Areas per landslide hazard rate class per site ......................................................................................................                                                26
+Table 8: Landslide exposure database for the current land use situation as per 2018 land use plans ..........                                                                                                 28
+Table 9: Landslide exposure database for the projected land use masterplan 2050 ............................................                                                                                  29
+Table 10: Variance inﬂation factor for the continuous variables used in the landslide susceptibility
+model .....................................................................................................................................................................................................   37
+Table 11: Condition Indices (CIs), calculated for the continuous variables used in the landslide
+susceptibility model ........................................................................................................................................................................                 38
+Table 12: General classiﬁcation of mitigation measures (SafeLand, 2012) ..............................................................                                                                        43
+Table 13: Triggering factors with examples of common causative/forcing processes. Adapted from
+Leroueil (2001) and Lu and Godt (2013) .................................................................................................................................                                      46
+Table 14: Landslide Hazard Mitigation Measures (adapted from Popescu & Sasahara, 2009) ........................                                                                                               48
+Table 15: Surface areas under the two highest landslide hazard classes ..................................................................                                                                     57
+Table 16: Existing land use in areas with the highest susceptibility to landslides ..................................................                                                                         58
+Table 17: CROM matrix of slope / soil depth classes and alternative land use options .......................................                                                                                  59
+Table 18: Summary of proposed mitigation measures ......................................................................................................                                                      60
+
+
+
+List of Figures
+Figure 1: Landslide risk assessment methodology...............................................................................................................                                                 7
+Figure 2: Examples of landslides and other slope processes inventoried from Google Earth ......................                                                                                               12
+Figure 3: Landslide and knickpoint inventory for Rwanda (from Depicker et al., 2020a) .....................................                                                                                   15
+Figure 4: Variable importance in the logistic regression model ......................................................................................                                                         19
+Figure 5: Landslide susceptibility in the four study areas (purple and blue areas are inventoried landslides)...........                                                                                      20
+Figure 6: Relationship between landslide susceptibility and landslide affected area (i.e. landslide rate) ...                                                                                                 23
+Figure 7: A) Probability density. B) Probability density weighted for landslide rates (i.e. affected area) ....                                                                                               24
+Figure 8: Landslide hazard maps (purple and blue areas are inventoried landslides) ...........................................                                                                                25
+Figure 9: Comparative analysis impacted land use categories – current and projected land use plans ............                                                                                               30
+Figure 10: Framework for landslide risk management. Adapted from Fell et al. (2008) .....................................                                                                                     40
+Figure 11: A) Relative root strength following tree removal. Depending on tree species and site character-
+istics, the period of highest susceptibility for shallow landslides is between 3 to 15–20 after timber
+harvest; however, a rainfall event is still required to initiate a landslide, but with a lower threshold. Once
+regenerating tree roots fully establish, the risk of shallow landslides returns to pre-harvest conditions.
+Source: Sidle and Bogaard, 2016. B) Road effects on slope stability and drainage. Source: Sidle and Ochiai,
+2006. C) Urban and residential inﬂuences on slope stability. Source: Sidle and Ochiai, 2006 ............................                                                                                      42
+Figure 12: Stability states and destabilising factors. Adapted from Glade and Crozier (2005). Landslides
+occur when the factor of safety ..................................................................................................................................................                            46
+Figure 13: Stability Schematic demonstrating the possible forcings of landslides....................................................................                                                          47
+Figure 14: Schematic representation of structural damage to buildings for different landslide types.
+Damage is assigned to slide and ﬂow processes (a), to ﬂows (b), to falls and topples (c), to subsidence (d), and
+to rock avalanches or large rock failures ...................................................................................................................................... 50
+Figure 15: Schematic consequences of different velocities of movement for different landslide types. A
+slide creeps (a.1) or fails suddenly (a.3). A debris ﬂow progresses in low (b.1) or high velocities (b.3) with
+respective changes in ﬂow height. A slow or fast moving rock fall damages, depending on the size and
+consequent momentum, elements at risk to a different degree (c). The degree depends on the distance
+between the process and the location of the element at risk............................................................................................. 51
+Figure 16: A) Cropland and planted forest with different measures for soil conservation (contour plough-
+ing & bund, terracing, etc.). Note also the presence of shallow landslides (red arrows). Photo taken in
+September 2018 in Kabaya (Ngororero district) in Rwanda. B) Photo of bench terraces. Photo taken in
+May 2021 in Karago (Nyabihu district) in Rwanda. ............................................................................................................ 55
+Figure 17: Overview of gully prevention and control techniques discussed in this paper.................................... 56
+Figure 18: Areas with highest susceptibility to landslides in each of the sub-catchment ................................... 58
+      1
+EXECUTIVE SUMMARY
+
+
+1.1       Landslide risk assessment
+The landslide risk assessment was undertaken for the sub-catchments of Rwandex-Magerwa,
+Bishenyi, Rwabayanga and Rusizi. The deliverable has been landslide risk maps for each
+watershed (refer to pdf maps accompanying report). Maps are classiﬁed in several classes.
+The landslide risk maps are provided in the form:
+          • Landslide inventories (included in accompanying PDF maps);
+          • Landslide susceptibility maps (included in accompanying PDF maps);
+          • Landslide hazard maps (included in accompanying PDF maps);
+          • Exposure databases (included in report)
+
+                        Bishenyi                 Rwabayanga                  Rusizi            Rwandex-Magerwa
+ Susceptibility            Percentage                Percentage                Percentage             Percentage
+                  Area                      Area                     Area                     Area
+     Class            2    of total             2    of total            2     of total           2   of total
+                  (km )                     (km )                    (km )                    (km )
+                           area                      area                      area                   area
+ <= 0.2              9.87        20.9%         2.54        32.5%        9.50         45.1%       4.45       45.8%
+ 0.2 - 0.45         14.85        31.4%         3.06        39.1%        6.55         31.1%       2.83       29.1%
+ 0.45 - 0.55        12.47        26.4%         1.20        15.3%        3.31         15.7%       1.29       13.3%
+ 0.55 - 0.8          7.45        15.8%         0.67         8.6%        1.45          6.9%       0.73        7.5%
+ 0.8 - 1.0           2.62         5.5%         0.35         4.5%        0.25          1.2%       0.41        4.2%
+
+
+
+Results for landslide susceptibility are summarised in the table above. The continuous
+values of the susceptibility models are classiﬁed into ﬁve unequally-spaced susceptibility
+classes. The category [0.80 – 1.0] presents the class that is the most prone to landsliding.
+The opposite class is ≤ 0.2]. The class ]0.45-0.55] present the zone where the uncertainty on
+the model classiﬁcation performance is the highest (Rossi et al., 2010).
+
+
+Results for landslide hazard are summarised in the table below.
+
+                          Bishenyi                Rwabayanga                  Rusizi            Rwandex-Magerwa
+  Hazard rate
+                              Percentage               Percentage               Percentage              Percentage
+     class        Area                      Area                     Area                     Area
+   2         2       2        of total         2       of total         2       of total         2      of total
+ (m /year/km      (km )                     (km )                    (km )                    (km )
+                              area                     area                     area                    area
+              1      21.06          44.6%        5.34        68.3%      15.98         75.9%        6.77       69.7%
+             18      19.54          41.3%        1.84        23.5%        4.40        20.9%        2.19       22.5%
+             90        5.96         12.6%        0.59         7.5%        0.66         3.1%        0.68        7.0%
+            365        0.71          1.5%        0.05         0.6%        0.02         0.1%        0.08        0.8%
+
+
+
+
+                                                                                                              4
+The risk maps submitted together with the report provide visual combinations of landslide
+process scenarios and land use categories. They allow to highlight the places where the risk
+could be more problematic. Depending on the slope instability processes and the land use,
+the risk is different. For example, places where deep-seated landslides are located are areas
+where ground deformations are expected to be the larger (independently from soil creep,
+which is not discussed here, although highlighted in step 1). Such deformations can be very
+slow (a few centimetres per year or even less; e.g. Nobile et al., 2019; Dille et al., 2021) and
+therefore be not at all a problem for agricultural land. On the contrary, building a new road or
+heavy infrastructures on such areas could create problems (fractures, etc.) as most foundations
+cannot be deep enough to reach a stable bedrock below the surface of rupture of the landslides.
+While slow-moving deformations can have pervasive impacts difﬁcult to mitigate, people are
+not in immediate dangers.
+
+When looking at such documents, we must be aware that further investigations are needed to
+really assess the problem, not only in terms of landslide process understanding (location,
+mechanism, deformation rate), but also in terms of vulnerability as well as direct and indirect
+impacts.
+
+1.2    Proposal of landslide mitigation measures
+The goal of the study was to provide a general overview of the potential mitigation measures
+that could be tested for the areas of the watersheds that have been identiﬁed at risk and
+vulnerable to landslides.
+The structure of the study is as follows:
+
+      First, the mitigation measures are detailed;
+      Along with criteria for the selection of the mitigation measures, details are provided on
+      measures at the level of the hazard, the vulnerability, and the elements at risk;
+      The measures are then discussed in the context of the Catchment Restoration Opportunity
+      Mapping upport System (CROM DSS);
+      A high-level Bill of Quantities for specific landslide mitigation measures in the study areas
+      has been provided. The specific measures were developed with the assumption that, should
+      landslides occur in the highest susceptibility zones, they would be shallow landslides that
+      are likely to cause to soil erosion.
+
+Together with the presentation of the mitigation measures, additional ﬁgures and appendixes
+explaining and illustrating key concepts are proposed to ease the understanding of the study.
+As a last note, a brief focus is provided on gully erosion.
+
+One have to keep in mind that the purpose of this section is not to go beyond the sole role of
+the literature review. Further research and expertise actions are needed if one want to move
+towards the implementation of concrete mitigation measures. The measures presented here
+are therefore not catchment-speciﬁc, and to some extent not speciﬁc to a type of landslide in
+particular.
+
+
+
+
+                                                                                              5
+      2
+
+SECTION 1: LANDSLIDE RISK ASSESSMENT
+
+
+2.1       Introduction
+
+Landslides risks are pervasive in hilly and mountain landscapes of the globe, and are typical
+occurrences in Rwanda. The term landslide denotes the downhill movement of slope
+forming materials under the inﬂuence of gravity (Cruden and Varnes, 1996). Landslides are
+one of the most widespread and effective agents shaping the Earth’s surface (Egholm et al.,
+2013; Wang et al., 2020). With the development and urbanisation of hilly and mountain
+terrains around the globe, landslide occurrence also frequently intersects with human
+activities and the built environment, often with disastrous consequences (Sidle and Ochiai,
+2006; Lu and Godt, 2013; Froude and Petley, 2018; Haque et al., 2019). While landslides are
+pervasive Earth surface processes naturally occurring in hilly/mountain landscapes, human
+activities (e.g., roads, reservoir construction, deforestation, urbanisation, etc.) can also
+inﬂuence their occurrence, extent and timing (Sidle and Ochiai, 2006; Lacroix et al., 2020).
+Landslide characteristics reﬂect the very diverse geologic, topographic, environmental, and
+climatic conditions in which they can occur, resulting in a large diversity of landslide types
+and processes (Lu and Godt, 2013; Hungr et al., 2014).
+
+The UN’s Sendai Framework for Disaster Risk Reduction identiﬁes four priorities for action
+in order to substantially reduce global landslide disaster risk and related fatalities (UNDRR,
+2015). A cornerstone among these priorities is understanding landslide hazard, which
+describes the likelihood of a landslide of a given magnitude to occur in time and space
+(Guzzetti et al., 1999). In other words, landslide hazard is ideally characterized by
+statements of ‘what’, ‘where’, ‘how strong’ and ‘how frequent’ (Glade et al., 2006).
+
+Authorities and decision makers need maps depicting the areas that may be affected by
+landslides so that they are considered in development plans and/or that appropriate risk
+mitigation measures are implemented. A wide variety of methods for assessing landslide
+susceptibility, hazard and risk are available (Galde et al., 2006; Corominas et al., 2014;
+Reichenbach et al., 2018).
+
+In this study, the assessment of landslide risk was achieved in ﬁve steps (Figure 1). This
+approach relied on conventional methods that are recommended for local-scale landslide
+risk assessment (Corominas et al., 2014). The landslide inventory (Step 1) was the key step
+of this approach. The outcomes of the risk assessment is inﬂuenced not only by the quality
+of the inventory but also by the types of landslides and the abundance of their occurrence.
+
+
+
+
+                                                                                         6
+       Figure 1 – Landslide risk assessment methodology
+
+
+2.2    Available knowledge and required data
+
+There are several research works on landslide susceptibility, hazard and risk assessment
+that have already been carried out in Rwanda and in the Lake Kivu region in particular (e.g.
+Jacobs et al., 2018; Depicker et al., 2020a, 2020b, in review; Dewitte et al., 2021). Our
+approach is to build the risk assessment as much as possible upon this existing knowledge
+and the methods that have already proved to be successful.
+
+One important issue related to the risk assessment at the scale of the four sub-catchments
+is the quality of the ancillary data that are provided. These data are used to inventory the
+landslides and to derive the environmental factor maps that will be used for the susceptibility
+analysis. The following ancillary data were used for the for susceptibility, hazard and risk
+assessment in this project:
+
+      Digital Elevation Model (DEM) – SRTM 30 m resolution (Source: Farr et al. 2007) and
+      Rwanda 10m DEM (Source: GGGI / RWB). Note that the latter does not cover the
+      Kamembe-Gihundwe sub-catchment;
+      Soil data (Source: GGGI);
+      Land cover and land use 2008 (Source RWB), 2018 (Source: GGGI);
+      Mapping of road network and drainage lines (Source: RTDA);
+      Fault lineaments (Smets et al., 2016 ; Delvaux et al., 2017);
+      Peak ground acceletration – PGA (Delvaux et al., 2017);
+      Database of landslides in western Rwanda collected via other research projects from
+      the Royal Museum for Central Africa: locations and timing of the landsides (Depicker
+      et al., 2020a, 2020b ; Dewitte et al., 2021).
+
+
+
+                                                                                          7
+2.3    Step 1: Comprehensive multi-temporal landslide inventory
+
+2.3.1 Objective
+The goal of this step is to identify where and when landslides occurred, the types of slope
+failure processes, the level of ground deformation activity, the history and origin of the
+landslides (causes and triggers). Concerning the latter point, understanding the role of
+human disturbances in the slope failure is important.
+
+2.3.2 Method
+The landslide inventory was built from a careful and detailed 3D (elevation exaggeration of 1)
+visual interpretation of Google Earth images. All images used in the analysis are of very-high
+spatial resolution, ranging from 30 to 60 cm. The images in Google Earth are provided by
+either © DigitalGlobe or © CNES/© Airbus and they were captured between 2000 and 2021.
+The analysis of Google Earth images has proven to be a successful and reliable method to map
+landslides (Fisher, et al., 2012). The reliability of the approach has been demonstrated by
+Depicker et al. (2020a; 2020b) for the Lake Kivu region, including the western part of Rwanda.
+The satellite images were analyzed in parallel with the photographs taken in the ﬁeld.
+The term landslide encompasses a large range of gravity-driven mass movements, that
+differ by their failure mechanisms, size, depth, velocity and the material mobilised (Lu and
+Godt, 2013; Hungr et al., 2014). We used the updated Varnes’ classiﬁcation (Hungr et al.
+2014) for deﬁning the landslide typology; the classiﬁcation schemes being the most widely
+used. Deﬁning the landslide typology is a key step when predicting the associated risk as the
+variety of the slope processes (size, speed, origin, etc.) is large and hence the types of
+impacts (Corominas et al., 2014).
+The landslide depth is an important element when analysing landside causes and triggers;
+the occurrence of shallow landslides being for instance much more sensitive to disturbances
+of the landscape surface and rainfall conditions than deep-seated landslides (Sidle and
+Bogaard 2016). For example, the removal of trees, due to either human or natural causes,
+decreases the slope stability through the alteration of hydrological and geotechnical
+conditions, such as the loss in soil cohesion due to tree root decay (Sidle et al., 2006; Sidle
+and Bogaard, 2016). Deep-seated landslides, both rapid and slow-moving, are also
+controlled, like the shallow landslides, by water routing through the regolith (see Text Box
+1). Slow, deep-seated landslides (e.g., slides and earthﬂows; Figure 20) typically require an
+extended period of water recharge to initiate movement, while rapid, deep-seated failures
+may initiate by either direct response to individual storms or prolonged water inputs (Sidle
+and Bogaard, 2016). The depth of the surface of rupture of shallow landslides is usually
+deﬁned in the range of 2-5 m (Keefer, 1984; Mackey and Roering, 2011; Sidle and Bogaard,
+2016). Here, we considered landslides to be shallow when their estimated depth is < 5 m.
+We estimated the relative depth of the landslides visually analysing the shape and size of
+the landslide scarp and deposits in Google Earth imagery. We have validated such an visual
+analysis through in situ ﬁeld observations in similar context in Rwanda and the Kivu Rift
+(Depicker et al., 2020a, 2020b). The landslides occurring in mining and quarrying sites were
+all classiﬁed as quarrying landslides, regardless of their depth.
+
+
+
+                                                                                          8
+Landslides were classiﬁed into (i) recent and (ii) old movements following the approach
+proposed by Depicker et al. (2020b) and Dewitte et al. (2021). Recent landslides are all new
+slope failures; the moment of failure must be situated between the timing of two satellite
+images. All recent landslides are considered active since they present disturbed vegetation
+patterns and bare soil surfaces that are visible on the satellite images. Landslides were
+classiﬁed as old if present on the eldest satellite images but showing no signs of activity.
+
+Text Box 1: Regolith and colluvium
+
+  Regolith: rock that is weathered to any degree (physically and chemically). Three layers are
+  considered: weathered rock, saprolite and mobile regolith. Weathered rock is the deepest
+  layer of the regolith overlying the hard, unweathered rock. Saprolite is material that is more
+  altered than weathered rock and that can readily be augured through or dug with a shovel.
+  Saprolite retains the original rock structure. Mobile regolith has been detached from the
+  weathered rock and saprolite below it, and is in motion both vertically and laterally. Where
+  it is present, soil forms the upper part of the mobile regolith that is organized into horizons
+  by soil-forming processes. In tropical climates where temperature are high and conditions
+  are humid, the weathered materials typically show red and yellow colors.
+  Colluvium: material that has been transported across and deposited downslope by the
+  action of mass movement and wash processes. The material forms a loose (generally
+  unsorted) sedimentary deposit usually in topographic depressions and at the base of the
+  hillslopes. Colluvium is typically composed of a heterogeneous range of sediments of
+  various sizes.
+
+
+
+
+2.3.3 Results
+
+The inventory for the four sub-catchments contains 22 old deep-seated landslides and ﬁve
+recent deep-seated ﬂow slides/earthﬂows (examples of inventoried landslides are shown in
+Figure 2). Other features associated with hillslope dynamics, i.e. soil creep and gully erosion,
+have also been identiﬁed. Each landslide (and the other features) is manually assigned a
+polygon. Based on this inventory, we can draw the following conclusion about the identiﬁed
+landslide and other hillslope processes in the four sub-catchments:
+
+Old deep-seated landslides: The landslides classiﬁed as old deep-seated features are
+natural slope failures of undetermined age. The morphology of these landslides and the
+alteration due to weathering and erosion of their main scarps (i.e. the head the landslides,
+also referred to the source area of the landsides) attests an origin, for some of them, that
+may be easily a few thousand years old (Dille et al., 2019; Dewitte et al., 2021).
+
+
+
+
+                                                                                               9
+Such slope failures could be associated with environmental conditions that used to be
+different (Dewitte et al., 2021). It is indeed known that the climate and the seismicity
+conditions of the region have changed over the past tens of thousands of years. For
+example, the region experienced an abrupt shift from drier conditions to more humid
+conditions around 13,000 BP (Felton et al., 2007; Wassmer et al., 2013). Although they look
+non active to the naked eye and that buildings and other infrastructures are present in
+several of them, old deep-seated landslides can be prone to slope deformations (see Step 2
+– Susceptibility assessment for details).
+
+Recent deep-seated landslides: The recent deep-seated landslides seem to be generally
+associated with quarrying/mining activities as attested by the presence of roads in
+proximity. These landslides clearly show signs of activity. Caution must be taken when
+assessing the cause and triggers of these landslides as quarrying/mining sites could either
+play a cause/trigger role (for example slope undercutting and over steepening) or be the
+consequence of a landslide. In the latter case, a landslide is at the origin of a fresh
+regolith/rock outcrop that can be exploited as a commercial opportunity.
+
+Shallow landslides: for the shallow landslides; no features were observed from the satellite
+images in the four sub-catchments over the last 20 years. However, the fact that we were
+not been able to identify such landslides, does not allow us to conclude with certainty that
+shallow slope failures did not occur during that period. Shallow landslides can be very small
+and therefore happen unnoticed at the resolution of the satellite images. Furthermore, their
+scars can quickly be altered from weathering, erosion, vegetation regrowth and human
+activities (Malamud et al., 2004; Dewitte et al., 2021). It should be noted therefore that the
+identiﬁcation of the shallow landslides from satellite images is always an underestimation.
+
+Nonetheless, what we can conclude, is that clusters of landslides triggered by heavy rainfall
+events associated with convective systems (often associated with thunderstorms) did not
+occur in the studied areas over the last 2 decades. Usually, in the Lake Kivu region, such
+rainfall events are associated with clusters of hundreds to thousands of slope failures
+occurring over areas of a few (tenths of) km² (Monsieurs et al., 2018; Dille et al., 2019;
+Depicker et al., 2020a, 2020b, Dewitte et al., 2021); i.e. a disturbance of the landscape that
+cannot be unnoticed when analysing satellite images. On a yearly basis, a few of such events
+are observed in the Lake Kivu region and their spatial distribution is controlled by the
+randomness of the extreme convective rainfall events. In Figure 3 a, two clusters of
+landslides corresponding to such climatic events are observed.
+
+Soil creep: Soil creep is a movement under the inﬂuence of gravity, temperature and
+moisture ﬂuctuations, and the action of biota that occur on hillslopes. It is characterized by
+an extremely slow, generally imperceptible displacement of surﬁcial unconsolidated
+materials that can occur over long periods of time, easily over thousands of years (Thomas,
+1994; Heimsath and Jungers, 2013). This process is common in many tropical regions,
+particularly where, like in Rwanda, the regolith is thick, and, although imperceptible, it can
+displace a considerable volume of hillslope material downstream (Thomas, 1994).
+
+
+
+                                                                                        10
+Moeyersons (1988,1989) studied creep movements within a 3 m thick mobile regolith
+mantle on a hillslope located 2 km west of the Rwabayanga sub-catchment, at a place called
+Rwaza hill. He showed that ﬁssure/sliding plane conﬁgurations, typical for landslides, could
+develop in the silty-clayey mantle in the region. In the Rwabayanga sub-catchment we have
+delineated several areas where we believe that soil creep is taking place. This inventory of
+the hillslopes affected by creep is certainly not comprehensive and care must be taken with
+our interpretation. However, we believe that it is important to stress that issue as the effect
+of such a process could be pervasive and in the long run cause damage to infrastructures.
+
+Creep sediment accumulation and associated landslides: Through the volume of weathered
+material it displaces, soil creep can contribute signiﬁcantly to the formation of colluvium
+deposits (Thomas, 1994 – and Text Box 1). When colluvium accumulates on slopes, it can
+become the preferred site for landslides, as observed in neighbour regions is Uganda
+(Jacobs et al., 2017; Nseka et al., 2019). In the example highlighted in Figure 2 e, we identify
+a landslide that could be associated with this creep-related process.
+
+Gully erosion: The conditions of mobile regolith and colluvium accumulation are also
+favorable to the formation of gullies (Mackey and Roering, 2011; Migoń, 2013). In some
+cases, also occurring as a consequence of landsliding, the interactions between landslides
+and gullies are typically complex and sometimes involve self-reinforcing feedbacks (Mackey
+and Roering, 2011; Migoń, 2013). Large gully erosion systems in which landslides are present
+are identiﬁed, for example, in Bujumbura in the neighbour Burundi (Dewitte et al., 2021). The
+origin of these large gullies is assumed to be partly associated with urban infrastructures,
+especially with the road network (as observed in other urban environments such as in
+Kinshasa, Makanzu Imwangana et al., 2014). Here we have mapped a few gullies that present
+such anthropogenic characteristics (Figure 2 f). Here also we must stress that the gully
+inventory is certainly not comprehensive. Similarly to the detection of shallow landslides,
+gullies can be unnoticed at the resolution of the satellite images.
+
+Roads and trail networks: Similarly to what is observed in other mountainous regions, the
+frequency of landslide occurrence in Rwanda is highly increased along the roads where
+inadequate drainage systems, hillslope undercutting, overloading and landﬁlls are common
+(Dewitte et al., 2021). These human-induced changes alter environment where landslides
+occur. Usually rather small landslides, often rockfall, are observed; especially during the wet
+seasons. Most of these landslides along the roads are usually too small to be identiﬁed in
+Google Earth. In this study, we were able to delineate only a few road ﬁllings. Despite that,
+we can easily assume that road and trails play a role in the occurrence of landsliding.
+
+
+
+
+                                                                                          11
+Figure 2 – Examples of landslides and other slope processes inventoried from Google Earth
+
+
+In Figure 2 above, red polygons delineate the landslides. Small white arrows locate the landslide
+headscarps, i.e. the landslide source areas. Large white arrows indicate the north. a) Old large
+deep-seated landslide in Bishenyi sub-catchment, Jan. 2021 (-1.958, 29.948°). b) Old large
+deep-seated landslide in Kamembe-Gihundwe sub-catchment, Sept. 2020 (-2.454, 28.912°).
+c) Old large deep-seated landslides in Kamembe-Gihundwe sub-catchment, Sept.2020 (-2.502,
+29.906°). d) Recent ﬂow landslides (mixture of ﬂow slides and earthﬂows) in Bishenyi
+sub-catchment, January, 2021 (-2.000°, 29.939°). e) Deep-seated landslide, probably associated
+with soil creep in Rwabayanga sub-catchment, July. 2018 (-2.602°, 29.718°). f) Active gully
+associated with a road in the Rwabayanga sub-catchment. Note the vegetation free gully
+features as well as the colluvium deposit downslope (clear sediment) that attest the activity of
+the system, July 2018 (-2.602°, 29.739°).
+
+
+
+                                                                                            12
+2.4    Step 2: Landslide susceptibility assessment
+
+2.4.1 Objective
+The goal of this step is to assess where landslides may occur in the study areas and to produce,
+for the four sub-catchments, landside susceptibility maps.
+
+2.4.2 Method
+
+2.4.2.1 The role of the landslide inventories
+The number of inventoried landslides in Step 1 is much too limited for applying any data-driven
+susceptibility and hazard assessment at the scale of the four, relatively small, sub-catchments
+(Corominas et al., 2014; Reichenbach et al., 2018; Depicker et al., 2020b). Therefore, to speciﬁcally
+compute data-driven models and meet the commitments that we could have expected if more
+landslides were present in the sub-catchments, we decided to use, as an extra, an existing regional
+inventory of shallow landslides that covers the Lake Kivu region. In Rwanda, this inventory covers
+all the regions west of Kigali (Figure 3). The inventory has already been used for several
+susceptibility and hazard assessments in the region (Depicker et al. 2020a, 2020b) and should be
+made publicly available once a manuscript currently in review (Depicker et al., in review) is
+published. From this inventory, it is possible to calibrate regional data-driven susceptibility (and
+subsequently hazard) models that cover the four sub-catchments at once. Since the assessments
+are made at the regional level, it also allows us to compare the four study sites with each other.
+In this study, we therefore used two inventories for two types of susceptibility assessments,
+one produced speciﬁcally here (Inventory 1 – see Step 1 for details) and one from other works
+(Inventory 2):
+
+    Inventory 1 – used for sub-catchment susceptibility to ground deformations within the
+    old and recent deep-seated landslides:
+For the old and recent deep-seated landslides, the hazard assessment, even at the regional
+level, cannot be assessed without any accurate information on their timing of occurrence. For
+the sole susceptibility assessment, although a regional model for these landslides is already
+available (Depicker et al., 2020b), its use at the local scale is meaningless; a regional model for
+deep-seated landslides provides only an information on their general distribution patterns. At
+the local scale, the exact location of a future deep-seated slope failure is here impossible to
+predict from a data-driven model since it depends on heterogenous local conditions
+associated with the lithology and hydrogeology that are not known (Dille et al., 2019).
+However, deep-seated landslides are places where the hillslope material has been disturbed.
+Therefore, the landsides are portions of hillslopes that are more easily prone to ground
+deformations (e.g. Nobile et al., 2018; Dille et al., 2021). For the recent landslides, such
+deformations are often visible and the delineation of the active zones is straightforward
+(Figure 2 d).
+For the old landslides, although such deformations can be unnoticed to the naked eye, their effect
+can be pervasive and, on a relatively long period, impacts the infrastructures (ﬁssures, cracks).
+
+
+
+
+                                                                                               13
+Old deep-seated landslides also present a range of hydrological and geotechnical conditions
+that can favour the occurrence of new landslides. This path-dependency of landslides
+(Temme et al., 2020) is something important when assessing the potential of landslide
+disturbances in a landscape. Old landslides can sometimes reactivate. Although such
+transition from relatively stable conditions to important failure is relatively rare (Lacroix et
+al., 2020), this hazard is something not to be ignored. In a landscape, old deep-seated
+landslides represent a potential constraint.
+Therefore, the inventory map of the old and recent deep-seated landslides that we have
+identiﬁed is here considered as a landslide susceptibility product that locates the places that
+are the most prone to be affected by ground deformations. A caveat for the delineation of
+the deep-seated landslides, especially for the old ones, is that, due to the interpretation of
+the morphology of the hillslopes, identifying the exact limits of the failed mass may not be
+easy and that the delineated areas must be considered with caution.
+Old and recent landslides are shown on the landslide susceptibility maps for the four study
+areas that have been produced and are submitted together with the present report.
+
+    Inventory 2 – used as a dependent variable for the regional shallow landside initiation
+    susceptibility and hazard assessment:
+For the susceptibility of the initiation of new shallow landslides, we used the 2,544 recent
+shallow landslide observations we made in previous research in western Rwanda. These
+landslides were identiﬁed by Depicker et al. (2020a) through the visual analysis of Google Earth
+images over the 2000-2019 period. As explained in Step 1, all recent landslides have their timing
+of initiation well constrained between the timing of two satellite images; which is mandatory for
+the hazard assessment (Step 3). The recent shallow landslides were not triggered by seismic
+activity and we can expect that in most situation rainfall is at their origin (Monsieurs et al., 2018;
+Depicker et al., 2020a, 2020b, Dewitte et al., 2021), although the role of rock weathering cannot
+be excluded for some landslides occurring in isolation (Dille et al., 2019). Since we look at the
+susceptibility associated with the occurrence of new landslides, we used the source area of each
+landslide in our assessment. More speciﬁcally, the source area is represented by one initiation
+point that was manually deﬁned (e.g. Jacobs et al., 2018; Depicker et al., 2020a, 2020b). For the
+shallow susceptibility assessment we therefore used a dependent variable containing 2,544
+landslide initiation points. In other words, each landslide is represented by 1 pixel in the
+analyses, either at 10 or 30 m resolution, depending on the topographic data source that is used
+(Table 1).
+The impact zone of the landslides was not considered in the susceptibility analysis (Figure 3 b).
+The average area of these shallow landslides is 725 m², with 121 m² and 604 m² for the source
+and impact areas respectively.
+We stressed earlier when explaining the shallow landslides, (see page 82) that an inventory from
+satellite images will always provide an underestimation. This concerns of course the inventory
+we use here. Since our inventory was compiled with the consistent use of Google earth images,
+we know that this underestimation is similar across the whole region. Therefore, the use of this
+inventory will not impact the reliability of the susceptibility assessment, the latter being
+data-driven and therefore relying of relative assessment. For the underestimation of the
+landsides, more details are provided in Depicker et al. (2020a). For the susceptibility assessment
+more details are provided in Depicker et al. (2020b).”
+
+                                                                                                14
+     Figure 3: Landslide and knickpoint inventory for Rwanda (from Depicker et al., 2020a)
+
+
+a) Location of the 2,544 shallow recent landslides used in the landslide susceptibility and
+   hazard assessment and 83 non-stationary knickpoints. These knickpoints were used to
+   separate the rejuvenated landscapes between the Rift shoulders from the surrounding
+   relict landscapes (black-and-white line) (see Text Box 2 for more details). The zoom in the
+   red rectangle show the delineation between the rejuvenated and the relict landscapes.
+   Note the two landslides clusters that correspond to intense convective rainfall events (see
+   Step 1)
+
+b) Example of shallow landslides on a Google Earth image in Rwanda (-1.715°, 29.790°) and
+   the delineation of their total area (red) and source area (green);
+
+c) Example of a shallow landslide (namely a debris avalanche), Sep. 2018 (1.967°, 29.588°).
+
+
+
+
+                                                                                             15
+2.4.2.2 Predictor variables for the shallow landslide susceptibility assessment
+
+Based on the work of Depicker et al. (2020a), we selected the following predictor variables
+for the shallow landslide susceptibility assessment (Table 1):
+       Slope;
+       Planar curvature;
+       Proﬁle curvature;
+       North exposedness;
+       East exposedness;
+       Peak ground acceleration (PGA, a measure of seismic activity);
+       Distance to faults;
+       Distance to rivers;
+       Land use/cover;
+       Presence in the rejuvenated landscape (i.e. the inﬂuence of the formation of the
+       Rift mountains on the river erosion of the landscape – see Text Box 2 and Figure 3);
+       and Lithology.
+       Additionally, we used the elevation, the presence of roads within 50 m, and the clay
+       content of the soil. We distinguished six (6) land use/cover types: closed agriculture, open
+       agriculture, irrigated lands, forests, open lands, and built-up land. We distinguished ﬁve
+       (5) types of lithology: schists, granites, quartzites, volcanic rocks, and alluvial depositions.
+
+These natural and human-related environmental predictors are environmental characteristics
+that could explain the occurrence of the landslides. The environmental characteristics were
+extracted for the landslide source area. Statistical criteria assessed to validate the use the
+predictor variables listed in table below and are presented in Appendix 1.
+
+
+Table 1: Landslide predictor variables evaluated for the susceptibility analysis, themes
+according to Reichenbach et al. (2018)
+
+
+
+
+                                                                                                16
+Text Box 2: Rejuvenated vs relict landscapes
+
+
+ The concept of rejuvenated landscape is detailed in the Depicker et al. (2020a). This is a
+ geomorphological parameter that is commonly not used in landslide susceptibility assessment
+ (Reichenbach et al., 2018). One of the novelties of the research carried out by Depicker et al.
+ (2020a) is to highlight the importance of considering such a geomorphological context when
+ studying the landslide distribution in tectonically active landscapes. In short, the four
+ sub-catchments that we study here are situated within a mountain range – namely the North
+ Tanganyika - Kivu Rift region in the western branch of the East African Rift - that has been
+ developing through rifting over the last ca. 11 Ma. The associated tectonic uplift has created a
+ speciﬁc structure where the center of the mountain range has “collapsed”. This collapsed part
+ is where Lake Kivu is located. In terms of geomorphological context, the hillslopes draining
+ towards Lake Kivu are younger that the hillslopes draining off the mountain range. The
+ younger hillslopes are called “rejuvenated landscape” and the older hillslopes “relict
+ landscapes”. The difference of topographic age is highly associated with the incision of the
+ rivers in the landscapes and the presence of knickpoints; i.e. dynamic convex oversteepening
+ of the river longitudinal proﬁles (a waterfall being an knickpoint). These hillslope age and
+ incision differences have an implication on, e.g. the weathering of the rock, and hence the
+ availability of regolith material (i.e. the slope material where most shallow landslides are
+ usually occurring). In addition, the mountain morphology is associated with climatic conditions
+ that are different whether we are in the rejuvenated or in the relict landscapes. The
+ Kamembe-Gihundwe sub-catchment is located in the rejuvenated landscape, while the other
+ three are in the relict landscape.
+
+
+
+2.4.3 Results
+
+Note: for further technical details on the application of the logistic regression and all the other
+statistical analysis performed for the landslide susceptibility assessment we encourage the
+reader to look at the paper published by Depicker et al (2020b) for the lake Kivu region as we
+follow their approach. Below are the main outcomes of our analysis in Rwanda.
+
+2.4.3.1 Calibration and validation of the landslide susceptibility model
+
+We used logistic regression to predict the presence/absence (1/0) of landslides. Logistic
+regression is an excellent data-driven multivariate modelling tool to predict binary events
+(Hosmer and Lemeshow, 2000), and is applied more than any other technique in the context
+of landslide susceptibility modelling (Reichenbach et al., 2018). The dependent variable will
+take values in a continuous range between 0 and 1.
+
+
+
+
+                                                                                             17
+In total we used the 2,544 recent shallow landslide initiation observations (i.e., pixels)
+(Figure 3) and an equal number of random points taken across the landscape outside the
+landslide areas that served as ‘non-landslide’ locations. The model was trained twice; once
+with the morphological data (elevation, slope, curvature, exposure) derived from the 30 m
+SRTM elevation data, and one time with the same morphological data derived from the 10 m
+resolution DEM for Rwanda. We apply a forward stepwise regression in order to obtain the
+highest model quality using the lowest possible number of predictors (Hosmer and
+Lemeshow, 2000). We used the area under the ROC (AUC) curve as a metric for model
+quality (e.g., Jacobs et al., 2018; Depicker et al., 2020b). The AUC is a measure of the
+discriminatory power of the model, i.e. the probability that a random landslide location will
+receive a higher susceptibility score than a random non-landslide location.
+
+Following the approach proposed by Depicker et al. (2020b), we applied 10-fold
+cross-validation in order to ensure that our model is not overﬁt (i.e. it works well for the
+training data of the susceptibility model, but performs poorly on locations that were not
+used for model training). Hence, we randomly split our data in 10 groups of equal size.
+Subsequently, we tried to predict the susceptibility for each group and assess the associated
+AUC value, each time using the other nine groups for model training. We reported the
+average AUC value of these 10 observations. The validation shows that overall the model
+performance are better with the 30m SRTM (Table 2). Data-driven models are the most
+performant when a good balance between data resolution and model complexity is kept.
+This is something that we have already observed for the landslide susceptibility assessment
+in the Rwenzori mountains (Jacobs et al., 2018).
+
+Table 2: Validation of the susceptibility models using a 10-fold cross validation procedure
+
+                                     AUC (10-fold CV) %
+ Model
+                     lithology             No lithology
+
+ 10 m DEM                           89.3                         85.0
+
+ 30 m DEM                           91.1                         88.8
+
+
+
+The difference of model prediction performance is marginal whether the lithology is used
+or not. As the lithological information is coarse at the watershed scale, we selected the
+model without lithology (highlighted in yellow in Table 2).
+
+To summarize, we used in this study the regional susceptibility model that was computed
+with all the predictor variables but the lithology at a 30m resolution (Table 2). The hazard
+assessment (Step 3) is based on this susceptibility model.
+
+
+
+
+                                                                                        18
+2.4.3.2 Variable importance analysis and the origin of the landslides
+
+To investigate the impact of each separate predictor variables on landsliding, we calibrated
+a univariate susceptibility model of which the AUC value is a metric for the importance of
+the one used variable for landslide occurrence (Figure 4). This approach is commonly used in
+the literature (Reichenbach et al., 2018) and was already applied successfully by Depicker et
+al. (2020b) for the Lake Kivu region.
+
+
+
+
+Figure 4: Variable importance in the logistic regression model
+
+
+Figure 4 shows that slope is the main explanatory variable, followed by elevation, distance to
+fault, etc. The role of slope is not unexpected, as relief is the ultimate driver of landslide activity
+(Schmidt and Montgomery,1995), especially in hilly and mountainous landscapes such as those
+of Rwanda. The role of elevation could be explained by the general increase of convective
+rainfall with altitude. Depicker et al. (2020a, 2020b) showed that rainfall thresholds for
+landsliding are exceeded more often at higher elevations in the Lake Kivu region. At ﬁrst sight, it
+might seem strange that distance to faults and PGA, proxies for seismicity, seem to play a role,
+despite our observation that all recent landslides were rainfall-triggered. A possible reason for
+the high importance of these variables could be the role of seismo-tectonic activity as a
+preparatory factor for landsliding, rather than a triggering factor. Seismicity weakens the
+hillslope material and hence reduce the minimum critical area for landslide initiation (Depicker
+et al., 2020a). Distance to river is certainly to be explained with presence of knickpoints and the
+continuous adaptation of the hillslope to river incision (Bennett et al., 2016).
+The other variables play a minor role. It is however important here to keep in mind that the
+inventory used in the analysis was built from Google Earth images. As stressed in the inventory
+section, this implies that many of the very small landsides that are found along the roads are not
+mapped; which could be a reason why the role of roads on the occurrence of landsliding is less
+highlighted through the susceptibility assessment. Another reason of this limited role of roads is
+certainly to be found in the resolution of the topographic information used to derive the
+predictors. Road landslides are linked to engineered slope controls that cannot be constrained
+from topographic products such as the 10 m and 30 m resolution DEM (Jacobs et al., 2018;
+Dewitte et al., 2021).
+
+
+                                                                                                 19
+2.4.3.3 Susceptibility maps
+
+The outputs of a logistic regression model, as well as for data-driven models in general,
+provide values that have no physical meaning. For the relevant interpretation of a data-driven
+susceptibility model, there is a need for classiﬁcation (Corominas et al., 2014; Reichenbach et
+al., 2018). Here, the continuous values of the susceptibility models are classiﬁed into ﬁve
+unequally-spaced susceptibility classes (Figure 5). The category [0.80 – 1.0] presents the class
+that is the most prone to landsliding. The opposite class is ≤ 0.2]. The class ]0.45-0.55] present
+the zone where the uncertainty on the model classiﬁcation performance is the highest (Rossi
+et al., 2010). This way of classifying susceptibility models allows comparison between the
+sub-catchments (e.g. Jacobs et al., 2018).
+The susceptibility of the models are presented together with the inventory of the recent and
+old deep-seated landslides (Figure 5). As explained earlier, these landslides are here considered
+as a speciﬁc susceptibility zonation where the probability of ground deformations is expected
+to be higher than outside these slope instabilities. We propose two categories (old and recent),
+the susceptibility to ground deformations being higher for the recent deep-seated landslides.
+
+
+
+
+                                                                                     A - Bishyenyi
+                                                                                     B - Rusizi
+                                                                                     C - Rwabayanga
+                                                                                     D - Rwandex Magerwa
+
+
+
+
+ Figure 5: Landslide susceptibility in the four study areas (purple and blue areas
+ are inventoried landslides)
+
+                                                                                                    20
+ Looking at the average susceptibility values, Rwandex-Magerwa is overall the sub-catchment
+ that is the most prone to shallow landslide initiation, while Rwabayanga is overall the
+ sub-catchment that is the least prone. However, such average values are meaningless if the
+ distribution patterns are not analysed.
+
+Table 3: Areas per landslide susceptibility class per site
+
+                          Bishenyi                Rwabayanga                   Rusizi           Rwandex-Magerwa
+  Susceptibilit
+                             Percentag                  Percentag                Percentag               Percentag
+    y Class       Area                      Area                     Area                       Area
+                     2       e of to tal       2        e of total      2        e of total        2     e of total
+                  (km )                     (km )                    (km )                      (km )
+                             area                       area                     area                    area
+
+
+                                  20.9%          2.54       32.5%      9.50             45.1%     4.45       45.8%
+  <= 0.2            9.87
+
+
+                                  31.4%          3.06       39.1%      6.55             31.1%     2.83       29.1%
+  0.2 - 0.45       14.85
+
+
+                                  26.4%          1.20       15.3%      3.31             15.7%     1.29       13.3%
+  0.45 - 0.55      12.47
+
+
+                                  15.8%          0.67        8.6%      1.45              6.9%     0.73        7.5%
+  0.55 - 0.8        7.45
+
+
+                                     5.5%        0.35        4.5%      0.25              1.2%     0.41        4.2%
+  0.8 - 1.0         2.62
+
+
+Table 4: Sub-catchment average values of landslide susceptibility
+                            Average landslide
+ Sub -catchment
+                              susceptibility
+ Bishenyi                                 0.37
+ Kamembe-Gihundwe                         0.34
+ Rwandex-Magerwa                          0.46
+ Rwabayanga                               0.26
+
+
+Table 5: Sub-catchment average values of landslide frequency (mean landslide
+frequency and mean landslide affected area)
+
+                            Average frequency            Average affected area
+ Sub -catchment
+                                             2                 2          2
+                               LS/year/km                    m /year/km
+
+ Bishenyi                                   0.023                             16.40
+
+ Kamembe-Gihundwe                           0.016                              11.5
+
+ Rwandex-Magerwa                            0.037                              26.9
+
+ Rwabayanga                                 0.009                              6.62
+
+                                                                                                              21
+The landslide susceptibility values are derived directly from the logistic regression. The landslide
+frequency and affected area values are obtained from the combination of susceptibility values and
+landslide frequency and size (see Step 3 for details).
+From a visual interpretation of the two susceptibility classes with the highest values, the
+Bishenyi sub-catchment displays the susceptibility pattern that is the most evenly distributed
+across the landscape, whereas Rwandex-Magerwa sub-catchment is the landscape where
+concentration of the highest susceptibility areas is the most concentrated (Figure 5).
+The distribution of the deep-seated landslides is different from that of the shallow landslide
+susceptibility. The Kamembe-Gihundwe sub-catchment is affected by 15 old landslides
+while no such slope failure processes are observed in the Rwandex-Magerwa landscape
+(Figure 5).The largest old landslides is located in the Bishenyi. This is also in that
+sub-catchment that the ﬁve recent deep-seated landslides are present (Figure 5).
+The difference between the susceptibility patterns of shallow and deep-seated landslides is
+not something uncommon, and particularly at this scale of investigation. As explained in the
+inventory section (Step 1), deep-seated landslides can have a complex origin that spans a
+very long period of changing environmental conditions while shallow landslides reﬂect
+more the current environment where human-activities (land use/cover and roads) also play
+a role.
+At the local scale, the exact location of deep-seated landslides highly depends on heterogeneous
+local conditions associated with the lithology and hydrogeology (e.g. Dille et al., 20019) that are
+much more difﬁcult to constrain than slope and other topographic conditions that usually have
+a stronger direct control on shallow slope failures (Sidle and Bogaard, 2016).
+
+
+
+
+                                                                                              22
+2.5     Step 3: Landslide hazard assessment
+
+2.5.1 Objective
+
+The objective of this step is to assess of landslide occurrence (and associated magnitude)
+within a certain time frame and area. As explained earlier this assessment is carried out for the
+initiation of the shallow landslides alone. The hazard is therefore estimated for the landslide
+source area.
+
+2.5.2 Method
+
+We linked the landslide susceptibility (Step 2) to landslide hazard by assessing the average
+hazard in different sub regions that are delineated according to their susceptibility (Figure
+6). The ﬁrst sub region encompasses all areas with a landslide susceptibility values between
+0 and 0.1, the second sub region all areas with an LSS value between 0.1 and 0.2, and so on.
+Concretely, for each susceptibility class, the total affected area by the landslide sources
+(Figure 3 b) that have occurred over the whole period of observation (about 20 years – see
+Step 1) is averaged yearly. The resulting value provides a landslide affected area in m²
+year-1 km-2 , i.e. a landslide rate. The combination of a susceptibility (where a landslide
+occur), with a rate (how often and how strong) characterizes the hazard (Guzzetti et al.,
+1999; Glade et al., 2006). More details on the assessment of the hazard can be found in
+Depicker et al. (in review).
+
+
+
+
+Figure 6: Relationship between landslide susceptibility and
+landslide affected area (i.e. landslide rate)
+
+
+
+
+                                                                                           23
+The relationship between landslide susceptibility and landslide affected area represents the
+landslide hazard. The landslide affected area increases exponentially with susceptibility.
+For the susceptibility class 0.9-1.0, the landslide rate is ~400 m² year-1 km-2, for the class
+0.8-0.9 it is ~150 m² year-1 km-2, and so on.
+
+2.5.3 Results
+
+2.5.3.1 Landslide hazard maps
+
+Looking at the average landslide frequency and landside affected area values (Table 6), we
+observe the same ranking as for the susceptibility maps. Rwandex-Magerwa is overall the
+sub-catchment that has the highest average hazard, while Rwabayanga is with the lowest
+values. However, the comparison of the landslide hazard maps is even less obvious than the
+susceptibility as it includes the exponential behaviour of the landslide rate component
+(Figure 6). Therefore, to make the comparison of the hazard maps more robust, we have ﬁrst
+calculated the probability density of the susceptibility values (Figure 7 a) that were
+weighted, using equation of Figure 6, via the multiplication of the landslide rates (Figure 7
+b). This gives a better view of the actual hazard in the different sub-catchments, showing the
+importance of the highest susceptibility classes.
+
+
+
+
+ Figure 7: A) Probability density. B) Probability density weighted for landslide rates (i.e. affected area)
+
+
+
+Therefore, the regional landslide susceptibility model has been classiﬁed in four classes,
+starting from the most susceptible pixel. In other words, the class 0-10% contains the 10%
+of the landscape that are most prone to landsliding. For each class, the average landslide
+rate was computed m² year-1 km-2 based on the relationship from Figure 6. The landslide
+hazard maps are therefore provided for four categories of rates (Figure 8).
+
+
+
+
+                                                                                                              24
+ Table 6: Landslide hazard categories
+
+                                         Average landslide hazard rate
+   Susceptibility classes                 2         2
+                                         m /year/km
+   0-10% (highest susceptibility)                                  365
+   > 10- 30%                                                        90
+   > 30-60%                                                         18
+   > 60-100%                                                          1
+
+
+
+
+Figure 8: Landslide hazard maps (purple and blue areas are
+inventoried landslides)
+
+
+A - Bishenyi
+B - Rusizi
+C - Rwabayanga
+D - Rwandex Magerwa
+
+
+
+
+                                                                          25
+2.5.3.2 How to read the hazard maps – what the hazard scenario means
+When looking at the hazard map, the rate class (365 m² year-1 km-2) means that for an area of
+1 km² (i.e. 106 m2) that belongs to the top 10% of the landscape that is the most susceptible to
+shallow landslide initiations in western Rwanda, 365 m² will be affected by the initiation of a
+slope failure every year. One can say that in ~2700 years; each pixel of this hazard area has the
+probability of being affected by the initiation of landslides. Note that this scenario is only here
+for the initiation of the landsides (i.e., the source area of the landslide) and does not consider
+the total area of the landslides (i.e. the source area + the impact zones – Figure 3 b). For every
+m² of new landslide initiation, 5 m² of landslide impacts are to be assumed (see description of
+inventory in Step 2).
+We can therefore say that every year, for an area of 1 km2, 6*365 m² will be impacted by
+landslides. In other words, this represents 0.2 % of the area that are impacted every year.
+Knowing that it is based on an inventory from satellite images from which the identiﬁcation of
+the landslides is always an underestimation (see earlier sections), we can fairly say that, overall,
+in the highest hazard class, every year about 1% of the land is impacted by the occurrence of
+new landslides.
+
+Table 7: Areas per landslide hazard rate class per site
+                         Bishenyi                Rwabayanga                  Rusizi            Rwandex-Magerwa
+  Hazard rate
+                             Percentage               Percentage               Percentage              Percentage
+     class       Area                      Area                     Area                     Area
+   2         2      2        of total         2       of total         2       of total         2      of total
+ (m /year/km     (km )                     (km )                    (km )                    (km )
+                             area                     area                     area                    area
+            1       21.06          44.6%        5.34        68.3%      15.98         75.9%        6.77       69.7%
+           18       19.54          41.3%        1.84        23.5%        4.40        20.9%        2.19       22.5%
+           90         5.96         12.6%        0.59         7.5%        0.66         3.1%        0.68        7.0%
+          365         0.71          1.5%        0.05         0.6%        0.02         0.1%        0.08        0.8%
+
+
+The hazard class of 365 m²/year/km2 that corresponds to the highest value in western
+Rwanda, corresponds to a very high hazard for the Lake Kivu region in general (Depicker et
+al., 2020a). When looking at the global scale, the highest hazard that we ﬁnd in this study is
+relatively moderate (Larsen and Montgomery, 2010; Broeckx et al., 2020). However, such
+an assessment must be considered with care since environmental conditions of other
+regions can be highly different.
+In Step 1, we explained that, in the Lake Kivu region, clusters of landslides (sometimes with
+thousands of slope failures) can occur and that their spatio-temporal distribution is random
+on a few years basis since they are associated with extreme convective rainfall events.
+This randomness must be kept in mind and an area that is not highlighted as hazard-prone
+can still be impacted by dramatic landslide events.
+
+
+
+
+                                                                                                             26
+The model we provide shows trends and will never be able to tackle, at the local scale of these
+sub-catchments, the random processes associated with stochastic weather events. Together
+with the hazard assessment, we provide the inventory of the deep-seated landslides and
+highlight the susceptibility to ground deformations. Since we do not have measure of the
+ground deformation rates, we cannot provide a hazard scenario. However, as observed in other
+regions, and notably in the region of Bukavu in DRC that is close to Rwanda, ground
+deformations in such landslides can be pervasive (Nobile et al., 2018; Dille et al., 2021). As such,
+on a short time scale, independent of the weather conditions, disturbances due to existing
+deep-seated landslides are potentially higher. This needs further investigation.
+
+2.6    Step 4: Exposure and vulnerability
+
+2.6.1 Objectives
+The goal of exposure and vulnerability assessment is to build an exposure database and
+assess the vulnerability of the elements at risk to landslides. Seeing we did not receive any
+vulnerability databases produced by other parties to assess the elements at risk based on
+previous landslides, we carried out a spatial overlap of hazard zonation and elements at risk.
+Such an approach using a simple exposure analysis is common in the literature as acquiring
+detailed vulnerability information remains generally a challenge, which would require
+signiﬁcant research investment that is not compatible with the duration of this study (Glade
+et al., 2006; Corominas et al.,2014).
+
+2.6.2 Results
+Results were produced from a desktop exercise by spatially overlapping the hazard zonation
+(landslide rate) developed in Step 3 (Figure 8) with the different land use categories. Results
+are presented for two scenarios summarised in tables 8 and 9 below: -
+       Elements at risk for the current land use situation;
+       Elements at risk for the projected land use master plan 2050.
+
+
+
+
+       Landslide rate
+         2          2
+      (m /year/km )
+             1
+            18
+            90
+           365
+
+
+
+
+                                                                                              27
+Table 8: Landslide exposure database for the current land use situation as per 2018
+         land use plans
+
+         Site                       Residential / Commercial area [ha]
+  Bishenyi                     539.47       341.15          41.55                0.26
+  Rusizi                       363.79        46.62            2.01               0.04
+  Rwabayanga                   154.65        17.48            0.40                  -
+  Magerwa                      480.88       113.58          17.95                0.56
+                                           Agricultural land [ha]
+  Bishenyi                   1,222.54     1,401.11         366.36               19.56
+  Rusizi                       658.87       177.01          17.68                0.25
+  Rwabayanga                   263.06        98.74          24.05                1.28
+  Magerwa                       69.51        33.58          12.24                1.20
+                                              Wetland [ha]
+  Bishenyi                     261.44         3.48            0.50               0.27
+  Rusizi                        97.57         2.52            0.41                  -
+  Rwabayanga                    54.56         1.99            0.50               0.14
+                                                                                    -
+  Magerwa                       22.62            0.25
+
+                                              National roads (km)
+  Bishenyi                       5.86           2.06              -                -
+  Rusizi                         7.00           2.40           0.39              0.04
+  Rwabayanga                     2.82          0.71               -                -
+  Rwandex-Magerwa                2.14              -              -                -
+                                              District roads (km)
+  Bishenyi                          -              -              -                   -
+  Rusizi                         6.54           0.92           0.25                   -
+  Rwabayanga                     0.28           0.64           0.30                   -
+  Rwandex-Magerwa                   -              -              -                   -
+                                               Other roads (km)
+  Bishenyi                      35.44          17.15           2.91             0.37
+  Rusizi                        61.85          10.91           1.40               -
+  Rwabayanga                    29.10           7.27           1.32             0.12
+  Rwandex-Magerwa               62.86          13.43           1.15             0.10
+
+
+
+
+                                                                                      28
+Table 9: Landslide exposure database for the projected land use masterplan 2050
+        Site                         Agricultural [ha]
+ Bishenyi             976.10       1,256.68         384.20         17.29
+ Rusizi               154.09          99.73          19.64          0.81
+ Rwabayanga            80.97          56.61          20.21          1.27
+ Rwandex-
+                        0.56           6.57            0.29            -
+ Magerwa
+                                        Forest [ha]
+ Bishenyi              53.39         157.98         140.74         51.39
+ Rusizi               223.46         106.28          20.10          0.56
+ Rwabayanga            19.09          27.89          20.80          1.67
+ Rwandex-
+                        4.61          13.34           25.12         7.46
+ Magerwa
+                                Parks / Ecotourism zone [ha]
+ Bishenyi              12.84            6.69          1.44          0.00
+ Rusizi                54.35           15.36          1.18          0.01
+ Rwabayanga             1.26            0.26          0.10             -
+ Rwandex-
+                       13.39           3.18                            -
+ Magerwa
+                        Public/commercial/industrial facilities [ha]
+ Bishenyi             112.41       56.16             7.56            0.46
+ Rusizi               245.20       39.53             4.83            0.26
+ Rwabayanga           135.11       33.07           10.35             1.17
+ Rwandex-
+                      190.70          27.70            2.76         0.13
+ Magerwa
+                                        Roads [km]
+ Bishenyi                  -              -               -            -
+ Rusizi               111.14          21.80            3.29         0.15
+ Rwabayanga            45.08          17.45            2.79         0.16
+ Rwandex-
+                       48.75          15.48            1.89         0.16
+ Magerwa
+                                    Rural residential [ha]
+ Bishenyi              86.71          77.33            15.35        0.17
+ Rusizi                64.47          20.15             1.08           -
+ Rwabayanga            25.12           5.07                -           -
+ Rwandex-
+                            -             -               -            -
+ Magerwa
+                                   Urban residential [ha]
+ Bishenyi             437.13        292.74           29.70          1.00
+ Rusizi               585.43        129.56           14.97          0.39
+ Rwabayanga           146.46         31.38             3.39         0.12
+ Rwandex-
+                      392.22         128.50           19.50         0.16
+ Magerwa
+                                       Wetland [ha]
+ Bishenyi             295.37          10.12         2.53            0.36
+ Rusizi               128.60           5.01         0.95               -
+ Rwabayanga            72.64           4.87         1.16            0.06
+ Rwandex-
+                       21.11           0.14               -            -
+ Magerwa
+
+
+
+
+                                                                                  29
+2.6.3 Comparative analysis of impacted land use categories
+
+The bar charts below provide a comparative assessment of impact of landslides on current
+and projected (2050) land use plans. The charts present results for 365 m2/year/km2 landslide
+hazard rate class only, which, as previously mentioned, corresponds to a very high hazard for
+the Lake Kivu region in general.
+Land use categorisation in the projected land use masterplan (2050) is not the same as that of
+the land use plan (2018). Seeing there was no direct method for comparing the results, it was
+decided to select the results from categories of the master plan (2050) that are similar to land
+use plan (2018) categories, and these were added together in an attempt to arrive at values
+that could be compared. Results are presented below for the Building and Settlements, Roads,
+Wetlands, Forest and Agriculture categories.
+
+
+
+
+Figure 9: Comparative analysis impacted land use categories –
+current and projected land use plans
+
+
+
+
+                                                                                          30
+2.7 Step 5: Landslide risk assessment conclusion
+
+2.7.1 Summary
+
+This study has been undertaken to assess landslide risk in the sub-catchments of
+Rwandex-Magerwa, Bishenyi, Rwabayanga and Rusizi. The deliverable has been landslide
+risk maps for each watershed (refer to pdf maps accompanying report). Maps are classiﬁed
+in several classes.
+The study has produced landslide risk maps in the form:
+       • Landslide inventories (step 1);
+       • Landslide susceptibility maps (step 2);
+       • Landslide hazard maps (step 3);
+       • Exposure databases (step 4)
+
+2.7.2 Conclusion
+
+The risk maps are here visual combinations of landslide process scenarios and land use
+categories. They allow to highlight the places where the risk could be the more problematic.
+Depending on the slope instability processes and the land use, the risk is different. For
+example, places where deep-seated landslides are located are areas where ground
+deformations are expected to be the larger (independently from soil creep, which is not
+discussed here, although highlighted in step 1). Such deformations can be very slow (a few
+centimetres per year or even less; e.g. Nobile et al., 2019; Dille et al., 2021) and therefore be
+not at all a problem for agricultural land. On the contrary, building a new road or heavy
+infrastructures on such areas could create problems (fractures, etc.) as most foundations
+cannot be deep enough to reach a stable bedrock below the surface of rupture of the
+landslides. While slow-moving deformations can have pervasive impacts difﬁcult to
+mitigate, people are not in immediate dangers.
+
+The hazard scenario we have computed here concerns shallow landslide processes. Their
+impacts will be much different from those of deep-seated processes. In terms of direct
+impacts, such shallow landslides can directly cover a road, but will not really damage it.
+Concerning big buildings with deep foundations, such landslides will also have minor
+impacts. However, shallow landslides can potentially remove a lot of soil and therefore have
+impacts of the fertility level of the agricultural land. Shallow landslides are in the region
+commonly associated with heavy rainfalls. They can occur very quickly and be responsible
+of fatalities.
+
+When looking at such documents, we must be aware that further investigations are needed
+to really assess the problem, not only in terms of landslide process understanding (location,
+mechanism, deformation rate), but also in terms of vulnerability and direct and indirect
+impacts.
+
+
+
+
+                                                                                           31
+2.8    Literature consulted for the landslide risk assessment
+
+Belsley, D. A., Kuh, E., Welsch, R. E., 2005. Regression Diagnostics. Hoboken, New Jersey:
+John Wiley & Sons. doi:10.1002/0471725153
+
+Bennett, G.L., Miller, S.R., Roering, J.J., Schmidt, D.A., 2016. Landslides , threshold slopes ,
+and the survival of relict terrain in the wake of the Mendocino Triple Junction. Geology 44,
+363–366. doi:10.1130/G37530.1
+
+Broeckx, J., Rossi, M., Lijnen, K., Campforts, B., Poesen, J., Vanmaercke, M., 2020. Landslide
+mobilization rates: a global analysis and model. Earth-Science Reviews 201, 102972.
+doi:10.1016/j.earscirev.2019.102972
+
+Corominas, J., van Westen, C., Frattini, P., Cascini, L., Malet, J.-P., Fotopoulou, S., Catani, F.,
+Van Den Eeckhaut, M., Mavrouli, O., Agliardi, F., Pitilakis, K., Winter, M.G., Pastor, M., Ferlisi,
+S., Tofani, V., Hervás, J., Smith, J.T., 2014. Recommendations for the quantitative analysis of
+landslide risk. Bulletin of Engineering Geology and the Environment 73, 209–263.
+doi:10.1007/s10064-013-0538-8
+
+Cruden, D.M., Varnes, D.J., 1996. Landslide types and processes, in: Turner, A.K., Schuster,
+R.L. (Eds.), Landslides: Investigation and Mitigation. Special report 247, Transportation
+Research Board National Research Council, National Academy Press, Washington D.C., pp.
+36–75.
+
+Delvaux, D., Mulumba, J.-L.L., Sebagenzi, M.N.S., Bondo, S.F., Kervyn, F., Havenith, H.-B.,
+2017. Seismic hazard assessment of the Kivu rift segment based on a new seismotectonic
+zonation model (western branch, East African Rift system). Journal of African Earth Sciences
+134, 831–855. doi:10.1016/j.jafrearsci.2016.10.004
+
+Depicker, A., Govers, G., Jacobs, L., Campforts, B., Uwihirwe, J., Dewitte, O., 2020a. Interactions
+between deforestation, landscape rejuvenation, and shallow landslides in the North
+Tanganyika – Kivu Rift region, Africa. Earth Surface Dynamics Discussions 1–27. doi:
+10.5194/esurf-2020-87
+
+Depicker, A., Jacobs, L., Delvaux, D., Havenith, H.-B., Maki Mateso, J.-C., Govers, G., Dewitte,
+O., 2020b. The added value of a regional landslide susceptibility assessment: the western
+branch of the East African Rift. Geomorphology 353, 106886. doi:10.1016/j.geomorph.
+2019.106886
+
+Depicker, A., Jacobs, L., Mboga, N., Smets, B., Van Rompaey, A., Lennart, M., Kervyn, F.,
+Michellier, C., Dewitte, O., Govers, G., in review. The legacy of environmental and societal
+dynamics on landslide risk in the Kivu Rift. Nature Sustainability.
+
+
+
+
+                                                                                             32
+Dewitte, O., Dille, A., Depicker, A., Kubwimana, D., Maki Mateso, J.C., Mugaruka Bibentyo,
+T., Uwihirwe, J., Monsieurs, E., 2021. Constraining landslide timing in a data-scarce context:
+from recent to very old processes in the tropical environment of the North Tanganyika-Kivu
+Rift region. Landslides 18, 161–177. doi:10.1007/s10346-020-01452-0
+
+Dille, A., Kervyn, F., Handwerger, A.L., D’Oreye, N., Derauw, D., Mugaruka Bibentyo, T., Sam-
+sonov, S. V., Malet, J.-P., Kervyn, M., Dewitte, O., 2021. When image correlation is needed:
+unravelling the complex dynamics of a slow-moving landslide in the tropics with dense radar
+and optical time series. Remote Sensing of Environment 258, 112402.
+doi:10.1016/j.rse.2021.112402
+
+Dille, A., Kervyn, F., Mugaruka Bibentyo, T., Delvaux, D., Bamulezi Ganza, G., Mawe Ilombe,
+G., Buzera Kalikone, C., Safari Makito, E., Moeyersons, J., Monsieurs, E., Nzolang, C., Smets,
+B., Kervyn, M., Dewitte, O., 2019. Causes and triggers of deep-seated hillslope instability in
+the tropics – insights from a 60-year record of Ikoma landslide (DR Congo). Geomorphology
+345, 106835. doi:10.1016/j.geomorph.2019.106835
+
+Egholm, D.L., Knudsen, M.F., Sandiford, M., 2013. Lifespan of mountain ranges scaled by
+feedbacks between landsliding and erosion by rivers. Nature 498, 475–478. doi:10.1038/-
+nature12218
+
+Farr, T.G., Rosen, P.A., Caro, E., Crippen, R., Duren, R., Hensley, S., Kobrick, M., Paller, M.,
+Rodriguez, E., Roth, L., Seal, D., Shaffer, S., Shimada, J., Umland, J., Werner, M., Oskin, M.,
+Burbank, D., Alsdorf, D.E., 2007. The Shuttle Radar Topography Mission. Reviews of Geo-
+physics 45, RG2004. doi:10.1029/2005RG000183
+
+Felton, A.A., Russell, J.M., Cohen, A.S., Baker, M.E., Chesley, J.T., Lezzar, K.E., McGlue, M.M.,
+Pigati, J.S., Quade, J., Curt Stager, J., Tiercelin, J.J., 2007. Paleolimnological evidence for the
+onset and termination of glacial aridity from Lake Tanganyika, Tropical East Africa. Palaeo-
+geography, Palaeoclimatology, Palaeoecology 252, 405–423. doi:10.1016/j.palaeo.
+2007.04.003
+
+Fisher, G.B., Amos, C.B., Bookhagen, B., Burbank, D.W., Godard, V., 2012. Channel widths,
+landslides, faults, and beyond: The new world order of high-spatial resolution Google Earth
+imagery in the study of earth surface processes. Geological Society of America Special
+Paper 492, 1–22. doi:10.1130/2012.2492(01).
+
+Froude, M.. J., Petley, D.N., 2018. Global fatal landslide occurrence from 2004 to 2016. Natural
+Hazards and Earth System Sciences 18, 2161–2181. doi:10.5194/nhess-18-2161-2018
+
+Glade, T., Anderson, M., Crozier, M.J., 2006. Landslide Hazard and Risk. John Wiley and
+Sons, Chichester. ISBN:978-0-471-48663-3.
+
+
+
+
+                                                                                             33
+Guzzetti, F., Carrara, A., Cardinali, M., Reichenbach, P., 1999. Landslide hazard evaluation: a
+review of current techniques and their application in a multi-scale study, Central Italy.
+Geomorphology 31, 181–216.
+
+Haque, U., da Silva, P.F., Devoli, G., Pilz, J., Zhao, B., Khaloua, A., Wilopo, W., Andersen, P., Lu,
+P., Lee, J., Yamamoto, T., Keellings, D., Jian-Hong, W., Glass, G.E., 2019. The human cost of
+global warming: Deadly landslides and their triggers (1995–2014). Science of the Total
+Environment 682, 673–684. doi:10.1016/j.scitotenv.2019.03.415
+
+Heimsath, A.M., Jungers, M.C., 2013. Processes, Transport, Deposition and Landforms:
+Quantifying Creep. In: Shroder, J. (Editor in Chief), Marston, R.A., Stoffel, M. (Eds.), Treatise
+on Geomorphology. Academic Press, San Diego, CA, vol. 7, Mountain and Hillslope
+Geomorphology, pp. 138–151.
+
+Hosmer, D.W., Lemeshow, S., 2000. Applied Logistic Regression, 2nd ed. John Wileyand
+Sons, Hoboken, NJ, http://dx.doi.org/10.1002/0471722146.
+
+Hungr, O., Leroueil, S., Picarelli, L., 2014. The Varnes classiﬁcation of landslide types, an
+update. Landslides 11, 167–194. doi:10.1007/s10346-013-0436-y
+
+Jacobs, L., Dewitte, O., Poesen, J., Maes, J., Mertens, K., Sekajugo, J., Kervyn, M., 2017.
+Landslide characteristics and spatial distribution in the Rwenzori Mountains, Uganda.
+Journal of African Earth Sciences 134, 917–930. doi:10.1016/j.jafrearsci.2016.05.013
+
+Jacobs, L., Dewitte, O., Poesen, J., Sekajugo, J., Nobile, A., Rossi, M., Thiery, W., 2018.
+Field-based landslide susceptibility assessment in a data-scarce environment: the
+populated areas of the Rwenzori Mountains. Natural Hazards and Earth System Sciences
+18, 105–124. doi:10.5194/nhess-18-105-2018
+
+Keefer, D.K., 1984. Landslides caused by earthquakes. Geological Society of America
+Bulletin 95, 406–421.
+
+Lacroix, P., Handwerger, A.L., Bièvre, G., 2020. Life and death of slow-moving landslides.
+Nature Reviews Earth & Environment 1, 404–419. doi:10.1038/s43017-020-0072-8
+
+Larsen, I.J., Montgomery, D.R., Korup, O., 2010. Landslide erosion controlled by hillslope
+material. Nature Geoscience 3, 247–251. doi:10.1038/ngeo776
+
+Lu, N., Godt, J.W., 2013. Hillslope hydrology and stability. Cambridge University Press.
+
+Mackey, B.H., Roering, J.J., 2011. Sediment yield, spatial characteristics, and the long-term
+evolution of active earthﬂows determined from airborne LiDAR and historical aerial
+photographs, Eel River, California. Bulletin of the Geological Society of America 123,
+1560–1576. doi:10.1130/B30306.1
+
+
+
+                                                                                               34
+Makanzu Imwangana, F., Dewitte, O., Ntombi, M., Moeyersons, J., 2014. Topographic and
+road control of mega-gullies in Kinshasa (DR Congo). Geomorphology 217, 131–139.
+doi:10.1016/j.geomorph.2014.04.021
+
+Malamud, B.D., Turcotte, D.L., Guzzetti, F., Reichenbach, P., 2004. Landslide inventories and
+their statistical properties. Earth Surface Processes and Landforms 29, 687–711.
+doi:10.1002/esp.1064
+
+Migoń, P., 2013. Weathering and hillslope development. In: Shroder, J. (Editor in Chief), Pope,
+G.A. (Ed.), Treatise on Geomorphology. Academic Press, San Diego, CA, vol. 4, Weathering
+and Soils Geomorphology, pp. 159–178.
+
+Monsieurs, E., Jacobs, L., Michellier, C., Basimike Tchangaboba, J., Bamulezi Ganza, G.,
+Kervyn, F., Maki Mateso, J.C., Mugaruka Bibentyo, T., Kalikone Buzera, C., Nahimana, L.,
+Ndayisenga, A., Nkurunziza, P., Thiery, W., Demoulin, A., Kervyn, M., Dewitte, O., 2018. Land-
+slide inventory for hazard assessment in a data-poor context: a regional-scale approach in a
+tropical African environment. Landslides 15, 2195–2209. doi:10.1007/s10346-018-1008-y
+
+Nobile, A., Dille, A., Monsieurs, E., Basimike, J., Mugaruka Bibentyo, T., D’Oreye, N., Kervyn,
+F., Dewitte, O., 2018. Multi-temporal DInSAR to characterise landslide ground deformations
+in a tropical urban environment: focus on Bukavu (DR Congo). Remote Sensing 10, 626.
+doi:10.3390/rs10040626
+
+Nseka, D., Kakembo, V., Bamutaze, Y., Mugagga, F., 2019. Analysis of topographic parameters
+underpinning landslide occurrence in Kigezi highlands of southwestern Uganda. Natural
+Hazards 99, 973–989. doi:10.1007/s11069-019-03787-x
+
+Reichenbach, P., Rossi, M., Malamud, B.D., Mihir, M., Guzzetti, F., 2018. A review of statisti-
+cally-based landslide susceptibility models. Earth-Science Reviews 180, 60–91.
+doi:10.1016/j.earscirev.2018.03.001
+
+Rossi, M., Guzzetti, F., Reichenbach, P., Mondini, A.C., Peruccacci, S., 2010. Optimal landslide
+susceptibility zonation based on multiple forecasts. Geomorphology 114, 129–142.
+
+Schmidt, K.M., Montgomery, D.R., 1995. Limits to Relief. Science 270, 617–620.
+
+Sidle, R.C., Bogaard, T.A., 2016. Dynamic earth system and ecological controls of rainfall-initiated
+landslides. Earth-Science Reviews 159, 275–291. doi:10.1016/j.earscirev.2016.05.013
+
+
+
+
+                                                                                              35
+Sidle, R. and Ochiai, H., 2006. Processes, prediction, and land use. Water resources monograph.
+American Geophysical Union, Washington.
+
+Sidle, R.C., Ziegler, A.D., Negishi, J.N., Nik, A.R., Siew, R., Turkelboom, F., 2006. Erosion processes
+in steep terrain—Truths, myths, and uncertainties related to forest management in Southeast
+Asia. Forest Ecology and Management 224, 199–225. doi:10.1016/ j.foreco.2005.12.019
+
+Smets, B., Delvaux, D., Ross, K.A., Poppe, S., Kervyn, M., d’Oreye Nicolas, Kervyn, F., 2016.
+The role of inherited crustal structures and magmatism in the development of rift segments:
+Insights from the Kivu basin, western branch of the East African Rift. Tectonophysics 683,
+62–76. doi:10.1016/j.tecto.2016.06.022
+
+Temme, A., Guzzetti, F., Samia, J., Mirus, B.B., 2020. The future of landslides ’ past — a framework
+for assessing consecutive landsliding systems. Landslides 17, 1519–1528. doi:10.1007/
+s10346-020-01405-7
+
+Thomas, M.F., 1994. Geomorphology in the tropics: a study of weathering and denudation in
+low latitudes. John Wiley & Sons.
+
+UNDRR, 2015. Sendai Framework for Disaster Risk Reduction 2015-2030. United Nations
+Ofﬁcer for Disaster Reduction Secretariat, Geneva.
+
+Wang, J., Howarth, J., McClymont, E., Densmore, a., Fitzsimons, S., Croissant, T., Groecke, D.,
+West, M., Harvey, E., Frith, N., Garnett, M., Hilton, R., 2020. Long-term patterns of hillslope
+erosion by earthquake-induced landslides shape mountain landscapes. Science advances.
+1–10.
+
+Wassmer, P., Schwartz, D., Gomez, C., Ward, S., Barrere, P., 2013. Geomorphology and
+sedimentary structures of upper pleistocene to holocene alluvium within the Nyabarongo
+valley (Rwanda). Palaeo-climate and palaeo-environmental implications. Geograﬁa Fisica e
+Dinamica Quaternaria 36, 199–210. doi:10.4461/GFDQ.2013.36.17
+
+
+
+
+                                                                                                 36
+2.9    Appendices
+
+2.9.1 Appendix 1
+
+Selection of the predictor variables for the shallow landslide susceptibility assessment
+
+Checking for multicollinearity between the independent variables
+
+Multicollinearity occurs when two or more predictor variables are strongly correlated with
+each other. In other words, multicollinearity occurs when one or more predictor variables
+can be accurately predicted by a linear combination of one or more of the other variables.
+Multicollinearity between predictor variables will not inﬂuence the accuracy or quality of
+the ﬁnal landslide model. However, it can bias our interpretation of the variable importance.
+Hence, it is recommended to remove any strong multicollinearity between the predictor
+variables prior to constructing and analyzing the landslide model. Here we calculated two
+techniques to assess multicollinearity: the Variance Inﬂation Factor (VIF) and the Condition
+Indices (Cis).
+
+The VIF for a predictor variable i is calculated as    1
+                                                      1−𝑅 2
+
+Whereby the R2 is derived from a regression model that predicts variable i with the other
+variables as predictor. We consider a variable problematic (in terms of multicollinearity)
+when its VIF>4 (Belsley et al., 2005). For the variables used in our landslide susceptibility
+model, we observed no problematic VIF (Table 10).
+
+Table 10: Variance inﬂation factor for the continuous variables used in the landslide
+susceptibility model.
+
+ Variable                   VIF
+ Slope                      1.04
+ Elevation                  1.73
+ Proﬁle curvature           1.17
+ Planar curvature           1.20
+ North exposure             1.00
+ East exposure              1.00
+ PGA                        2.96
+ Distance to rivers         1.16
+ Distance to faults         3.46
+ Road (50m buffer)          1.00
+ Soil with >35% clay        1.06
+
+Note that the morphological parameters were derived here from the 10 m resolution DEM.
+
+
+
+
+                                                                                         37
+The CIs are a second approach to check for multicollinearity (Belsley et al., 2005). A CI
+higher than 30 signals moderate to strong multicollinearity, while a CI<10 indicates weak
+multicollinearity. When two or more variables both have a very high variance decomposition
+proportion (>0.9) for the same CI, they are strongly correlated with each other. Within our
+data, the CIs indicated no problematic multicollinearity issues (Table 11).
+
+ Table 11: Condition Indices (CIs), calculated for the continuous variables used in the
+ landslide susceptibility model
+                                                                                            Distance   Distance     Road
+      Condition                        Proﬁle      Planar      North       East                                               >35%
+                  Slope   Elevation                                                 PGA         to         to       buffer
+        index                         curvature   curvature   exposure   exposure                                              Clay
+                                                                                              rivers     faults
+  1   1.000       0.007   0.002       0.000       0.000       0.000      0.000      0.004   0.010      0.012      0.006      0.013
+  2   1.817       0.000   0.000       0.319       0.311       0.000      0.000      0.000   0.000      0.000      0.004      0.000
+  3   2.110       0.000   0.000       0.000       0.000       0.521      0.452      0.000   0.000      0.000      0.013      0.000
+  4   2.127       0.000   0.000       0.000       0.000       0.465      0.539      0.000   0.000      0.000      0.000      0.000
+  5   2.254       0.004   0.000       0.007       0.000       0.011      0.007      0.001   0.001      0.000      0.927      0.003
+  6   2.412       0.006   0.000       0.001       0.000       0.000      0.001      0.000   0.779      0.012      0.000      0.022
+  7   2.664       0.000   0.000       0.670       0.687       0.001      0.000      0.000   0.002      0.000      0.003      0.000
+  8   3.332       0.075   0.005       0.001       0.001       0.001      0.000      0.033   0.023      0.312      0.012      0.216
+  9   3.870       0.004   0.002       0.000       0.000       0.000      0.001      0.001   0.003      0.459      0.011      0.728
+ 10   6.203       0.755   0.020       0.001       0.000       0.000      0.000      0.301   0.084      0.001      0.025      0.016
+ 11   11.324      0.149   0.971       0.000       0.000       0.000      0.000      0.661   0.097      0.204      0.000      0.001
+
+
+No problematic multicollinearity was observed.
+Note that the morphological parameters were derived here from the 10 m resolution DEM.
+
+Reference
+
+Belsley, D. A., Kuh, E., Welsch, R. E., 2005. Regression Diagnostics. Hoboken, New Jersey:
+John Wiley & Sons. doi:10.1002/0471725153
+
+
+
+
+                                                                                                                             38
+      3
+
+SECTION 2: PROPOSAL OF POTENTIAL
+LANDSLIDE MITIGATION MEASURES
+
+3.1       Introduction
+
+
+Because of the variety of the landsides processes, the nature of regolith and rock
+environments and landscapes in which they are found (Appendix 1), virtually every slope
+mitigation design problem is unique. Designing a stable slope includes ﬁeld investigations,
+laboratory tests, stability analyses, and proper construction control. Because most of the
+details involved in such a work cannot be standardized, good engineering judgment,
+experience, and intuition must be coupled with the best possible data gathering and
+analytical techniques to achieve a safe and economical solution to slope stabilization
+(Turner and Schuster, 1996).
+The goal of this section is to provide a general overview of the potential mitigation measures
+that could be tested for the areas identiﬁed in steps 1 to 5 as at risk and vulnerable to
+landslides. With the ﬁrst paragraph in mind that any mitigation measures should be
+implemented based on data and information that we have not at this stage of our
+knowledge, one have to keep in mind that the purpose of this section is not to go beyond the
+sole role of the literature review. Further research and expertise actions are needed if one
+want to move towards the implementation of concrete mitigation measures. The measures
+presented here are therefore not catchment-speciﬁc, and to some extent not speciﬁc to a
+type of landslide in particular. The structure of the report is as follow: ﬁrst, the mitigation
+measures are detailed. Along with criteria for the selection of the mitigation measures,
+details are provided on measures at the level of the hazard, the vulnerability, and the
+element at risk. The measures are then discussed in the context of the Catchment
+Restoration Opportunity Mapping Support System (CROM DSS). Together with the
+presentation of the mitigation measures, additional ﬁgures and appendixes explaining and
+illustrating key concepts are proposed to ease the understanding of the document. As a last
+note, a brief focus is provided on gully erosion. Although not landslide processes, problems
+of gullying have been identiﬁed in the study areas.
+Figure 10 summarizes the framework for landslide risk management. This represents a
+framework widely used internationally (Fell et al., 2008). In this document on potential
+mitigation measures, we focus on one of the aspects of the whole risk management process.
+Before starting presenting the potential mitigation measures that could be tested in the
+four study areas, it is important to provide an overview of the main ﬁndings of the ﬁrst part
+of the analysis that concerned the landside risk and that are relevant for the mitigation
+focus. In this ﬁrst part of the analysis were identiﬁed several slope failure processes:
+
+
+
+
+                                                                                         39
+Deep-seated landslides. These processes are of the slide and earthﬂow types.
+Although it was not directly observed here in the ﬁeld, these landslides are known to
+occur in all types of slope material, whether it is in highly weathered mobile regolith,
+or, at the other extreme of the weathering process, into fresh bedrock (Dille et al.,
+2019; Dewitte et al., 2021; Kubwimana et al., 2021).
+Shallow landslides. These landslides were not identiﬁed directly from the analysis of
+the Google Earth images in the four watersheds, but it is known that they can occur in
+the region at any time, especially during rainfall events. This is for these landslides that
+the landside hazard and risk analysis was carried out. In the region of western Rwanda,
+these landslides are commonly of the slide and avalanche types (Depicker et al., 2021).
+They mostly occur in regolith material and the degree of weathering of the material
+where they develop is variable (Kubwimana et al., 2021).
+In addition to these slope failures processes, soil creep is also known to occur on the
+hillslopes, affecting the regolith layer. This process can produce colluvium slopes
+where landslides can also take place.
+Gully erosion is also observed. Gully erosion is a process that is not due to gravity and
+it is not considered as a landslide process. Nevertheless, gully erosion is frequently
+associated with landsliding, either in cause or in consequence of it.
+
+
+
+
+                                                          Figure 10: Framework for landslide
+                                                          risk management. Adapted from Fell
+                                                          et al. (2008).
+
+
+
+
+                                                                                         40
+To better understand the differences between the various landslide processes, visuals are
+provided in Figure Appendix 1.1. Landslide characteristics reﬂect the very diverse geologic,
+topographic, environmental, and climatic conditions (Figure Appendix 1.2) in which they can
+occur, resulting in a large diversity of landslide types and processes (Lu and Godt, 2013;
+Hungr et al., 2014; Sidle and Bogaard, 2016).
+
+The four study areas are also inhabited, therefore presenting landscape alteration components
+that can have an inﬂuence on the landslide processes, essentially on the shallow landslides that
+are the most sensitive to the surface conditions such as the vegetation characteristics. The
+ﬁgure in Appendix 1.2 shows a general overview of the landslide predisposing factors (i.e. the
+ecosystem dynamics (ED) and the regolith/hillslope environment factors (RHE)) that may be
+altered by human actions. More speciﬁcally, here is a list of human actions in the landscapes
+that we have identiﬁed in the four study areas and that have the potential to alter the drivers of
+the landslides and therefore their distribution in space, in time, and in size:
+
+      Deforestation and afforestation. Recent studies have evidenced that role on the shallow
+      landslides in increasing landslide rates (Depicker et al., 2021). See Figure 11.A.
+      Road construction. Recent studies in the region have also evidenced that role on the
+      landslide occurrence (Dewitte et al., 2021; Kubwimana et al., 2021). See Figure 11.B.
+      Agricultural practice. This included the implementation of agricultural terraces and
+      irrigation.
+      House/building constructions. These will change notably the surface water runoff
+      conditions, as well as the load on the soil and, depending of the depth of the foundation,
+      the groundwater conditions. See Figure 11.C.
+      Mining/quarrying activities. These activities can locally have dramatic consequences
+      where slope and sediment (rock, regolith) properties are changed (Dewitte et al.,
+      2021). Recent work in the region of Bujumbura (Kubwimana et al., 2021) shows this.
+
+
+
+All the factors highlighted above, i.e. landslides types and landscape change characteristics,
+are parameters that must be taken into account in the mitigation of the landslide processes.
+
+
+
+
+                                                                                            41
+Figure 11: A) Relative root strength following tree removal. Depending on tree species and site characteristics,
+the period of highest susceptibility for shallow landslides is between 3 to 15–20 after timber harvest; however,
+a rainfall event is still required to initiate a landslide, but with a lower threshold. Once regenerating tree roots
+fully establish, the risk of shallow landslides returns to pre-harvest conditions. Source: Sidle and Bogaard,
+2016. B) Road effects on slope stability and drainage. Source: Sidle and Ochiai, 2006. C) Urban and residential
+inﬂuences on slope stability. Source: Sidle and Ochiai, 2006.
+
+
+
+
+                                                                                                                42
+3.2    Types of mitigation measures
+
+Potential mitigation measures that could be implemented in the framework of this analysis
+are numerous (Turner and Schuster, 1996). Here we follow the classiﬁcation proposed by
+the SafeLand project (https://www.ngi.no/eng/Projects/SafeLand); the SafeLand report
+(SafeLand, 2012) is attached as a supportive document. Table 12 shows that the Total Risk
+associated with landslides can be mitigated by reducing:
+
+      the Hazard – H- (i.e. the probability of occurrence of one or more phenomena);
+      the Vulnerability – V - (i.e. the degree of loss to the elements at risk for a given hazard);
+      the Elements at risk – E- (i.e. their number and/or speciﬁc value).
+
+Table 12 makes the difference between structural and non-structural measures. In general
+terms, it means:
+      “structural” measures include, but are not limited to drainage, erosion protection,
+      channelling, vegetation, ground improvement, barriers such as earth ramparts, walls,
+      artiﬁcial elevated land, anchoring systems and retaining structures; buildings
+      designed and/or placed in locations to withstand the impact forces of landslides and to
+      provide safe dwellings for people, and escape routes;
+      “non-structural” or more generally “consequence reducing measures” include, but are not
+      limited to: retreat from hazard, land-use planning, early warning, public preparedness,
+      (escape routes, etc.) and emergency management.
+
+
+ Table 12: General classiﬁcation of mitigation measures (SafeLand, 2012).
+
+
+
+
+                                                                                            43
+3.3    Criteria for selection of the mitigation measures
+
+The selection of the most appropriate mitigation measures to be adopted in speciﬁc situa-
+tions must take into account, according to Keaton and Beckwith (1996) and SafeLand
+(2012), the following aspects:
+
+      Factors which determine the hazard, in terms of the type, rate, depth and the
+      probability of occurrence of the movement or landslide, such as, for example:
+         o    The physical characteristics of the geosystem, including the stratigraphy and
+              the mechanical characteristics of the materials, the hydrological (surface
+              water) and the hydrogeological (groundwater) regime;
+         o    The morphology of the area;
+         o    The actual or potential causative processes affecting the geosystem, which
+              can determine the occurrence of movement or landslides;
+      Factors which affect the nature and quantiﬁcation of risk for a given hazard, such
+      as the presence and vulnerability of elements at risk, both in the potentially unsta
+      ble area and in areas which may be affected by the run-out;
+      Factors which affect the actual feasibility of speciﬁc mitigation measures, such as, for
+      example:
+         o The phase and rate of movement at the time of implementation;
+         o The morphology of the area in relation to accessibility and safety of workers
+              and the public;
+         o Environmental constraints, such as the impact on the archaeological,
+              historical and visual/landscape value of the locale;
+         o Pre-existing structures and infrastructure that may be affected, directly or
+              indirectly;
+         o Design standards;
+         o Balancing cut and ﬁll;
+         o Capital and operating cost, including maintenance.
+
+Note that avoiding the landside problem is an excellent approach if it is considered during
+the planning phase. However, a large cost may be involved if a landslide problem is detected
+after the location has been selected and the design completed. With that respect of avoidance,
+the consideration of the inventory map of the old and recent deep-seated landslides that we
+have identiﬁed during the ﬁrst phase of the project is important. This locates the places that
+are the most prone to be affected by ground deformations. Avoidance should also be kept as
+a potential mitigation measure for the area that we have identiﬁed has the most landside
+hazard prone.
+
+
+
+
+                                                                                         44
+3.4    Measures to reduce the hazard
+
+When avoidance is not an option, other mitigation measures must be considered. Mitigation
+measures which aim to reduce the hazard must reduce the probability of triggering of the
+landslide(s) which the speciﬁc measure is intended to address. This type of mitigation
+measures are sometimes referred to as “stabilization”.
+
+The stability of any hillslope is decided by a balance of forces between stresses driving
+downward movement (shear stress) and stresses resisting to movement (shear strength) at
+the bottom interface between the landslide mass and the stable material, with gravity as the
+primary driving force (Lu and Godt, 2013). Thus, factors (or forcings) that affect the shear
+strength (e.g., weathering, vegetation, past movement, variation in pore-water pressure or
+changes in hydrologic conditions/properties) or the shear stress acting on the hillslope (e.g.,
+mass redistribution, debuttressing at the toe, transient loading from earthquakes) are
+potential causes to landslide failure and/or acceleration (Sidle and Ochiai, 2006; Lu and
+Godt, 2013; Lacroix et al., 2020).
+
+This mechanical balance between driving and resisting forces is mediated by the presence of
+water in the slope and quantiﬁed using the concept of effective stress (Lu and Godt, 2013).
+Water inﬁltration will lead to the build-up of pore-water pressure within the slope
+(generally depicted by the transient development of a perched water table), which will
+typically reduce the shear strength of the slope material (Sidle and Ochiai, 2006) and
+increase shear stress due to the weight of water (Lu and Godt, 2013). Besides, interactions
+between forcings – such as the combination of rainfalls with earthquake(s) – may affect the
+slope stability further than each forcing individually, illustrating the complexity of
+landslides mechanisms (Lacroix et al., 2020). It is to be noted that, when considering factors
+conditioning the hillslope stability, it is important to account that the forcings triggering
+initial failure (i.e., landslide occurrence) may be different from forcings controlling later
+motion (if any).
+
+Independently of the causative processes and the complexity of the speciﬁc geosystem
+under consideration the factors which determine the triggering of movements are:
+
+       a) decrease in shear strength
+       b) increase in shear stress
+
+The ratio between shear strength and shear stress forms the factor of safety (FS), i.e. an easy
+approach to discuss what drives the stability of a slope. This ratio may change over time in
+response to environmental changing conditions (Figure 12 and Figure in Appendix 1.2).
+
+
+
+
+                                                                                         45
+Figure 12: Stability states and destabilising factors. Adapted from Glade
+and Crozier (2005). Landslides occur when the factor of safety (FS) is < 1.
+
+
+The most common causative processes that will have an impact of the changing characteristics
+of the factor of safety are listed in Table 13 and partly summarized in Figure 13.
+Combinations of (a) and (b) often act simultaneously as a direct result of external processes,
+as in the case of basal erosion or excavations, which can cause both an increase in shear
+stress through increased slope angle and/or height, or a decrease in shear strength, through
+a reduction in total and effective stress.
+
+Table 13: Triggering factors with examples of common causative/forcing processes.
+Adapted from Leroueil (2001) and Lu and Godt (2013).
+
+
+
+
+                                                                                        46
+Figure 13: Stability Schematic demonstrating the possible forcings of landslides. Source Lacroix et al., 2020.
+
+
+
+In order to reduce the probability of triggering, mitigation measures which aim to reduce
+the hazard of landslides occurring must act in the system in the opposite direction, by:
+
+       A: increasing the resisting forces; and/or
+       B: decreasing the driving forces.
+
+While this could provide a ﬁrst step in the classiﬁcation of this type of mitigation measures, it
+is more convenient to classify them on the basis of the physical process involved. In particular,
+it is here recommended to distinguish between the classes indicated in Table 14. In Appendix
+2 we propose extra information on the mitigation approaches to reduce the hazard.
+
+Retaining structures are used extensively and can be considered as an additional class of
+hazard mitigation measures, even though they are used as means to modify slope geometry
+and/or to transfer load to more competent strata, rather than to address a speciﬁc physical
+process.
+
+
+
+
+                                                                                                                 47
+Table 14: Landslide Hazard Mitigation Measures (adapted from Popescu &
+Sasahara, 2009)
+
+
+
+
+                                                                         48
+3.5     Measures to reduce the vulnerability
+
+Measures to reduce the vulnerability of the elements at risk consist of “passive” solutions
+which are not intended to prevent the triggering of the landslide but to reduce the resulting
+degree of loss. They can be subdivided in two main categories, depending on the approach
+followed to achieve this objective:
+
+      Measures to increase the resistance of elements at risk (reduction of vulnerability s.s.)
+      – existing structures can be strengthened; for new structures, the potential effects of
+      impact from landslide material can be taken into account from the outset. This
+      approach is typically applicable only in relation to relatively shallow slides, since it is
+      practically impossible to build structures capable of withstanding the impact form
+      larger landslides (Figure 14 and Figure 15).
+      Measures to stop or to deviate the path of the landslide debris (reduction of vulnerabil-
+      ity s.l.) - Works can be carried out to intercept and block or at least to deviate or to slow
+      down the sliding materials. This type of works relates mainly to the fall of massive
+      blocks or to ﬂows of all types, in those cases where a large slope is affected and stabili-
+      zation is not feasible for environmental impact reasons or because of cost.
+
+Measures to reduce the vulnerability through the increase of structural resistance may be
+summarized as follows:
+
+        Strengthening of shallow foundations and improved structural design to withstand
+        predicted permanent ground displacements;
+        Deep foundations properly designed to accommodate the landslide effect;
+        Deep anchoring of foundation elements;
+        Combination of the above three approaches.
+
+Another important parameter affecting the strengthening approach is the fact that any
+approach is strongly case-depended, in the sense that the characteristics of the structure,
+its relative position within the landslide zone and the regolith-rock properties play an
+important role in any strengthening decision. This is why the relevant research and design
+practice is rather fragmented. Consequently it is practically impossible to deﬁne, in a gener-
+al way, the improvement in the vulnerability (in quantitative terms) obtained by increasing
+the resistance of different parts of the structure, because de facto this is a case depended
+evaluation.
+
+Measures to stop or to deviate the path of the landslide debris resistance relate to the
+following landslide types (Figure in Appendix 1.1):
+
+a) Earth or debris ﬂows of any type;
+b) Toppling, rumbling or free falling rocks of various sizes.
+
+They should be foreseen when the general stabilization of the landslide is not feasible from
+technical, environmental and ﬁnancial point of view.
+
+
+
+
+                                                                                             49
+The basic idea of these measures is to intercept the sliding or falling material, or at least to
+deviate it, in order to protect existing elements at risk or points of particular interest locat-
+ed downslope of a potential landslide. Typical measures includes:
+
+       Diversion channels;
+       Re-modelling of the slope;
+       Planting and vegetation on the slope;
+       Catch trenches;
+       Rockfall barriers;
+       Rockfall nets (or Drapery)
+       Rock sheds.
+
+
+
+
+ Figure 14: Schematic representation of structural damage to buildings for different landslide types.
+ Damage is assigned to slide and ﬂow processes (a), to ﬂows (b), to falls and topples (c), to subsidence (d),
+ and to rock avalanches or large rock failures (e). Source: Glade and Crozier, 2005.
+
+
+
+
+                                                                                                                50
+Figure 15: Schematic consequences of different velocities of movement for different landslide types. A
+slide creeps (a.1) or fails suddenly (a.3). A debris ﬂow progresses in low (b.1) or high velocities (b.3) with
+respective changes in ﬂow height. A slow or fast moving rock fall damages, depending on the size and
+consequent momentum, elements at risk to a different degree (c). The degree depends on the distance
+between the process and the location of the element at risk. Source: Glade and Crozier, 2005.
+
+
+
+
+                                                                                                                 51
+3.6 Measures to reduce the elements at risk
+
+The temporary or permanent reduction of the number and/or value of the elements at risk is
+widely practiced and particularly cost effective, especially when the number of elements at
+risk is small in relation to the extent of the landslide and of the affected area and when it is
+achieved through the sustained implementation of appropriate long-term planning measures.
+
+Ambrozic et al. (2009) and SafeLand (2012) distinguish between:
+
+    Decreasing the number of vulnerable elements potentially affected by a landslide, for
+    example by:
+    o Zoning to prevent development in hazardous areas or removing existing development
+      from hazardous areas (exclusionary zones);
+    o Trafﬁc restrictions (reduce number of vehicles).
+    Decreasing the probability that vulnerable elements will both spatially and temporally
+    intercept ground movements, e.g. by:
+    o Moving non-stationary vulnerable elements to less hazardous locations;
+    o Increasing awareness, detection and warning of hazards (either detected movement
+      or trigger conditions) and subsequent avoidance (evacuation or temporary exclusion,
+      followed by inspection before resuming normal use).
+
+Each of these strategies can be implemented forcibly through standards and legislations or,
+less invasively, by means of incentives or disincentives introduced through planning. These
+actions could be:
+    Relocation of existing facilities: Existing facilities can be completely eliminated or they can
+    be reconverted to uses which imply a lower vulnerability to landslides;
+    Reduction of speciﬁc value: The average number of people and/or the value of economic
+    activities associated with a speciﬁc element at risk can be reduced, for example by limiting
+    the range of end uses allowed through the planning instruments;
+    Avoiding the construction of new facilities: The forced relocation of existing facilities is an
+    extremely invasive measure, potentially applicable only in the most serious situations. A
+    more practical approach in many cases may be the implementation of a long term strategy
+    to prevent the location of new elements within hazardous areas, either by enforcing
+    planning limits or through policies based on incentives or disincentives
+
+
+
+
+                                                                                             52
+  A quote that presents landslide mitigation from a general perspective
+
+  To quote Highland an Bobrowsky (2008): “Vulnerability to landslide hazards is a function
+  of a site’s location (topography, geology, drainage), type of activity, and frequency of past
+  landslides. The effects of landslides on people and structures can be lessened by total
+  avoidance of landslide hazard areas or by restricting, prohibiting, or imposing conditions
+  on hazard-zone activity. Local governments can accomplish this through land use
+  policies and regulations. Individuals can reduce their exposure to hazards by educating
+  themselves on the past hazard history of a desired site and by making inquiries to
+  planning and engineering departments of local governments. They could also hire the
+  professional services of a geotechnical engineer, a civil engineer, or an engineering
+  geologist who can properly evaluate the hazard potential of a site, built or unbuilt.”
+
+
+3.7 Highlight on CROM DSS
+
+The Catchment Restoration Opportunity Mapping Support System (CROM DSS) developed
+by W4G for the IWRM programme, a nationally-adopted tool for the mapping of soil erosion
+risk areas in Rwanda, proposes several land use options to mitigate the degradation of soil
+erosion by rainfall (e.g. agroforestry, progressive and bench terraces, forestation). This
+document is framed around a RUSLE soil erosion analysis, i.e. a physically plausible empirical
+method for predicting soil erosion (Renard et al., 1997). The RUSLE-based modelling
+approach provides estimates of the potential rates of soil displacement by water erosion (soil
+erosion). More speciﬁcally, the RUSLE modelling only predicts soil losses caused by sheet and
+rill erosion. In short this model does not handle at all other soil erosion processes such as
+gullying. In addition, gravity-driven processes such as landslides are not at all seized by this
+model. Therefore, what is suggested to managed soil erosion in CROM DSS must be
+considered with the highest care when mitigating the landslides. Indeed, reducing soil
+erosion, means reducing the runoff water. If the runoff is reduced, this means that the
+inﬁltration of the water is increased. If the inﬁltration is increased, this means that the
+soil/regolith water content is increased, hence creating conditions that are more favourable
+for landsliding (Sidle and Ochiai, 2006; Lu and Godt, 2013, Table 13, Figure 13).
+
+A very striking feature in soil water conservation is that of agricultural terraces (Figure 16 –
+Figure Appendix 3.1); i.e. soil conservation practices that are commonly adapted in many
+regions of Rwanda e.g. the Ministry of Agriculture and Animal Resources (MINAGRI) set up
+the fourth Strategic Plan Agriculture Transformation for 2018 – 2024 where bench terraces
+are highlighted as a mean to ﬁght against soil erosion).
+
+
+
+
+                                                                                           53
+Slopes in steep terrain are often converted into terraces. Terraces are structures that are
+built to divide a slope into short and gently sloping segments, as a measure to reduce the
+slope steepness. Terraces change the topography of slopes and thus hydrological pathways,
+for example by decreasing the runoff. Moreover, the surface roughness is altered,
+decreasing overland ﬂow connectivity. These changes will reduce the runoff and improve
+water conservation, which will lead to a higher soil moisture and water holding capacity
+(Wei et al., 2016). Therefore, the mentioned factors will reduce (severe) soil erosion (e.g.
+sheet and rill erosion, gully formation) and beneﬁt soil conservation (FAO, 2000).
+Worldwide, these structures are used to decrease runoff and combating soil erosion (Wei et
+al., 2016).
+
+Within the tropics, however, very little is known about the impact of terracing on the
+occurrence of landslides. In South-East Asia, Sidle et al. (2006) argued that terraces allow
+for greater water inﬁltration and thus create conditions favourable for landslides.
+Turkelboom et al. (2008) observed an elevated landslide frequency on terraced slopes in
+northern Thailand. A similar perception is held by farmers in Eastern Uganda (Kitutu et al.,
+2011). It is to be expected that the impact of terraces on landslides is, to some extent,
+dependent on the terrace typology and management. However, this hypothesis still has to
+be tested in the tropics. The impact of terrace typology on land degradation processes has
+already been demonstrated in Rwanda where labour-intensive bench (radical) terraces
+appear to be more effective at controlling soil erosion compared to progressive terraces (i.e.
+terraces gradually made by local farmers – aka Fanya-juu terraces ), yet landslides were not
+investigated in these studies (Fashaho et al., 2020; Rutebuka et al., 2021).
+
+One of the key issues associated with terracing is their abandonment (Wei et al., 2016). Such
+abandonments generally equal to a total lack of maintenance, which in the long run can
+accelerate the formation of existed rills, interrills, gullies, gravitational erosion, piping and
+landslides on marginal slopes. Without adequate maintenance, various natural or other
+human-generated forces will gradually damage the structure and strength of terrace walls
+and risers, leading to a complete terrace failure. For example, Agnoletti et al. (2019) showed
+that abandoned terraces are particularly sensitive to slope failures, yet their study is
+situated in temperate regions.
+
+Another agricultural activity that can lead to slope destabilization is irrigation, which can
+help increase water recharge in the upper soil layers. This process has been well
+documented in Indonesia, where the liquefaction of unconsolidated materials associated
+with the 2018 Palu earthquake was accentuated in irrigated areas, triggering translational
+landslides and lateral extension on relatively gentle slopes of less than a few degrees
+(Watkinson and Hall, 2019).
+
+
+
+
+                                                                                           54
+Figure 16: A) Cropland and planted forest with different measures for soil conservation (contour
+ploughing & bund, terracing, etc.). Note also the presence of shallow landslides (red arrows). Photo taken
+in September 2018 in Kabaya (Ngororero district) in Rwanda. B) Photo of bench terraces. Photo taken in
+May 2021 in Karago (Nyabihu district) in Rwanda. Author of both photos: O. Dewitte.
+
+
+
+3.8     Gully erosion
+Gully erosion is a major environmental problem, posing signiﬁcant threats to sustainable
+development. However, insights on techniques to prevent and control gullying are scattered
+and incomplete, especially regarding failure rates and effectiveness. For an overview of the
+problem, we refer to the review paper recently published by Frankl et al. (2021) - https://online
+library.wiley.com/doi/epdf/10.1002/esp.5033
+
+
+
+
+                                                                                                             55
+ Figure 17: Overview of gully prevention and control techniques discussed in this paper. Source: Frankl
+ et al., 2021.
+
+
+The main outcomes of this paper, summarized by Figure 17, are:
+      Preventing gully formation can be done through land use change, applying soil and
+      water conservation techniques or by targeted measures in concentrated ﬂowzones.
+      The latter include measures that increase topsoil resistance and vegetation barriers.
+      Vegetation barriers made of plant residues have the advantage of being immediately
+      effective in protecting against erosion, but have a short life expectancy as compared
+      to barriers made of living vegetation.
+      Once deeply incised, the development of gullies may be controlled by diverting runoff
+      away from the channel, but this comes at the risk of relocating the problem. Additional
+      measures such as headcut ﬁlling, channel reshaping and headcut armouring can also
+      be applied.
+      To control gully channels, multiple studies report on the use of check dams and/or
+      vegetation. Reasons for failures of these techniques depend on runoff and sedi ment
+      characteristics and cross-sectional stability and micro-environment of the gully. In
+      turn, these are controlled by external forcing factors that can be grouped into (i)
+      geomorphology and topography, (ii) climate and (iii) the bio-physical environment.
+      The impact of gully prevention and control techniques is addressed, especially
+      regarding their effect on headcut retreat and network development, the trapping of
+      sediment by check dams and reduction of catchment sediment yield. Overall,
+      vegetation establishment in gully channels and catchments plays a key role in gully
+      prevention and control. Once stabilized, gullies may turn into rehabilitated sites of
+      lush vegetation or cropland, making the return on investment to prevent and control
+      gullies high.
+Overall, the strategy proposed by CROM DSS is well in line to tackle the problem of the
+mitigation of gully erosion.
+
+                                                                                                          56
+3.9 Speciﬁc landslide mitigation measures for the study areas
+
+3.9.1 Assumptions
+
+This study has been carried based on literature review, satellite imagery review, and that no
+speciﬁc ﬁeld measurements were taken; therefore the determination of landslide mitigation
+measures appropriate for each site has been based on assumptions. From these, cost estimates
+were produced.
+The mitigation measures hereafter presented are proposed for areas in each sub-catchment
+with the highest susceptibility to landslides, i.e. landslide hazard classes of 365 m²/year/km²
+and 90m²/year/km². Section 1 provides details of the landslide risk assessment.
+The total surface areas covered by the two landslides hazard classes are given in the table
+below.
+
+
+Table 15: Surface areas under the two highest landslide hazard classes
+
+                                                  Combined area under the landslide hazard
+                            Total surface area                     2       2
+ Sub-catchment                                    classes of 365 m /year/km and
+                            (ha)                       2         2
+                                                  90m /year/km
+ Bishenyi                               4,686.8                                         666.7
+ Rwabayanga                               809.0                                          68.4
+ Rwandex – Magerwa                        979.3                                          63.9
+ Kamembe – Gihundwe                     2,123.6                                          76.3
+
+
+The following assumptions are made:
+    Should landslides occur in the two aforementioned highest susceptibility zones, they
+    would be shallow landslides that are likely to cause soil erosion;
+    Given the assumption of shallow landslides, mitigation measures are designed to
+    address the following physical processes:
+         o Surface protection and control of erosion;
+         o Modiﬁcation of land geometry
+         o Modiﬁcation of the surface water regime
+    The mitigation measures proposed will not include elements that lead to an increase in
+    surface water inﬁltration into the soil. It is has been discussed in the preceding section
+    that any soil erosion control measure that leads to increased water inﬁltration (e.g.
+    radical terraces) would lead to creation of conditions that are favourable to landslides;
+    Within each area with the highest susceptibility to landslides, it is assumed that the
+    total coverage of zones to be reforested is 30%. This assumption builds from the guid-
+    ance of the Rwanda building code that stipulates a coverage of 30% for landscaping
+    (trees, green spaces) in urban developments;
+    For drainage trenches / ditches, a coverage of 500 m of channel per 3 ha is assumed.
+
+
+
+
+                                                                                                57
+3.9.2 Areas with the highest susceptibility to landslides
+
+The maps below show the locations in each sub-catchment, which have the highest susceptibility
+to landslides, i.e. landslide hazard classes of 365 m²/year/km² and 90m2/year/km². Detailed
+maps are submitted together with this report.
+
+
+
+
+Figure 18: Areas with highest susceptibility to landslides in each of the sub-catchment
+
+
+
+Table 16 below presents the land uses in the at-risk zones:
+
+Table 16: Existing land use in areas with the highest susceptibility to landslides
+ Sub-catchment              Existing land use in areas with highest susceptibility
+ Bishenyi                   Mix of agricultural areas and forests with declining tree cover, few residential zones
+ Rwabayanga                 Mix of agricultural areas and forests with declining tree cover
+ Kamembe-Gihundwe           Mix of agricultural areas and forests with declining tree cover
+ Rwandex-Magerwa            Mix of residential areas and forests with declining tree cover
+
+
+
+                                                                                                             58
+3.9.3 Proposed mitigation measures
+
+The mitigation measures proposed for the four study areas are informed by the Catchment
+Restoration Opportunity Mapping Support System (CROM DSS). The emphasis is here again
+placed on the assumption that, should landslides occur, these would be shallow landslides
+leading mostly to soil erosion. This assumption provides the rationale for the application of
+CROM DSS measures. The Catchment Restoration Opportunities Matrix presented in the
+Table 17 below summarizes the different erosion control measures according to the slopes,
+soil depth categories and geology.
+
+Table 17: CROM matrix of slope / soil depth classes and alternative land use options
+         Soil depth�                          > 0.5 m                                             < 0.5 m
+Land slope�
+
+1: (0-6%)              Class I                                                 Class VI
+                          Agroforestry + contour ploughing + alley               Agroforestry + contour ploughing +
+                           cropping with grass strips                              alley cropping with grass strips
+                                                                                  Forestation where soil depth is too
+                                                                                   limited and unsuitable for crops.
+                                                                                  Perennial crops, coffee, tea, banana,
+                                                                                   fruit trees
+2: (6 - 16%)           Class II                                                Class VII-a
+                          Progressive terraces (reinforced by                    Progressive terraces (reinforced by
+                           agroforestry hedges and grass strips)                   agroforestry hedges and grass strips)
+                          Perennial crops, coffee, tea, banana, fruit trees      Perennial crops, coffee, tea, banana,
+                                                                                   fruit trees
+                                                                                  Forestation where soil depth is too
+                                                                                   limited and unsuitable for crops
+3: (16 - 40%)          Class III                                               Class VII-b
+                          Bench terraces (option only in case of suitable,       Progressive terraces (reinforced by
+                           stable parent material / geology; avoid                 agroforestry hedges and grass strips)
+                           introducing landslide risks)                           Forestation where soil depth is too
+                          Progressive terraces (reinforced by                     limited and unsuitable for crops
+                           agroforestry hedges and grass strips)                  Perennial crops, coffee, tea, banana,
+                          Perennial crops, coffee, tea, banana, fruit trees       fruit trees
+4: (40- 60%)           Class IV                                                Class VIII-a
+                          Narrow cut terraces (option only in case of            Forestation (Biological measures) +
+                           suitable, stable parent material / geology;             trenches / ditches
+                           avoid introducing landslide risks)
+                          Progressive terraces (reinforced by
+                           agroforestry hedges and grass strips)
+                          Forestation (Biological measures)
+                          Perennial crops, coffee, tea, banana, fruit trees
+5: (> 60)              Class V                                                 Class VIII-b
+                          Forestation (Biological measures) + trenches /         Natural vegetation
+                           ditches
+                          Perennial crops, coffee, tea, banana, fruit trees
+
+
+In line with the existing land use in each of the sub-catchments, the following mitigation
+measures are proposed:
+
+
+
+
+                                                                                                                    59
+Table 18: Summary of proposed mitigation measures
+ Sub-catchment                   Existing land use in areas with highest susceptibility
+ Bishenyi                        Agroforestry + progressive terraces, reforestation and trenches / ditches
+                                 Agroforestry + progressive terraces, reforestation, trenches / ditches and gully
+ Rwabayanga
+                                 rehabilitation
+ Kamembe-Gihundwe                Agroforestry + progressive terraces, reforestation and trenches / ditches
+ Rwandex-Magerwa                 Reforestation and trenches / ditches
+
+A Bill of Quantities for the mitigation measures is provided below:
+
+3.9.4 Bill of quantities
+                                                                Unit cost /   Unit cost /
+ Sub-catchment   Mitigation measure           Unit   Coverage                               Total Cost / RWF   Total cost / USD
+                                                                RWF           USD
+                 Reforestation                ha       200.01
+                 Agroforestry + progressive
+                                              ha       466.69
+ Bishenyi        terraces
+                 Trenches / ditches           km       111.10
+                                                                                    TOTAL
+
+                                                                Unit cost /   Unit cost /
+ Sub-catchment   Mitigation measure           Unit   Coverage                               Total Cost / RWF   Total cost / USD
+                                                                RWF           USD
+                 Reforestation                ha        20.52
+                 Agroforestry + progressive
+                                              ha        47.88
+                 terraces
+ Rwabayanga      Trenches / ditches           km        11.40
+                 Gully rehabilitation +
+                                              ha         1.50
+                 reforestation
+                                                                                    TOTAL
+
+                                                                Unit cost /   Unit cost /
+ Sub-catchment   Mitigation measure           Unit   Coverage                               Total Cost / RWF   Total cost / USD
+                                                                RWF           USD
+                 Reforestation                ha        22.89
+                 Agroforestry + progressive
+ Kamembe -                                    ha        53.41
+                 terraces
+ Gihundwe
+                 Trenches / ditches           km        12.70
+                                                                                    TOTAL
+
+                                                                Unit cost /   Unit cost /
+ Sub-catchment   Mitigation measure           Unit   Coverage                               Total Cost / RWF   Total cost / USD
+                                                                RWF           USD
+                 Reforestation                ha        44.73
+ Rwandex-
+                 Trenches / ditches           km        10.60
+ Magerwa
+                                                                                    TOTAL
+
+
+3.10 Literature consulted for the landslide mitigation measures
+
+Agnoletti, M., Errico, A., Santoro, A., Dani, A., Preti, F., 2019. Terraced landscapes and hydro-
+geological risk. Effects of land abandonment in Cinque Terre (Italy) during Severe rainfall
+events. Sustainability 11. doi:10.3390/su11010235
+
+Ambrozic T., Fairbank H., Grelle G., Guadagno F.M., Houghton J., Leroi E., Logar J., Marsden
+P., Revellino P., Turk G., 2009. Guidelines on relevant criteria to assess vulnerability and
+risk. FRANE Future Risk Assessment as a New European approach to landslide hazards.
+Guidelines & Relevant Reports. Guadagno F.M., Revellino P. (eds.), European Commission,
+Directorate General Environment, Directorate A – Governance, Communications and Civil
+Protection, Unit A5 – Civil Protection.
+
+
+
+                                                                                                                         60
+Depicker, A., Govers, G., Jacobs, L., Campforts, B., Uwihirwe, J., Dewitte, O., 2021. Interactions
+between deforestation, landscape rejuvenation, and shallow landslides in the North Tangan-
+yika – Kivu Rift region, Africa. Earth Surface Dynamics 9, 445–462. doi:https://-
+doi.org/10.5194/esurf-9-445-2021
+Dewitte, O., Dille, A., Depicker, A., Kubwimana, D., Maki Mateso, J.C., Mugaruka Bibentyo, T.,
+Uwihirwe, J., Monsieurs, E., 2021. Constraining landslide timing in a data-scarce context: from
+recent to very old processes in the tropical environment of the North Tanganyika-Kivu Rift
+region. Landslides 18, 161–177. doi:10.1007/s10346-020-01452-0
+Dille, A., Kervyn, F., Mugaruka Bibentyo, T., Delvaux, D., Bamulezi Ganza, G., Mawe Ilombe, G.,
+Buzera Kalikone, C., Safari Makito, E., Moeyersons, J., Monsieurs, E., Nzolang, C., Smets, B.,
+Kervyn, M., Dewitte, O., 2019. Causes and triggers of deep-seated hillslope instability in the
+tropics – insights from a 60-year record of Ikoma landslide (DR Congo). Geomorphology 345,
+106835. doi:10.1016/j.geomorph.2019.106835
+FAO, 2000. Manual on integrated soil management and conservation practices, FAO Land and
+Water Bulletin.
+Fashaho, A., Ndegwa, G.M., Lelei, J.J., Musandu, A.O., Mwonga, S.M., 2020. Effect of land
+terracing on soil physical properties across slope positions and proﬁle depths in medium and
+high altitude regions of Rwanda. South African Journal of Plant and Soil 37, 91–100.
+doi:10.1080/02571862.2019.1665722
+Fell, R., Corominas, J., Bonnard, C., Cascini, L., Leroi, E., Savage, W.Z., 2008. Guidelines for
+landslide susceptibility, hazard and risk zoning for land use planning. Engineering Geology
+102, 85–98. doi:10.1016/j.enggeo.2008.03.022
+Frankl, A., Nyssen, J., Vanmaercke, M. and Poesen, J., 2021. Gully prevention and control:
+techniques, failures and effectiveness. Earth Surface Processes and Landforms 46, 220-238.
+doi: 10.1002/esp.5033.
+Glade, T., Crozier, M.J., 2005. The Nature of Landslide Hazard Impact, in: Glade, T., Anderson,
+M., Crozier, M.J. (Eds.), Landslide Hazard and Risk. John Wiley & Sons, Ltd, Chichester, West
+Sussex, England, pp. 43–74. doi:10.1002/9780470012659.ch2
+Highland, L. and Bobrowsky, P.T., 2008. The landslide handbook: a guide to understanding
+landslides. Reston: US Geological Survey.
+Holtz, R.D. and Schuster, R.L., 1996. Stabilization of soil slopes, in: Landslides. Investigation
+and Mitigation, Transportation Research Board, National Research Council Special Report,
+pp. 439-473.
+Hungr, O., Leroueil, S., Picarelli, L., 2014. The Varnes classiﬁcation of landslide types, an
+update. Landslides 11, 167–194. doi:10.1007/s10346-013-0436-y
+Keaton, J.R. and Beckwith, G.H., 1996. Important considerations in slope design, in: Land-
+slides. Investigation and Mitigation, Transportation Research Board, National Research
+Council Special Report, pp. 429-438.
+Kitutu, M.G., Muwanga, A., Poesen, J., Deckers, J.A., 2011. Farmer’s perception on landslide
+occurrences in Bududa district, Eastern Uganda. African Journal of Agricultural Research 6,
+7–18. doi:10.5897/AJAR09.158
+
+
+
+
+                                                                                            61
+Kubwimana, D., Ait Brahim, L., Nkurunziza, P., Dille, A., Depicker, A., Nahimana, L., Abdelouaﬁ,
+A., Dewitte, O., 2021. Characteristics and Distribution of Landslides in the Populated
+Hillslopes of Bujumbura , Burundi. Geosciences 11, 259. doi:https://doi.org/ 10.3390/geosci-
+ences11060259
+Lacroix, P., Handwerger, A.L., Bièvre, G., 2020. Life and death of slow-moving landslides.
+Nature Reviews Earth & Environment 1, 404–419. doi:10.1038/s43017-020-0072-8
+Leroueil, S., 2001. Natural slopes and cuts: Movement and failure mechanisms. Geotechnique
+51, 197–243. doi:10.1680/geot.2001.51.3.197
+Lu, N. and Godt, J.W., 2013. Hillslope hydrology and stability. Cambridge University Press.
+Popescu, M.E., Sasahara, K., 2009. Engineering measures for landslide disaster mitigation, in:
+Sassa, K., Canuti, P. (Eds.), Landslides - Disaster Risk Reduction. Springer, Berlin, Heidelberg,
+pp. 609–631. doi:10.1007/978-3-540-69970-5
+Renard, K.G., Foster, G.R., Weessies, G.A., McCool, D.K., Yoder, D.C., 1997. Predicting Soil
+Erosion by Water: A Guide to Conservation Planning With the Revised Universal Soil Loss
+Equation (RUSLE). Agriculture Handbook 703, Agriculture Handbook. United States Depart-
+ment of Agriculture (USDA), Agricultural Research Service, Washington.
+Rutebuka, J., Munyeshuli Uwimanzi, A., Nkundwakazi, O., Mbarushimana Kagabo, D., Mbon-
+igaba, J.J.M., Vermeir, P., Verdoodt, A., 2021. Effectiveness of terracing techniques for con-
+trolling soil erosion by water in Rwanda. Journal of Environmental Management 277, 111369.
+doi:10.1016/j.jenvman.2020.111369
+SafeLand, 2012. SafeLand – living with landslide risk in Europe: assessment, effects and global
+change, and risk management strategies. Deliverable 5.1: compendium of tested and innova-
+tive structural, non-structural and risk-transfer mitigation measures for different lan. EU 7th
+Framework Programme. doi:10.1007/978-3-642-31319-6_87
+Sidle, R. and Ochiai, H., 2006. Processes, prediction, and land use. Water resources mono-
+graph. American Geophysical Union, Washington.
+Sidle, R.C., Ziegler, A.D., Negishi, J.N., Nik, A.R., Siew, R., Turkelboom, F., 2006. Erosion
+processes in steep terrain - Truths, myths, and uncertainties related to forest management in
+Southeast Asia. Forest Ecology and Management 224, 199–225.
+Turkelboom, F., Poesen, J., Trébuil, G., 2008. The multiple land degradation effects caused by
+land-use intensiﬁcation in tropical steeplands: A catchment study from northern Thailand.
+Catena 75, 102–116. doi:10.1016/j.catena.2008.04.012
+Turner, A.K., Schuster, R.L., 1996. Landslides: investigation and mitigation. Transportation
+Research Board, Special Report 247, National Research Council. National Academy Press,
+Washington D.C.
+Watkinson, I.M., Hall, R., 2019. Impact of communal irrigation on the 2018 Palu earthquake-triggered
+landslides. Nature Geoscience 12, 940–945. doi:10.1038/s41561-019-0448-x
+Wei, W., Chen, D., Wang, L., Daryanto, S., Chen, L., Yu, Y., Lu, Y., Sun, G., Feng, T., 2016. Global
+synthesis of the classiﬁcations, distributions, beneﬁts and issues of terracing. Earth-Science
+Reviews 159, 388–403. doi:10.1016/j.earscirev.2016.06.010
+
+
+
+
+                                                                                              62
+3.11 Appendices
+
+3.11.1          Appendix 1– landslide types and processes
+
+
+
+
+Figure Appendix 1.1. Different categories of slope movement are deﬁned by material type, nature of the
+movement, rate of movement, and moisture content. Trista L. Thornberry-Ehrlich, Colorado State University
+modiﬁed from Varnes, D. J. 1978. Landslides: analysis and control. (https://www.nps.gov/subjects/geohazards/
+landslide-hazards.htm).
+
+
+
+                                                                                                               63
+Figure Appendix 1.2. Meteorological, hillslope, ecological and geomorphic factors that steer causal
+and triggering conditions, depth, probability, and timing of landslides. Bright colors are main processes
+within particular system, lighter colors show indirect or related processes in the considered sub-system.
+Arrows indicate linkages amongst processes or conditions that affect landslides (Source: Sidle and
+Bogaard, 2016). The ecosystem dynamics (ED) and the regolith/hillslope environment factors (RHE)
+are the two categories of predisposing factors that can be altered by human actions.
+
+
+
+
+                                                                                                            64
+3.11.2       Appendix 2 – mitigation approaches (extra information)
+Table Appendix 2.1. Summary of mitigation approaches to potential slope stability prob-
+lems is soil (mobile regolith). Source: Keaton and Beckwith, 1996.
+
+
+
+
+                                                                                  65
+3.11.3          Appendix 3 – Examples of terracing types
+
+
+
+
+  Figure Appendix 3.1. Some typical terracing types based on the differences in structure and appear-
+  ance. (Note: A:wave-like terraces; B: slope separated terraces; C: level benches/level terraces without
+  embankments; D: level ditches; E: zig terraces; F: broad-based terraces with embankments; G:
+  half-moon terraces/ﬁsh-scale pits; H: natural slope). Source: Wei et al., 2016.
+
+
+
+
+                                                                                                            67
+19F Jeongdong Building, 21-15, Jeongdong-gil,
+Jung-gu, Seoul, Republic of Korea 04518
+
+
+
+
+www.GGGI.org
+

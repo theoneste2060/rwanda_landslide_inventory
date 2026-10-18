@@ -1,0 +1,44 @@
+  A quote that presents landslide mitigation from a general perspective
+
+  To quote Highland an Bobrowsky (2008): “Vulnerability to landslide hazards is a function
+  of a site’s location (topography, geology, drainage), type of activity, and frequency of past
+  landslides. The effects of landslides on people and structures can be lessened by total
+  avoidance of landslide hazard areas or by restricting, prohibiting, or imposing conditions
+  on hazard-zone activity. Local governments can accomplish this through land use
+  policies and regulations. Individuals can reduce their exposure to hazards by educating
+  themselves on the past hazard history of a desired site and by making inquiries to
+  planning and engineering departments of local governments. They could also hire the
+  professional services of a geotechnical engineer, a civil engineer, or an engineering
+  geologist who can properly evaluate the hazard potential of a site, built or unbuilt.”
+
+
+3.7 Highlight on CROM DSS
+
+The Catchment Restoration Opportunity Mapping Support System (CROM DSS) developed
+by W4G for the IWRM programme, a nationally-adopted tool for the mapping of soil erosion
+risk areas in Rwanda, proposes several land use options to mitigate the degradation of soil
+erosion by rainfall (e.g. agroforestry, progressive and bench terraces, forestation). This
+document is framed around a RUSLE soil erosion analysis, i.e. a physically plausible empirical
+method for predicting soil erosion (Renard et al., 1997). The RUSLE-based modelling
+approach provides estimates of the potential rates of soil displacement by water erosion (soil
+erosion). More speciﬁcally, the RUSLE modelling only predicts soil losses caused by sheet and
+rill erosion. In short this model does not handle at all other soil erosion processes such as
+gullying. In addition, gravity-driven processes such as landslides are not at all seized by this
+model. Therefore, what is suggested to managed soil erosion in CROM DSS must be
+considered with the highest care when mitigating the landslides. Indeed, reducing soil
+erosion, means reducing the runoff water. If the runoff is reduced, this means that the
+inﬁltration of the water is increased. If the inﬁltration is increased, this means that the
+soil/regolith water content is increased, hence creating conditions that are more favourable
+for landsliding (Sidle and Ochiai, 2006; Lu and Godt, 2013, Table 13, Figure 13).
+
+A very striking feature in soil water conservation is that of agricultural terraces (Figure 16 –
+Figure Appendix 3.1); i.e. soil conservation practices that are commonly adapted in many
+regions of Rwanda e.g. the Ministry of Agriculture and Animal Resources (MINAGRI) set up
+the fourth Strategic Plan Agriculture Transformation for 2018 – 2024 where bench terraces
+are highlighted as a mean to ﬁght against soil erosion).
+
+
+
+
+                                                                                           53
+

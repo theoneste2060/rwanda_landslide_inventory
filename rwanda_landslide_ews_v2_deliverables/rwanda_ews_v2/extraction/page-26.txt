@@ -1,0 +1,27 @@
+ Table 6: Landslide hazard categories
+
+                                         Average landslide hazard rate
+   Susceptibility classes                 2         2
+                                         m /year/km
+   0-10% (highest susceptibility)                                  365
+   > 10- 30%                                                        90
+   > 30-60%                                                         18
+   > 60-100%                                                          1
+
+
+
+
+Figure 8: Landslide hazard maps (purple and blue areas are
+inventoried landslides)
+
+
+A - Bishenyi
+B - Rusizi
+C - Rwabayanga
+D - Rwandex Magerwa
+
+
+
+
+                                                                          25
+

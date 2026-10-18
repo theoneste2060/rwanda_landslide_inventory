@@ -1,0 +1,19 @@
+Figure 12: Stability states and destabilising factors. Adapted from Glade
+and Crozier (2005). Landslides occur when the factor of safety (FS) is < 1.
+
+
+The most common causative processes that will have an impact of the changing characteristics
+of the factor of safety are listed in Table 13 and partly summarized in Figure 13.
+Combinations of (a) and (b) often act simultaneously as a direct result of external processes,
+as in the case of basal erosion or excavations, which can cause both an increase in shear
+stress through increased slope angle and/or height, or a decrease in shear strength, through
+a reduction in total and effective stress.
+
+Table 13: Triggering factors with examples of common causative/forcing processes.
+Adapted from Leroueil (2001) and Lu and Godt (2013).
+
+
+
+
+                                                                                        46
+

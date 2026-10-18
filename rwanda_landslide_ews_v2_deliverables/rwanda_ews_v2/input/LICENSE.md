@@ -1,0 +1,5 @@
+# License and reuse notice
+
+No single open license is asserted for this compiled v2 package. Inputs have mixed or incompletely documented terms: the 4TU dataset is CC0, the 2018 Zenodo Rwanda inventory is CC BY 4.0, the OCHA/HDX boundary package is CC BY-IGO, and NASA's legacy export does not specify a dataset license. News articles, humanitarian reports, ArcGIS service records, UNOSAT materials and other source tables may be subject to their publishers' terms. See `sources.csv` for per-source access and license notes.
+
+**Recommendation:** obtain explicit permission or legal review before public redistribution of the complete raw-source archive or derived compilation. Where redistribution is permitted, preserve source attribution and original links, respect provider terms, and distribute only the raw artifacts whose licenses allow it. The presence of a source URL or public download does not grant a blanket right to redistribute its content. The original inventory's license status was not established in the accessed repository metadata.

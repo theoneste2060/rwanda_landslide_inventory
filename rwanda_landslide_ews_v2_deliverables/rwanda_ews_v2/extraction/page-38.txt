@@ -1,0 +1,49 @@
+2.9    Appendices
+
+2.9.1 Appendix 1
+
+Selection of the predictor variables for the shallow landslide susceptibility assessment
+
+Checking for multicollinearity between the independent variables
+
+Multicollinearity occurs when two or more predictor variables are strongly correlated with
+each other. In other words, multicollinearity occurs when one or more predictor variables
+can be accurately predicted by a linear combination of one or more of the other variables.
+Multicollinearity between predictor variables will not inﬂuence the accuracy or quality of
+the ﬁnal landslide model. However, it can bias our interpretation of the variable importance.
+Hence, it is recommended to remove any strong multicollinearity between the predictor
+variables prior to constructing and analyzing the landslide model. Here we calculated two
+techniques to assess multicollinearity: the Variance Inﬂation Factor (VIF) and the Condition
+Indices (Cis).
+
+The VIF for a predictor variable i is calculated as    1
+                                                      1−𝑅 2
+
+Whereby the R2 is derived from a regression model that predicts variable i with the other
+variables as predictor. We consider a variable problematic (in terms of multicollinearity)
+when its VIF>4 (Belsley et al., 2005). For the variables used in our landslide susceptibility
+model, we observed no problematic VIF (Table 10).
+
+Table 10: Variance inﬂation factor for the continuous variables used in the landslide
+susceptibility model.
+
+ Variable                   VIF
+ Slope                      1.04
+ Elevation                  1.73
+ Proﬁle curvature           1.17
+ Planar curvature           1.20
+ North exposure             1.00
+ East exposure              1.00
+ PGA                        2.96
+ Distance to rivers         1.16
+ Distance to faults         3.46
+ Road (50m buffer)          1.00
+ Soil with >35% clay        1.06
+
+Note that the morphological parameters were derived here from the 10 m resolution DEM.
+
+
+
+
+                                                                                         37
+

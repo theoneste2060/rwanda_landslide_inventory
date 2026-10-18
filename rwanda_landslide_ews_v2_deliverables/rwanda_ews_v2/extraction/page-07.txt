@@ -1,0 +1,46 @@
+      2
+
+SECTION 1: LANDSLIDE RISK ASSESSMENT
+
+
+2.1       Introduction
+
+Landslides risks are pervasive in hilly and mountain landscapes of the globe, and are typical
+occurrences in Rwanda. The term landslide denotes the downhill movement of slope
+forming materials under the inﬂuence of gravity (Cruden and Varnes, 1996). Landslides are
+one of the most widespread and effective agents shaping the Earth’s surface (Egholm et al.,
+2013; Wang et al., 2020). With the development and urbanisation of hilly and mountain
+terrains around the globe, landslide occurrence also frequently intersects with human
+activities and the built environment, often with disastrous consequences (Sidle and Ochiai,
+2006; Lu and Godt, 2013; Froude and Petley, 2018; Haque et al., 2019). While landslides are
+pervasive Earth surface processes naturally occurring in hilly/mountain landscapes, human
+activities (e.g., roads, reservoir construction, deforestation, urbanisation, etc.) can also
+inﬂuence their occurrence, extent and timing (Sidle and Ochiai, 2006; Lacroix et al., 2020).
+Landslide characteristics reﬂect the very diverse geologic, topographic, environmental, and
+climatic conditions in which they can occur, resulting in a large diversity of landslide types
+and processes (Lu and Godt, 2013; Hungr et al., 2014).
+
+The UN’s Sendai Framework for Disaster Risk Reduction identiﬁes four priorities for action
+in order to substantially reduce global landslide disaster risk and related fatalities (UNDRR,
+2015). A cornerstone among these priorities is understanding landslide hazard, which
+describes the likelihood of a landslide of a given magnitude to occur in time and space
+(Guzzetti et al., 1999). In other words, landslide hazard is ideally characterized by
+statements of ‘what’, ‘where’, ‘how strong’ and ‘how frequent’ (Glade et al., 2006).
+
+Authorities and decision makers need maps depicting the areas that may be affected by
+landslides so that they are considered in development plans and/or that appropriate risk
+mitigation measures are implemented. A wide variety of methods for assessing landslide
+susceptibility, hazard and risk are available (Galde et al., 2006; Corominas et al., 2014;
+Reichenbach et al., 2018).
+
+In this study, the assessment of landslide risk was achieved in ﬁve steps (Figure 1). This
+approach relied on conventional methods that are recommended for local-scale landslide
+risk assessment (Corominas et al., 2014). The landslide inventory (Step 1) was the key step
+of this approach. The outcomes of the risk assessment is inﬂuenced not only by the quality
+of the inventory but also by the types of landslides and the abundance of their occurrence.
+
+
+
+
+                                                                                         6
+

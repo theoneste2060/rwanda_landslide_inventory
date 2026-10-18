@@ -1,0 +1,63 @@
+Table 9: Landslide exposure database for the projected land use masterplan 2050
+        Site                         Agricultural [ha]
+ Bishenyi             976.10       1,256.68         384.20         17.29
+ Rusizi               154.09          99.73          19.64          0.81
+ Rwabayanga            80.97          56.61          20.21          1.27
+ Rwandex-
+                        0.56           6.57            0.29            -
+ Magerwa
+                                        Forest [ha]
+ Bishenyi              53.39         157.98         140.74         51.39
+ Rusizi               223.46         106.28          20.10          0.56
+ Rwabayanga            19.09          27.89          20.80          1.67
+ Rwandex-
+                        4.61          13.34           25.12         7.46
+ Magerwa
+                                Parks / Ecotourism zone [ha]
+ Bishenyi              12.84            6.69          1.44          0.00
+ Rusizi                54.35           15.36          1.18          0.01
+ Rwabayanga             1.26            0.26          0.10             -
+ Rwandex-
+                       13.39           3.18                            -
+ Magerwa
+                        Public/commercial/industrial facilities [ha]
+ Bishenyi             112.41       56.16             7.56            0.46
+ Rusizi               245.20       39.53             4.83            0.26
+ Rwabayanga           135.11       33.07           10.35             1.17
+ Rwandex-
+                      190.70          27.70            2.76         0.13
+ Magerwa
+                                        Roads [km]
+ Bishenyi                  -              -               -            -
+ Rusizi               111.14          21.80            3.29         0.15
+ Rwabayanga            45.08          17.45            2.79         0.16
+ Rwandex-
+                       48.75          15.48            1.89         0.16
+ Magerwa
+                                    Rural residential [ha]
+ Bishenyi              86.71          77.33            15.35        0.17
+ Rusizi                64.47          20.15             1.08           -
+ Rwabayanga            25.12           5.07                -           -
+ Rwandex-
+                            -             -               -            -
+ Magerwa
+                                   Urban residential [ha]
+ Bishenyi             437.13        292.74           29.70          1.00
+ Rusizi               585.43        129.56           14.97          0.39
+ Rwabayanga           146.46         31.38             3.39         0.12
+ Rwandex-
+                      392.22         128.50           19.50         0.16
+ Magerwa
+                                       Wetland [ha]
+ Bishenyi             295.37          10.12         2.53            0.36
+ Rusizi               128.60           5.01         0.95               -
+ Rwabayanga            72.64           4.87         1.16            0.06
+ Rwandex-
+                       21.11           0.14               -            -
+ Magerwa
+
+
+
+
+                                                                                  29
+

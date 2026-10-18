@@ -1,0 +1,51 @@
+3.9 Speciﬁc landslide mitigation measures for the study areas
+
+3.9.1 Assumptions
+
+This study has been carried based on literature review, satellite imagery review, and that no
+speciﬁc ﬁeld measurements were taken; therefore the determination of landslide mitigation
+measures appropriate for each site has been based on assumptions. From these, cost estimates
+were produced.
+The mitigation measures hereafter presented are proposed for areas in each sub-catchment
+with the highest susceptibility to landslides, i.e. landslide hazard classes of 365 m²/year/km²
+and 90m²/year/km². Section 1 provides details of the landslide risk assessment.
+The total surface areas covered by the two landslides hazard classes are given in the table
+below.
+
+
+Table 15: Surface areas under the two highest landslide hazard classes
+
+                                                  Combined area under the landslide hazard
+                            Total surface area                     2       2
+ Sub-catchment                                    classes of 365 m /year/km and
+                            (ha)                       2         2
+                                                  90m /year/km
+ Bishenyi                               4,686.8                                         666.7
+ Rwabayanga                               809.0                                          68.4
+ Rwandex – Magerwa                        979.3                                          63.9
+ Kamembe – Gihundwe                     2,123.6                                          76.3
+
+
+The following assumptions are made:
+    Should landslides occur in the two aforementioned highest susceptibility zones, they
+    would be shallow landslides that are likely to cause soil erosion;
+    Given the assumption of shallow landslides, mitigation measures are designed to
+    address the following physical processes:
+         o Surface protection and control of erosion;
+         o Modiﬁcation of land geometry
+         o Modiﬁcation of the surface water regime
+    The mitigation measures proposed will not include elements that lead to an increase in
+    surface water inﬁltration into the soil. It is has been discussed in the preceding section
+    that any soil erosion control measure that leads to increased water inﬁltration (e.g.
+    radical terraces) would lead to creation of conditions that are favourable to landslides;
+    Within each area with the highest susceptibility to landslides, it is assumed that the
+    total coverage of zones to be reforested is 30%. This assumption builds from the guid-
+    ance of the Rwanda building code that stipulates a coverage of 30% for landscaping
+    (trees, green spaces) in urban developments;
+    For drainage trenches / ditches, a coverage of 500 m of channel per 3 ha is assumed.
+
+
+
+
+                                                                                                57
+

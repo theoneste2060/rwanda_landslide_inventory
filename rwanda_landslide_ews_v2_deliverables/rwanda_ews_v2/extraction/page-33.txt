@@ -1,0 +1,48 @@
+2.8    Literature consulted for the landslide risk assessment
+
+Belsley, D. A., Kuh, E., Welsch, R. E., 2005. Regression Diagnostics. Hoboken, New Jersey:
+John Wiley & Sons. doi:10.1002/0471725153
+
+Bennett, G.L., Miller, S.R., Roering, J.J., Schmidt, D.A., 2016. Landslides , threshold slopes ,
+and the survival of relict terrain in the wake of the Mendocino Triple Junction. Geology 44,
+363–366. doi:10.1130/G37530.1
+
+Broeckx, J., Rossi, M., Lijnen, K., Campforts, B., Poesen, J., Vanmaercke, M., 2020. Landslide
+mobilization rates: a global analysis and model. Earth-Science Reviews 201, 102972.
+doi:10.1016/j.earscirev.2019.102972
+
+Corominas, J., van Westen, C., Frattini, P., Cascini, L., Malet, J.-P., Fotopoulou, S., Catani, F.,
+Van Den Eeckhaut, M., Mavrouli, O., Agliardi, F., Pitilakis, K., Winter, M.G., Pastor, M., Ferlisi,
+S., Tofani, V., Hervás, J., Smith, J.T., 2014. Recommendations for the quantitative analysis of
+landslide risk. Bulletin of Engineering Geology and the Environment 73, 209–263.
+doi:10.1007/s10064-013-0538-8
+
+Cruden, D.M., Varnes, D.J., 1996. Landslide types and processes, in: Turner, A.K., Schuster,
+R.L. (Eds.), Landslides: Investigation and Mitigation. Special report 247, Transportation
+Research Board National Research Council, National Academy Press, Washington D.C., pp.
+36–75.
+
+Delvaux, D., Mulumba, J.-L.L., Sebagenzi, M.N.S., Bondo, S.F., Kervyn, F., Havenith, H.-B.,
+2017. Seismic hazard assessment of the Kivu rift segment based on a new seismotectonic
+zonation model (western branch, East African Rift system). Journal of African Earth Sciences
+134, 831–855. doi:10.1016/j.jafrearsci.2016.10.004
+
+Depicker, A., Govers, G., Jacobs, L., Campforts, B., Uwihirwe, J., Dewitte, O., 2020a. Interactions
+between deforestation, landscape rejuvenation, and shallow landslides in the North
+Tanganyika – Kivu Rift region, Africa. Earth Surface Dynamics Discussions 1–27. doi:
+10.5194/esurf-2020-87
+
+Depicker, A., Jacobs, L., Delvaux, D., Havenith, H.-B., Maki Mateso, J.-C., Govers, G., Dewitte,
+O., 2020b. The added value of a regional landslide susceptibility assessment: the western
+branch of the East African Rift. Geomorphology 353, 106886. doi:10.1016/j.geomorph.
+2019.106886
+
+Depicker, A., Jacobs, L., Mboga, N., Smets, B., Van Rompaey, A., Lennart, M., Kervyn, F.,
+Michellier, C., Dewitte, O., Govers, G., in review. The legacy of environmental and societal
+dynamics on landslide risk in the Kivu Rift. Nature Sustainability.
+
+
+
+
+                                                                                             32
+

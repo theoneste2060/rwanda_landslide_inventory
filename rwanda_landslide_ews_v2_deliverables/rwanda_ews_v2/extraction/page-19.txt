@@ -1,0 +1,49 @@
+In total we used the 2,544 recent shallow landslide initiation observations (i.e., pixels)
+(Figure 3) and an equal number of random points taken across the landscape outside the
+landslide areas that served as ‘non-landslide’ locations. The model was trained twice; once
+with the morphological data (elevation, slope, curvature, exposure) derived from the 30 m
+SRTM elevation data, and one time with the same morphological data derived from the 10 m
+resolution DEM for Rwanda. We apply a forward stepwise regression in order to obtain the
+highest model quality using the lowest possible number of predictors (Hosmer and
+Lemeshow, 2000). We used the area under the ROC (AUC) curve as a metric for model
+quality (e.g., Jacobs et al., 2018; Depicker et al., 2020b). The AUC is a measure of the
+discriminatory power of the model, i.e. the probability that a random landslide location will
+receive a higher susceptibility score than a random non-landslide location.
+
+Following the approach proposed by Depicker et al. (2020b), we applied 10-fold
+cross-validation in order to ensure that our model is not overﬁt (i.e. it works well for the
+training data of the susceptibility model, but performs poorly on locations that were not
+used for model training). Hence, we randomly split our data in 10 groups of equal size.
+Subsequently, we tried to predict the susceptibility for each group and assess the associated
+AUC value, each time using the other nine groups for model training. We reported the
+average AUC value of these 10 observations. The validation shows that overall the model
+performance are better with the 30m SRTM (Table 2). Data-driven models are the most
+performant when a good balance between data resolution and model complexity is kept.
+This is something that we have already observed for the landslide susceptibility assessment
+in the Rwenzori mountains (Jacobs et al., 2018).
+
+Table 2: Validation of the susceptibility models using a 10-fold cross validation procedure
+
+                                     AUC (10-fold CV) %
+ Model
+                     lithology             No lithology
+
+ 10 m DEM                           89.3                         85.0
+
+ 30 m DEM                           91.1                         88.8
+
+
+
+The difference of model prediction performance is marginal whether the lithology is used
+or not. As the lithological information is coarse at the watershed scale, we selected the
+model without lithology (highlighted in yellow in Table 2).
+
+To summarize, we used in this study the regional susceptibility model that was computed
+with all the predictor variables but the lithology at a 30m resolution (Table 2). The hazard
+assessment (Step 3) is based on this susceptibility model.
+
+
+
+
+                                                                                        18
+

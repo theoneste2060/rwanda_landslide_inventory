@@ -1,0 +1,33 @@
+       Figure 1 – Landslide risk assessment methodology
+
+
+2.2    Available knowledge and required data
+
+There are several research works on landslide susceptibility, hazard and risk assessment
+that have already been carried out in Rwanda and in the Lake Kivu region in particular (e.g.
+Jacobs et al., 2018; Depicker et al., 2020a, 2020b, in review; Dewitte et al., 2021). Our
+approach is to build the risk assessment as much as possible upon this existing knowledge
+and the methods that have already proved to be successful.
+
+One important issue related to the risk assessment at the scale of the four sub-catchments
+is the quality of the ancillary data that are provided. These data are used to inventory the
+landslides and to derive the environmental factor maps that will be used for the susceptibility
+analysis. The following ancillary data were used for the for susceptibility, hazard and risk
+assessment in this project:
+
+      Digital Elevation Model (DEM) – SRTM 30 m resolution (Source: Farr et al. 2007) and
+      Rwanda 10m DEM (Source: GGGI / RWB). Note that the latter does not cover the
+      Kamembe-Gihundwe sub-catchment;
+      Soil data (Source: GGGI);
+      Land cover and land use 2008 (Source RWB), 2018 (Source: GGGI);
+      Mapping of road network and drainage lines (Source: RTDA);
+      Fault lineaments (Smets et al., 2016 ; Delvaux et al., 2017);
+      Peak ground acceletration – PGA (Delvaux et al., 2017);
+      Database of landslides in western Rwanda collected via other research projects from
+      the Royal Museum for Central Africa: locations and timing of the landsides (Depicker
+      et al., 2020a, 2020b ; Dewitte et al., 2021).
+
+
+
+                                                                                          7
+

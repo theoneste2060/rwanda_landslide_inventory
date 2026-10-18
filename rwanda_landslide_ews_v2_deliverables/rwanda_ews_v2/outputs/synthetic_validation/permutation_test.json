@@ -1,0 +1,14 @@
+{
+  "synthetic": true,
+  "observed_spatial_cv_auc": 0.7955693947897846,
+  "permutations_requested": 49,
+  "valid_permutations": 49,
+  "upper_tail_permutation_p": 0.02,
+  "null_auc_mean": 0.5707019436383326,
+  "null_auc_95pct": [
+    0.5443941618934123,
+    0.6020950550365843
+  ],
+  "label_permutation": "within-spatial-block shuffle preserving each block's event count; spatial group-fold CV repeated for each shuffle",
+  "warning": "Conditional association diagnostic only; it does not establish causality or operational skill, and its result depends on block definition."
+}

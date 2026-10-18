@@ -1,0 +1,11 @@
+{
+  "status": "NOT RUN",
+  "reason": "No rainfall/terrain predictor dataset was supplied; no model or performance results fabricated.",
+  "required_columns": [
+    "y",
+    "event_date",
+    "spatial_block",
+    "one or more real predictor columns"
+  ],
+  "workflow": "Time holdout and spatial grouped CV scaffold described in README."
+}

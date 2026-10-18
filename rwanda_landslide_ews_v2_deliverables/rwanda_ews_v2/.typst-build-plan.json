@@ -1,0 +1,33 @@
+{
+  "base": {
+    "auto_apply": true,
+    "conflict_group": "document-base",
+    "id": "markdown-entry",
+    "kind": "asset",
+    "ownership": "global",
+    "path": "assets/markdown-entry.typ",
+    "reason": "Existing Markdown source.",
+    "status": "ready"
+  },
+  "catalog_version": "2026-07-17-affiliated-formats-v3",
+  "channel": "typst-pdf",
+  "confirmation_candidates": [],
+  "enhancements": [],
+  "exclusions": [],
+  "fingerprint": "sha256:b21e4246ffbeaf3e8ec994fe388725f0723409cf1653c215a9a07e4580180b1c",
+  "next_action": "minimal-compile-preflight",
+  "optional_idea": null,
+  "question": null,
+  "reused": false,
+  "schema_version": 1,
+  "state": "ready",
+  "style_owner": "markdown-entry",
+  "typst_version": "typst 0.15.1 (9dfd3a08)",
+  "minimum_compile_preflight": {
+    "status": "pass",
+    "base_id": "markdown-entry",
+    "command": "generate_pdf.py pdf_project/main.typ --strict",
+    "output": "pdf_project/main.pdf",
+    "diagnostics": "pdf_project/main.typst-diagnostics.log"
+  }
+}

@@ -1,0 +1,4 @@
+﻿citation,doi_or_url,quality_rating_1to4,reason
+"Monsieurs E, Jacobs L, Michellier C, et al. (2018). Landslide inventory for hazard assessment in a data-poor context: a regional-scale approach in a tropical African environment. Landslides 15:2195-2209.",https://doi.org/10.1007/s10346-018-1008-y,3,Duplicate DOI/URL; canonical row retained once.
+"Kuradusenge, M.; Kumaran, S.; Zennaro, M. (2020). Rainfall-Induced Landslide Prediction Using Machine Learning Models: The Case of Ngororero District, Rwanda. International Journal of Environmental Research and Public Health, 17(11), 4147.",https://doi.org/10.3390/ijerph17114147,3,Duplicate DOI/URL; canonical row retained once.
+Upstream source-registry aliases depicker_2020a and depicker_2020b,https://doi.org/10.1016/j.geomorph.2019.106886,3,"Both aliases resolve to the same Geomorphology article and 6,446-catalogue description; retained once in the evidence table. No separate 2020a/2020b data assets were verified."

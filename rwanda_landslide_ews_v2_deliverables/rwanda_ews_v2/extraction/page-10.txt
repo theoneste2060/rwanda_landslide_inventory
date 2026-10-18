@@ -1,0 +1,47 @@
+Landslides were classiﬁed into (i) recent and (ii) old movements following the approach
+proposed by Depicker et al. (2020b) and Dewitte et al. (2021). Recent landslides are all new
+slope failures; the moment of failure must be situated between the timing of two satellite
+images. All recent landslides are considered active since they present disturbed vegetation
+patterns and bare soil surfaces that are visible on the satellite images. Landslides were
+classiﬁed as old if present on the eldest satellite images but showing no signs of activity.
+
+Text Box 1: Regolith and colluvium
+
+  Regolith: rock that is weathered to any degree (physically and chemically). Three layers are
+  considered: weathered rock, saprolite and mobile regolith. Weathered rock is the deepest
+  layer of the regolith overlying the hard, unweathered rock. Saprolite is material that is more
+  altered than weathered rock and that can readily be augured through or dug with a shovel.
+  Saprolite retains the original rock structure. Mobile regolith has been detached from the
+  weathered rock and saprolite below it, and is in motion both vertically and laterally. Where
+  it is present, soil forms the upper part of the mobile regolith that is organized into horizons
+  by soil-forming processes. In tropical climates where temperature are high and conditions
+  are humid, the weathered materials typically show red and yellow colors.
+  Colluvium: material that has been transported across and deposited downslope by the
+  action of mass movement and wash processes. The material forms a loose (generally
+  unsorted) sedimentary deposit usually in topographic depressions and at the base of the
+  hillslopes. Colluvium is typically composed of a heterogeneous range of sediments of
+  various sizes.
+
+
+
+
+2.3.3 Results
+
+The inventory for the four sub-catchments contains 22 old deep-seated landslides and ﬁve
+recent deep-seated ﬂow slides/earthﬂows (examples of inventoried landslides are shown in
+Figure 2). Other features associated with hillslope dynamics, i.e. soil creep and gully erosion,
+have also been identiﬁed. Each landslide (and the other features) is manually assigned a
+polygon. Based on this inventory, we can draw the following conclusion about the identiﬁed
+landslide and other hillslope processes in the four sub-catchments:
+
+Old deep-seated landslides: The landslides classiﬁed as old deep-seated features are
+natural slope failures of undetermined age. The morphology of these landslides and the
+alteration due to weathering and erosion of their main scarps (i.e. the head the landslides,
+also referred to the source area of the landsides) attests an origin, for some of them, that
+may be easily a few thousand years old (Dille et al., 2019; Dewitte et al., 2021).
+
+
+
+
+                                                                                               9
+

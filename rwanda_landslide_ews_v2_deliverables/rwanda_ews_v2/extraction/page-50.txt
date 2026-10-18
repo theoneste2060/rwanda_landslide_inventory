@@ -1,0 +1,51 @@
+3.5     Measures to reduce the vulnerability
+
+Measures to reduce the vulnerability of the elements at risk consist of “passive” solutions
+which are not intended to prevent the triggering of the landslide but to reduce the resulting
+degree of loss. They can be subdivided in two main categories, depending on the approach
+followed to achieve this objective:
+
+      Measures to increase the resistance of elements at risk (reduction of vulnerability s.s.)
+      – existing structures can be strengthened; for new structures, the potential effects of
+      impact from landslide material can be taken into account from the outset. This
+      approach is typically applicable only in relation to relatively shallow slides, since it is
+      practically impossible to build structures capable of withstanding the impact form
+      larger landslides (Figure 14 and Figure 15).
+      Measures to stop or to deviate the path of the landslide debris (reduction of vulnerabil-
+      ity s.l.) - Works can be carried out to intercept and block or at least to deviate or to slow
+      down the sliding materials. This type of works relates mainly to the fall of massive
+      blocks or to ﬂows of all types, in those cases where a large slope is affected and stabili-
+      zation is not feasible for environmental impact reasons or because of cost.
+
+Measures to reduce the vulnerability through the increase of structural resistance may be
+summarized as follows:
+
+        Strengthening of shallow foundations and improved structural design to withstand
+        predicted permanent ground displacements;
+        Deep foundations properly designed to accommodate the landslide effect;
+        Deep anchoring of foundation elements;
+        Combination of the above three approaches.
+
+Another important parameter affecting the strengthening approach is the fact that any
+approach is strongly case-depended, in the sense that the characteristics of the structure,
+its relative position within the landslide zone and the regolith-rock properties play an
+important role in any strengthening decision. This is why the relevant research and design
+practice is rather fragmented. Consequently it is practically impossible to deﬁne, in a gener-
+al way, the improvement in the vulnerability (in quantitative terms) obtained by increasing
+the resistance of different parts of the structure, because de facto this is a case depended
+evaluation.
+
+Measures to stop or to deviate the path of the landslide debris resistance relate to the
+following landslide types (Figure in Appendix 1.1):
+
+a) Earth or debris ﬂows of any type;
+b) Toppling, rumbling or free falling rocks of various sizes.
+
+They should be foreseen when the general stabilization of the landslide is not feasible from
+technical, environmental and ﬁnancial point of view.
+
+
+
+
+                                                                                             49
+

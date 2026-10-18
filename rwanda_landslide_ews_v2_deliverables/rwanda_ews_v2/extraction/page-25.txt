@@ -1,0 +1,38 @@
+The relationship between landslide susceptibility and landslide affected area represents the
+landslide hazard. The landslide affected area increases exponentially with susceptibility.
+For the susceptibility class 0.9-1.0, the landslide rate is ~400 m² year-1 km-2, for the class
+0.8-0.9 it is ~150 m² year-1 km-2, and so on.
+
+2.5.3 Results
+
+2.5.3.1 Landslide hazard maps
+
+Looking at the average landslide frequency and landside affected area values (Table 6), we
+observe the same ranking as for the susceptibility maps. Rwandex-Magerwa is overall the
+sub-catchment that has the highest average hazard, while Rwabayanga is with the lowest
+values. However, the comparison of the landslide hazard maps is even less obvious than the
+susceptibility as it includes the exponential behaviour of the landslide rate component
+(Figure 6). Therefore, to make the comparison of the hazard maps more robust, we have ﬁrst
+calculated the probability density of the susceptibility values (Figure 7 a) that were
+weighted, using equation of Figure 6, via the multiplication of the landslide rates (Figure 7
+b). This gives a better view of the actual hazard in the different sub-catchments, showing the
+importance of the highest susceptibility classes.
+
+
+
+
+ Figure 7: A) Probability density. B) Probability density weighted for landslide rates (i.e. affected area)
+
+
+
+Therefore, the regional landslide susceptibility model has been classiﬁed in four classes,
+starting from the most susceptible pixel. In other words, the class 0-10% contains the 10%
+of the landscape that are most prone to landsliding. For each class, the average landslide
+rate was computed m² year-1 km-2 based on the relationship from Figure 6. The landslide
+hazard maps are therefore provided for four categories of rates (Figure 8).
+
+
+
+
+                                                                                                              24
+

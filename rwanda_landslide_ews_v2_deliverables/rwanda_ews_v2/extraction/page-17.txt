@@ -1,0 +1,35 @@
+2.4.2.2 Predictor variables for the shallow landslide susceptibility assessment
+
+Based on the work of Depicker et al. (2020a), we selected the following predictor variables
+for the shallow landslide susceptibility assessment (Table 1):
+       Slope;
+       Planar curvature;
+       Proﬁle curvature;
+       North exposedness;
+       East exposedness;
+       Peak ground acceleration (PGA, a measure of seismic activity);
+       Distance to faults;
+       Distance to rivers;
+       Land use/cover;
+       Presence in the rejuvenated landscape (i.e. the inﬂuence of the formation of the
+       Rift mountains on the river erosion of the landscape – see Text Box 2 and Figure 3);
+       and Lithology.
+       Additionally, we used the elevation, the presence of roads within 50 m, and the clay
+       content of the soil. We distinguished six (6) land use/cover types: closed agriculture, open
+       agriculture, irrigated lands, forests, open lands, and built-up land. We distinguished ﬁve
+       (5) types of lithology: schists, granites, quartzites, volcanic rocks, and alluvial depositions.
+
+These natural and human-related environmental predictors are environmental characteristics
+that could explain the occurrence of the landslides. The environmental characteristics were
+extracted for the landslide source area. Statistical criteria assessed to validate the use the
+predictor variables listed in table below and are presented in Appendix 1.
+
+
+Table 1: Landslide predictor variables evaluated for the susceptibility analysis, themes
+according to Reichenbach et al. (2018)
+
+
+
+
+                                                                                                16
+

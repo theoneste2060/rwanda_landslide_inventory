@@ -1,0 +1,14 @@
+{
+  "title": "Shallow landslide inventory for 2000-2019 (eastern DRC, Rwanda, Burundi)",
+  "doi": "10.5281/zenodo.5027004",
+  "license": {
+    "id": "cc-by-4.0"
+  },
+  "publisher": null,
+  "publication_date": "2021-06-24",
+  "file": "landslide_data.zip",
+  "file_size_bytes": 244446,
+  "record_checksum": "md5:c4989aeb705f4a75be6375749c0515c7",
+  "download_md5": "c4989aeb705f4a75be6375749c0515c7",
+  "record_url": "https://zenodo.org/records/5027004"
+}

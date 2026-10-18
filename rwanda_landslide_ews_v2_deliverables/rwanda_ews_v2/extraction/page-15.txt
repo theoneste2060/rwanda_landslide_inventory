@@ -1,0 +1,48 @@
+Old deep-seated landslides also present a range of hydrological and geotechnical conditions
+that can favour the occurrence of new landslides. This path-dependency of landslides
+(Temme et al., 2020) is something important when assessing the potential of landslide
+disturbances in a landscape. Old landslides can sometimes reactivate. Although such
+transition from relatively stable conditions to important failure is relatively rare (Lacroix et
+al., 2020), this hazard is something not to be ignored. In a landscape, old deep-seated
+landslides represent a potential constraint.
+Therefore, the inventory map of the old and recent deep-seated landslides that we have
+identiﬁed is here considered as a landslide susceptibility product that locates the places that
+are the most prone to be affected by ground deformations. A caveat for the delineation of
+the deep-seated landslides, especially for the old ones, is that, due to the interpretation of
+the morphology of the hillslopes, identifying the exact limits of the failed mass may not be
+easy and that the delineated areas must be considered with caution.
+Old and recent landslides are shown on the landslide susceptibility maps for the four study
+areas that have been produced and are submitted together with the present report.
+
+    Inventory 2 – used as a dependent variable for the regional shallow landside initiation
+    susceptibility and hazard assessment:
+For the susceptibility of the initiation of new shallow landslides, we used the 2,544 recent
+shallow landslide observations we made in previous research in western Rwanda. These
+landslides were identiﬁed by Depicker et al. (2020a) through the visual analysis of Google Earth
+images over the 2000-2019 period. As explained in Step 1, all recent landslides have their timing
+of initiation well constrained between the timing of two satellite images; which is mandatory for
+the hazard assessment (Step 3). The recent shallow landslides were not triggered by seismic
+activity and we can expect that in most situation rainfall is at their origin (Monsieurs et al., 2018;
+Depicker et al., 2020a, 2020b, Dewitte et al., 2021), although the role of rock weathering cannot
+be excluded for some landslides occurring in isolation (Dille et al., 2019). Since we look at the
+susceptibility associated with the occurrence of new landslides, we used the source area of each
+landslide in our assessment. More speciﬁcally, the source area is represented by one initiation
+point that was manually deﬁned (e.g. Jacobs et al., 2018; Depicker et al., 2020a, 2020b). For the
+shallow susceptibility assessment we therefore used a dependent variable containing 2,544
+landslide initiation points. In other words, each landslide is represented by 1 pixel in the
+analyses, either at 10 or 30 m resolution, depending on the topographic data source that is used
+(Table 1).
+The impact zone of the landslides was not considered in the susceptibility analysis (Figure 3 b).
+The average area of these shallow landslides is 725 m², with 121 m² and 604 m² for the source
+and impact areas respectively.
+We stressed earlier when explaining the shallow landslides, (see page 82) that an inventory from
+satellite images will always provide an underestimation. This concerns of course the inventory
+we use here. Since our inventory was compiled with the consistent use of Google earth images,
+we know that this underestimation is similar across the whole region. Therefore, the use of this
+inventory will not impact the reliability of the susceptibility assessment, the latter being
+data-driven and therefore relying of relative assessment. For the underestimation of the
+landsides, more details are provided in Depicker et al. (2020a). For the susceptibility assessment
+more details are provided in Depicker et al. (2020b).”
+
+                                                                                                14
+

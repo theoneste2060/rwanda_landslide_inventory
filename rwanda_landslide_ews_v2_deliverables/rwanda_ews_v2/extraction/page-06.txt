@@ -1,0 +1,49 @@
+The risk maps submitted together with the report provide visual combinations of landslide
+process scenarios and land use categories. They allow to highlight the places where the risk
+could be more problematic. Depending on the slope instability processes and the land use,
+the risk is different. For example, places where deep-seated landslides are located are areas
+where ground deformations are expected to be the larger (independently from soil creep,
+which is not discussed here, although highlighted in step 1). Such deformations can be very
+slow (a few centimetres per year or even less; e.g. Nobile et al., 2019; Dille et al., 2021) and
+therefore be not at all a problem for agricultural land. On the contrary, building a new road or
+heavy infrastructures on such areas could create problems (fractures, etc.) as most foundations
+cannot be deep enough to reach a stable bedrock below the surface of rupture of the landslides.
+While slow-moving deformations can have pervasive impacts difﬁcult to mitigate, people are
+not in immediate dangers.
+
+When looking at such documents, we must be aware that further investigations are needed to
+really assess the problem, not only in terms of landslide process understanding (location,
+mechanism, deformation rate), but also in terms of vulnerability as well as direct and indirect
+impacts.
+
+1.2    Proposal of landslide mitigation measures
+The goal of the study was to provide a general overview of the potential mitigation measures
+that could be tested for the areas of the watersheds that have been identiﬁed at risk and
+vulnerable to landslides.
+The structure of the study is as follows:
+
+      First, the mitigation measures are detailed;
+      Along with criteria for the selection of the mitigation measures, details are provided on
+      measures at the level of the hazard, the vulnerability, and the elements at risk;
+      The measures are then discussed in the context of the Catchment Restoration Opportunity
+      Mapping upport System (CROM DSS);
+      A high-level Bill of Quantities for specific landslide mitigation measures in the study areas
+      has been provided. The specific measures were developed with the assumption that, should
+      landslides occur in the highest susceptibility zones, they would be shallow landslides that
+      are likely to cause to soil erosion.
+
+Together with the presentation of the mitigation measures, additional ﬁgures and appendixes
+explaining and illustrating key concepts are proposed to ease the understanding of the study.
+As a last note, a brief focus is provided on gully erosion.
+
+One have to keep in mind that the purpose of this section is not to go beyond the sole role of
+the literature review. Further research and expertise actions are needed if one want to move
+towards the implementation of concrete mitigation measures. The measures presented here
+are therefore not catchment-speciﬁc, and to some extent not speciﬁc to a type of landslide in
+particular.
+
+
+
+
+                                                                                              5
+

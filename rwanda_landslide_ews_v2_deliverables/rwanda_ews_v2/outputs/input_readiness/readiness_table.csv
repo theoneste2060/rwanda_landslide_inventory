@@ -1,0 +1,16 @@
+measure,count,interpretation
+All curated event rows,88,Rows are reported episodes/claims; not exhaustive occurrences.
+Day precision,66,Necessary for event-day rainfall matching.
+Day + named district,56,Any nonblank normalized district.
+Day + exactly one district,43,Stricter district-level matching; multi-district events excluded.
+Day + one district + linked site,33,Site link does not guarantee fine spatial accuracy.
+Day + one district + rain/prolonged-rain trigger,33,Trigger classification is not independent rainfall measurement.
+Day + one district + linked site + rain trigger,25,Conservative potential event pool; still no measured rain predictor or true negatives.
+Unique event dates among day + named district,48,Same-date records may be distinct events or duplicate claims.
+Site rows (all),1071,"Includes polygons, polygon centroids and contextual AOI centers."
+Point site rows,77,Point role only.
+Point rows with accuracy <= 1 km,0,No such stated-accuracy point in this CSV.
+Point rows with accuracy unstated,28,Unknown must not be treated as zero error.
+Polygon centroid rows,494,Derived from mixed-hazard polygons; not observed landslide scar centroids.
+Polygon rows,494,Feature class is mixed/uncertain per QA; no valid 30 m point-label assumption.
+AOI centers,6,"Contextual assessment centers, not landslide occurrences."

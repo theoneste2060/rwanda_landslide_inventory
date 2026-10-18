@@ -1,0 +1,48 @@
+List of Tables
+Table 1: Landslide predictor variables evaluated for the susceptibility analysis, themes according to
+Reichenbach et al. (2018) ..............................................................................................................................................................                      16
+Table 2: Validation of the susceptibility models using a 10-fold cross validation procedure ............................                                                                                      18
+Table 3: Areas per landslide susceptibility class per site ..................................................................................................                                                 21
+Table 4: Sub-catchment average values of landslide susceptibility .............................................................................                                                               21
+Table 5: Sub-catchment average values of landslide frequency (mean landslide frequency and mean
+landslide affected area) ..................................................................................................................................................................                   21
+Table 6: Landslide hazard categories .......................................................................................................................................                                  25
+Table 7: Areas per landslide hazard rate class per site ......................................................................................................                                                26
+Table 8: Landslide exposure database for the current land use situation as per 2018 land use plans ..........                                                                                                 28
+Table 9: Landslide exposure database for the projected land use masterplan 2050 ............................................                                                                                  29
+Table 10: Variance inﬂation factor for the continuous variables used in the landslide susceptibility
+model .....................................................................................................................................................................................................   37
+Table 11: Condition Indices (CIs), calculated for the continuous variables used in the landslide
+susceptibility model ........................................................................................................................................................................                 38
+Table 12: General classiﬁcation of mitigation measures (SafeLand, 2012) ..............................................................                                                                        43
+Table 13: Triggering factors with examples of common causative/forcing processes. Adapted from
+Leroueil (2001) and Lu and Godt (2013) .................................................................................................................................                                      46
+Table 14: Landslide Hazard Mitigation Measures (adapted from Popescu & Sasahara, 2009) ........................                                                                                               48
+Table 15: Surface areas under the two highest landslide hazard classes ..................................................................                                                                     57
+Table 16: Existing land use in areas with the highest susceptibility to landslides ..................................................                                                                         58
+Table 17: CROM matrix of slope / soil depth classes and alternative land use options .......................................                                                                                  59
+Table 18: Summary of proposed mitigation measures ......................................................................................................                                                      60
+
+
+
+List of Figures
+Figure 1: Landslide risk assessment methodology...............................................................................................................                                                 7
+Figure 2: Examples of landslides and other slope processes inventoried from Google Earth ......................                                                                                               12
+Figure 3: Landslide and knickpoint inventory for Rwanda (from Depicker et al., 2020a) .....................................                                                                                   15
+Figure 4: Variable importance in the logistic regression model ......................................................................................                                                         19
+Figure 5: Landslide susceptibility in the four study areas (purple and blue areas are inventoried landslides)...........                                                                                      20
+Figure 6: Relationship between landslide susceptibility and landslide affected area (i.e. landslide rate) ...                                                                                                 23
+Figure 7: A) Probability density. B) Probability density weighted for landslide rates (i.e. affected area) ....                                                                                               24
+Figure 8: Landslide hazard maps (purple and blue areas are inventoried landslides) ...........................................                                                                                25
+Figure 9: Comparative analysis impacted land use categories – current and projected land use plans ............                                                                                               30
+Figure 10: Framework for landslide risk management. Adapted from Fell et al. (2008) .....................................                                                                                     40
+Figure 11: A) Relative root strength following tree removal. Depending on tree species and site character-
+istics, the period of highest susceptibility for shallow landslides is between 3 to 15–20 after timber
+harvest; however, a rainfall event is still required to initiate a landslide, but with a lower threshold. Once
+regenerating tree roots fully establish, the risk of shallow landslides returns to pre-harvest conditions.
+Source: Sidle and Bogaard, 2016. B) Road effects on slope stability and drainage. Source: Sidle and Ochiai,
+2006. C) Urban and residential inﬂuences on slope stability. Source: Sidle and Ochiai, 2006 ............................                                                                                      42
+Figure 12: Stability states and destabilising factors. Adapted from Glade and Crozier (2005). Landslides
+occur when the factor of safety ..................................................................................................................................................                            46
+Figure 13: Stability Schematic demonstrating the possible forcings of landslides....................................................................                                                          47
+

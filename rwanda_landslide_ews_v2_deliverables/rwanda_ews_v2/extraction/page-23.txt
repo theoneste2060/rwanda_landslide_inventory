@@ -1,0 +1,28 @@
+The landslide susceptibility values are derived directly from the logistic regression. The landslide
+frequency and affected area values are obtained from the combination of susceptibility values and
+landslide frequency and size (see Step 3 for details).
+From a visual interpretation of the two susceptibility classes with the highest values, the
+Bishenyi sub-catchment displays the susceptibility pattern that is the most evenly distributed
+across the landscape, whereas Rwandex-Magerwa sub-catchment is the landscape where
+concentration of the highest susceptibility areas is the most concentrated (Figure 5).
+The distribution of the deep-seated landslides is different from that of the shallow landslide
+susceptibility. The Kamembe-Gihundwe sub-catchment is affected by 15 old landslides
+while no such slope failure processes are observed in the Rwandex-Magerwa landscape
+(Figure 5).The largest old landslides is located in the Bishenyi. This is also in that
+sub-catchment that the ﬁve recent deep-seated landslides are present (Figure 5).
+The difference between the susceptibility patterns of shallow and deep-seated landslides is
+not something uncommon, and particularly at this scale of investigation. As explained in the
+inventory section (Step 1), deep-seated landslides can have a complex origin that spans a
+very long period of changing environmental conditions while shallow landslides reﬂect
+more the current environment where human-activities (land use/cover and roads) also play
+a role.
+At the local scale, the exact location of deep-seated landslides highly depends on heterogeneous
+local conditions associated with the lithology and hydrogeology (e.g. Dille et al., 20019) that are
+much more difﬁcult to constrain than slope and other topographic conditions that usually have
+a stronger direct control on shallow slope failures (Sidle and Bogaard, 2016).
+
+
+
+
+                                                                                              22
+

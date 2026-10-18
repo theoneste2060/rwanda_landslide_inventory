@@ -1,0 +1,33 @@
+2.4.3.3 Susceptibility maps
+
+The outputs of a logistic regression model, as well as for data-driven models in general,
+provide values that have no physical meaning. For the relevant interpretation of a data-driven
+susceptibility model, there is a need for classiﬁcation (Corominas et al., 2014; Reichenbach et
+al., 2018). Here, the continuous values of the susceptibility models are classiﬁed into ﬁve
+unequally-spaced susceptibility classes (Figure 5). The category [0.80 – 1.0] presents the class
+that is the most prone to landsliding. The opposite class is ≤ 0.2]. The class ]0.45-0.55] present
+the zone where the uncertainty on the model classiﬁcation performance is the highest (Rossi
+et al., 2010). This way of classifying susceptibility models allows comparison between the
+sub-catchments (e.g. Jacobs et al., 2018).
+The susceptibility of the models are presented together with the inventory of the recent and
+old deep-seated landslides (Figure 5). As explained earlier, these landslides are here considered
+as a speciﬁc susceptibility zonation where the probability of ground deformations is expected
+to be higher than outside these slope instabilities. We propose two categories (old and recent),
+the susceptibility to ground deformations being higher for the recent deep-seated landslides.
+
+
+
+
+                                                                                     A - Bishyenyi
+                                                                                     B - Rusizi
+                                                                                     C - Rwabayanga
+                                                                                     D - Rwandex Magerwa
+
+
+
+
+ Figure 5: Landslide susceptibility in the four study areas (purple and blue areas
+ are inventoried landslides)
+
+                                                                                                    20
+

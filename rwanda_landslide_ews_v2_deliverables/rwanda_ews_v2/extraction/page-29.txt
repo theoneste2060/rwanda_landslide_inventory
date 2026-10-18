@@ -1,0 +1,41 @@
+Table 8: Landslide exposure database for the current land use situation as per 2018
+         land use plans
+
+         Site                       Residential / Commercial area [ha]
+  Bishenyi                     539.47       341.15          41.55                0.26
+  Rusizi                       363.79        46.62            2.01               0.04
+  Rwabayanga                   154.65        17.48            0.40                  -
+  Magerwa                      480.88       113.58          17.95                0.56
+                                           Agricultural land [ha]
+  Bishenyi                   1,222.54     1,401.11         366.36               19.56
+  Rusizi                       658.87       177.01          17.68                0.25
+  Rwabayanga                   263.06        98.74          24.05                1.28
+  Magerwa                       69.51        33.58          12.24                1.20
+                                              Wetland [ha]
+  Bishenyi                     261.44         3.48            0.50               0.27
+  Rusizi                        97.57         2.52            0.41                  -
+  Rwabayanga                    54.56         1.99            0.50               0.14
+                                                                                    -
+  Magerwa                       22.62            0.25
+
+                                              National roads (km)
+  Bishenyi                       5.86           2.06              -                -
+  Rusizi                         7.00           2.40           0.39              0.04
+  Rwabayanga                     2.82          0.71               -                -
+  Rwandex-Magerwa                2.14              -              -                -
+                                              District roads (km)
+  Bishenyi                          -              -              -                   -
+  Rusizi                         6.54           0.92           0.25                   -
+  Rwabayanga                     0.28           0.64           0.30                   -
+  Rwandex-Magerwa                   -              -              -                   -
+                                               Other roads (km)
+  Bishenyi                      35.44          17.15           2.91             0.37
+  Rusizi                        61.85          10.91           1.40               -
+  Rwabayanga                    29.10           7.27           1.32             0.12
+  Rwandex-Magerwa               62.86          13.43           1.15             0.10
+
+
+
+
+                                                                                      28
+

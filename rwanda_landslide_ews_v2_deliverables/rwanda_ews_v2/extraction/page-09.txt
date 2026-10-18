@@ -1,0 +1,48 @@
+2.3    Step 1: Comprehensive multi-temporal landslide inventory
+
+2.3.1 Objective
+The goal of this step is to identify where and when landslides occurred, the types of slope
+failure processes, the level of ground deformation activity, the history and origin of the
+landslides (causes and triggers). Concerning the latter point, understanding the role of
+human disturbances in the slope failure is important.
+
+2.3.2 Method
+The landslide inventory was built from a careful and detailed 3D (elevation exaggeration of 1)
+visual interpretation of Google Earth images. All images used in the analysis are of very-high
+spatial resolution, ranging from 30 to 60 cm. The images in Google Earth are provided by
+either © DigitalGlobe or © CNES/© Airbus and they were captured between 2000 and 2021.
+The analysis of Google Earth images has proven to be a successful and reliable method to map
+landslides (Fisher, et al., 2012). The reliability of the approach has been demonstrated by
+Depicker et al. (2020a; 2020b) for the Lake Kivu region, including the western part of Rwanda.
+The satellite images were analyzed in parallel with the photographs taken in the ﬁeld.
+The term landslide encompasses a large range of gravity-driven mass movements, that
+differ by their failure mechanisms, size, depth, velocity and the material mobilised (Lu and
+Godt, 2013; Hungr et al., 2014). We used the updated Varnes’ classiﬁcation (Hungr et al.
+2014) for deﬁning the landslide typology; the classiﬁcation schemes being the most widely
+used. Deﬁning the landslide typology is a key step when predicting the associated risk as the
+variety of the slope processes (size, speed, origin, etc.) is large and hence the types of
+impacts (Corominas et al., 2014).
+The landslide depth is an important element when analysing landside causes and triggers;
+the occurrence of shallow landslides being for instance much more sensitive to disturbances
+of the landscape surface and rainfall conditions than deep-seated landslides (Sidle and
+Bogaard 2016). For example, the removal of trees, due to either human or natural causes,
+decreases the slope stability through the alteration of hydrological and geotechnical
+conditions, such as the loss in soil cohesion due to tree root decay (Sidle et al., 2006; Sidle
+and Bogaard, 2016). Deep-seated landslides, both rapid and slow-moving, are also
+controlled, like the shallow landslides, by water routing through the regolith (see Text Box
+1). Slow, deep-seated landslides (e.g., slides and earthﬂows; Figure 20) typically require an
+extended period of water recharge to initiate movement, while rapid, deep-seated failures
+may initiate by either direct response to individual storms or prolonged water inputs (Sidle
+and Bogaard, 2016). The depth of the surface of rupture of shallow landslides is usually
+deﬁned in the range of 2-5 m (Keefer, 1984; Mackey and Roering, 2011; Sidle and Bogaard,
+2016). Here, we considered landslides to be shallow when their estimated depth is < 5 m.
+We estimated the relative depth of the landslides visually analysing the shape and size of
+the landslide scarp and deposits in Google Earth imagery. We have validated such an visual
+analysis through in situ ﬁeld observations in similar context in Rwanda and the Kivu Rift
+(Depicker et al., 2020a, 2020b). The landslides occurring in mining and quarrying sites were
+all classiﬁed as quarrying landslides, regardless of their depth.
+
+
+
+                                                                                          8
+

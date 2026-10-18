@@ -1,0 +1,47 @@
+Text Box 2: Rejuvenated vs relict landscapes
+
+
+ The concept of rejuvenated landscape is detailed in the Depicker et al. (2020a). This is a
+ geomorphological parameter that is commonly not used in landslide susceptibility assessment
+ (Reichenbach et al., 2018). One of the novelties of the research carried out by Depicker et al.
+ (2020a) is to highlight the importance of considering such a geomorphological context when
+ studying the landslide distribution in tectonically active landscapes. In short, the four
+ sub-catchments that we study here are situated within a mountain range – namely the North
+ Tanganyika - Kivu Rift region in the western branch of the East African Rift - that has been
+ developing through rifting over the last ca. 11 Ma. The associated tectonic uplift has created a
+ speciﬁc structure where the center of the mountain range has “collapsed”. This collapsed part
+ is where Lake Kivu is located. In terms of geomorphological context, the hillslopes draining
+ towards Lake Kivu are younger that the hillslopes draining off the mountain range. The
+ younger hillslopes are called “rejuvenated landscape” and the older hillslopes “relict
+ landscapes”. The difference of topographic age is highly associated with the incision of the
+ rivers in the landscapes and the presence of knickpoints; i.e. dynamic convex oversteepening
+ of the river longitudinal proﬁles (a waterfall being an knickpoint). These hillslope age and
+ incision differences have an implication on, e.g. the weathering of the rock, and hence the
+ availability of regolith material (i.e. the slope material where most shallow landslides are
+ usually occurring). In addition, the mountain morphology is associated with climatic conditions
+ that are different whether we are in the rejuvenated or in the relict landscapes. The
+ Kamembe-Gihundwe sub-catchment is located in the rejuvenated landscape, while the other
+ three are in the relict landscape.
+
+
+
+2.4.3 Results
+
+Note: for further technical details on the application of the logistic regression and all the other
+statistical analysis performed for the landslide susceptibility assessment we encourage the
+reader to look at the paper published by Depicker et al (2020b) for the lake Kivu region as we
+follow their approach. Below are the main outcomes of our analysis in Rwanda.
+
+2.4.3.1 Calibration and validation of the landslide susceptibility model
+
+We used logistic regression to predict the presence/absence (1/0) of landslides. Logistic
+regression is an excellent data-driven multivariate modelling tool to predict binary events
+(Hosmer and Lemeshow, 2000), and is applied more than any other technique in the context
+of landslide susceptibility modelling (Reichenbach et al., 2018). The dependent variable will
+take values in a continuous range between 0 and 1.
+
+
+
+
+                                                                                             17
+

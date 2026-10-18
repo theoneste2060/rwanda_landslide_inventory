@@ -1,0 +1,48 @@
+2.5.3.2 How to read the hazard maps – what the hazard scenario means
+When looking at the hazard map, the rate class (365 m² year-1 km-2) means that for an area of
+1 km² (i.e. 106 m2) that belongs to the top 10% of the landscape that is the most susceptible to
+shallow landslide initiations in western Rwanda, 365 m² will be affected by the initiation of a
+slope failure every year. One can say that in ~2700 years; each pixel of this hazard area has the
+probability of being affected by the initiation of landslides. Note that this scenario is only here
+for the initiation of the landsides (i.e., the source area of the landslide) and does not consider
+the total area of the landslides (i.e. the source area + the impact zones – Figure 3 b). For every
+m² of new landslide initiation, 5 m² of landslide impacts are to be assumed (see description of
+inventory in Step 2).
+We can therefore say that every year, for an area of 1 km2, 6*365 m² will be impacted by
+landslides. In other words, this represents 0.2 % of the area that are impacted every year.
+Knowing that it is based on an inventory from satellite images from which the identiﬁcation of
+the landslides is always an underestimation (see earlier sections), we can fairly say that, overall,
+in the highest hazard class, every year about 1% of the land is impacted by the occurrence of
+new landslides.
+
+Table 7: Areas per landslide hazard rate class per site
+                         Bishenyi                Rwabayanga                  Rusizi            Rwandex-Magerwa
+  Hazard rate
+                             Percentage               Percentage               Percentage              Percentage
+     class       Area                      Area                     Area                     Area
+   2         2      2        of total         2       of total         2       of total         2      of total
+ (m /year/km     (km )                     (km )                    (km )                    (km )
+                             area                     area                     area                    area
+            1       21.06          44.6%        5.34        68.3%      15.98         75.9%        6.77       69.7%
+           18       19.54          41.3%        1.84        23.5%        4.40        20.9%        2.19       22.5%
+           90         5.96         12.6%        0.59         7.5%        0.66         3.1%        0.68        7.0%
+          365         0.71          1.5%        0.05         0.6%        0.02         0.1%        0.08        0.8%
+
+
+The hazard class of 365 m²/year/km2 that corresponds to the highest value in western
+Rwanda, corresponds to a very high hazard for the Lake Kivu region in general (Depicker et
+al., 2020a). When looking at the global scale, the highest hazard that we ﬁnd in this study is
+relatively moderate (Larsen and Montgomery, 2010; Broeckx et al., 2020). However, such
+an assessment must be considered with care since environmental conditions of other
+regions can be highly different.
+In Step 1, we explained that, in the Lake Kivu region, clusters of landslides (sometimes with
+thousands of slope failures) can occur and that their spatio-temporal distribution is random
+on a few years basis since they are associated with extreme convective rainfall events.
+This randomness must be kept in mind and an area that is not highlighted as hazard-prone
+can still be impacted by dramatic landslide events.
+
+
+
+
+                                                                                                             26
+

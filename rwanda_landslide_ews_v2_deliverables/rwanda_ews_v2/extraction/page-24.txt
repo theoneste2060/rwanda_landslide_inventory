@@ -1,0 +1,34 @@
+2.5     Step 3: Landslide hazard assessment
+
+2.5.1 Objective
+
+The objective of this step is to assess of landslide occurrence (and associated magnitude)
+within a certain time frame and area. As explained earlier this assessment is carried out for the
+initiation of the shallow landslides alone. The hazard is therefore estimated for the landslide
+source area.
+
+2.5.2 Method
+
+We linked the landslide susceptibility (Step 2) to landslide hazard by assessing the average
+hazard in different sub regions that are delineated according to their susceptibility (Figure
+6). The ﬁrst sub region encompasses all areas with a landslide susceptibility values between
+0 and 0.1, the second sub region all areas with an LSS value between 0.1 and 0.2, and so on.
+Concretely, for each susceptibility class, the total affected area by the landslide sources
+(Figure 3 b) that have occurred over the whole period of observation (about 20 years – see
+Step 1) is averaged yearly. The resulting value provides a landslide affected area in m²
+year-1 km-2 , i.e. a landslide rate. The combination of a susceptibility (where a landslide
+occur), with a rate (how often and how strong) characterizes the hazard (Guzzetti et al.,
+1999; Glade et al., 2006). More details on the assessment of the hazard can be found in
+Depicker et al. (in review).
+
+
+
+
+Figure 6: Relationship between landslide susceptibility and
+landslide affected area (i.e. landslide rate)
+
+
+
+
+                                                                                           23
+

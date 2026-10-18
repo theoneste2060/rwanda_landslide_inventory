@@ -1,0 +1,13 @@
+{
+  "paired_auc_drop_random_minus_spatial_95ci": [
+    0.0009639412251628759,
+    0.005166227123294301
+  ],
+  "paired_average_precision_drop_random_minus_spatial_95ci": [
+    0.00012703309907663234,
+    0.009719752595123475
+  ],
+  "valid_spatial_block_bootstrap_draws": 1000,
+  "bootstrap_unit": "whole spatial blocks, sampled with replacement",
+  "interpretation": "Uncertainty interval for this prepared dataset and split scheme; not a guarantee of future skill."
+}

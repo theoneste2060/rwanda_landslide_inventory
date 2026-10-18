@@ -1,0 +1,54 @@
+      1
+EXECUTIVE SUMMARY
+
+
+1.1       Landslide risk assessment
+The landslide risk assessment was undertaken for the sub-catchments of Rwandex-Magerwa,
+Bishenyi, Rwabayanga and Rusizi. The deliverable has been landslide risk maps for each
+watershed (refer to pdf maps accompanying report). Maps are classiﬁed in several classes.
+The landslide risk maps are provided in the form:
+          • Landslide inventories (included in accompanying PDF maps);
+          • Landslide susceptibility maps (included in accompanying PDF maps);
+          • Landslide hazard maps (included in accompanying PDF maps);
+          • Exposure databases (included in report)
+
+                        Bishenyi                 Rwabayanga                  Rusizi            Rwandex-Magerwa
+ Susceptibility            Percentage                Percentage                Percentage             Percentage
+                  Area                      Area                     Area                     Area
+     Class            2    of total             2    of total            2     of total           2   of total
+                  (km )                     (km )                    (km )                    (km )
+                           area                      area                      area                   area
+ <= 0.2              9.87        20.9%         2.54        32.5%        9.50         45.1%       4.45       45.8%
+ 0.2 - 0.45         14.85        31.4%         3.06        39.1%        6.55         31.1%       2.83       29.1%
+ 0.45 - 0.55        12.47        26.4%         1.20        15.3%        3.31         15.7%       1.29       13.3%
+ 0.55 - 0.8          7.45        15.8%         0.67         8.6%        1.45          6.9%       0.73        7.5%
+ 0.8 - 1.0           2.62         5.5%         0.35         4.5%        0.25          1.2%       0.41        4.2%
+
+
+
+Results for landslide susceptibility are summarised in the table above. The continuous
+values of the susceptibility models are classiﬁed into ﬁve unequally-spaced susceptibility
+classes. The category [0.80 – 1.0] presents the class that is the most prone to landsliding.
+The opposite class is ≤ 0.2]. The class ]0.45-0.55] present the zone where the uncertainty on
+the model classiﬁcation performance is the highest (Rossi et al., 2010).
+
+
+Results for landslide hazard are summarised in the table below.
+
+                          Bishenyi                Rwabayanga                  Rusizi            Rwandex-Magerwa
+  Hazard rate
+                              Percentage               Percentage               Percentage              Percentage
+     class        Area                      Area                     Area                     Area
+   2         2       2        of total         2       of total         2       of total         2      of total
+ (m /year/km      (km )                     (km )                    (km )                    (km )
+                              area                     area                     area                    area
+              1      21.06          44.6%        5.34        68.3%      15.98         75.9%        6.77       69.7%
+             18      19.54          41.3%        1.84        23.5%        4.40        20.9%        2.19       22.5%
+             90        5.96         12.6%        0.59         7.5%        0.66         3.1%        0.68        7.0%
+            365        0.71          1.5%        0.05         0.6%        0.02         0.1%        0.08        0.8%
+
+
+
+
+                                                                                                              4
+
